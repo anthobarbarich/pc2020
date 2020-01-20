@@ -1,0 +1,44 @@
+{
+  "name": "paradisecityhugo",
+  "version": "1.0.0",
+  "description": "paradisecity site with hugo and netlify cms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthobarbarich/paradisecity.git"
+  },
+  "keywords": [
+    "paradisecity",
+    "hugo",
+    "netlify",
+    "cms"
+  ],
+  "author": "studiocolibri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthobarbarich/paradisecity/issues"
+  },
+  "homepage": "https://github.com/anthobarbarich/paradisecity#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-webp": "^4.0.1"
+  },
+  "dependencies": {
+    "gm": "^1.23.1",
+    "graphicsmagick": "0.0.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-image-resize": "^0.13.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-newer": "^1.4.0",
+    "imagemagick": "^0.1.3",
+    "imagemin": "^6.1.0",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-webp": "^5.0.0",
+    "intersection-observer": "^0.5.1"
+  }
+}
