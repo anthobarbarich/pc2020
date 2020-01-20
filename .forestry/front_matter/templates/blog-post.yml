@@ -14,3 +14,5 @@ fields:
 - type: file
   name: thumbnail
   label: thumbnail
+pages:
+- content/news/ticket-sale-starts-on-february-12th.md
