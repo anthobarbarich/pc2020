@@ -1,0 +1,333 @@
+backend:   
+  name: git-gateway   
+  branch: master # Branch to update (optional; defaults to master)
+
+media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "news" # Used in routes, e.g., /admin/collections/blog
+    label: "News" # Used in the UI
+    folder: "content/news" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Food"
+        name: "food"
+        file: "content/food.md"
+        fields:
+          - label: Type
+            name: type
+            widget: hidden
+            default: food
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: food
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+          - label: Restos
+            name: restos
+            widget: list
+            fields:
+              - label: Resto
+                name: resto
+                widget: object
+                fields:
+                  - {label: Title, name: title, widget: string, required: false}
+                  - {label: Description, name: description, widget: markdown, required: false}
+                  - {label: Image, name: img, widget: image, required: false}
+                  
+      - label: "Green"
+        name: "green"
+        file: "content/green.md"
+        fields:
+          - label: Type
+            name: type
+            widget: hidden
+            default: green
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: green
+          - label: Title
+            name: title
+            widget: string
+          - label: Opengraph
+            name: opengraph
+            widget: image
+            required: false
+          - label: Body
+            name: body
+            widget: markdown
+          - label: Steps
+            name: steps
+            widget: list
+            fields:
+              - label: Step
+                name: step
+                widget: object
+                fields:
+                  - {label: Title, name: title, widget: string, required: false}
+                  - {label: Description, name: description, widget: markdown, required: false}
+                  - {label: Image, name: img, widget: image, required: false}     
+      - label: "Practical Test"
+        name: "practicaltest"
+        file: "content/practicaltest.md"
+        fields:
+          - label: Type
+            name: type
+            widget: hidden
+            default: practical
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: practical
+          - label: Title
+            name: title
+            wid	get: string
+          - label: Body
+            name: body
+            widget: markdown
+          - label: Category
+            name: category
+            widget: list
+            fields:
+              - label: Qa
+                name: qa
+                widget: list
+                fields:
+                  - {label: Question, name: question, widget: string, required: false}
+                  - {label: Answer, name: answer, widget: markdown, required: false}
+  
+      - label: "Contact"
+        name: "contact"
+        file: "content/contact.md"
+        fields:
+          - label: Type
+            name: type
+            widget: hidden
+            default: food
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: contact
+          - label: Opengraph
+            name: opengraph
+            widget: image
+            required: false
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+            
+      - label: "Tickets"
+        name: "tickets"
+        file: "content/tickets.md"
+        fields:
+          - label: Type
+            name: type
+            widget: hidden
+            default: static
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: tickets
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+            
+      - label: "Line Up"
+        name: "lineup"
+        file: "content/lineup.md"
+        fields:
+          - {label: UniqueId, name: uniqueid, widget: hidden, default: artists}
+          - {label: Type, name: type, widget: hidden, default: lineup}
+          - {label: Title, name: title, widget: hidden}
+          - {label: Intro, name: intro, widget: hidden}
+          - label: Opengraph
+            name: opengraph
+            widget: image
+            required: false
+          - label: Team
+            name: team
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Position, name: position, widget: select, options: ["Love", "Contrair", "Paradise City Live", "Under My Garage", "Silo", "Abstrkt", "Play Label", "Nico Morano & Friends", "Giegling"]}
+              - {label: Day, name: day, widget: select, options: ["Friday", "Saturday", "Sunday"]}
+              - {label: Time, name: time, widget: datetime, dateFormat: true, timeFormat: false, format: "HH:mm"}
+              - {label: End, name: end, widget: datetime, dateFormat: true, timeFormat: false, format: "HH:mm"}
+              - {label: Photo, name: photo, widget: image}
+              - {label: Soundcloud, name: soundcloud, widget: string}
+              - {label: Link, name: linkartist, widget: string}
+            
+      - label: "Homepage"
+        name: "index"
+        file: "content/_index.md"
+        fields:
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: home
+          - label: Thumb Video
+            name: imgvideo
+            widget: image
+          - label: Body
+            name: body
+            widget: markdown
+          - label: Line-up Title
+            name: lineuptitle
+            widget: string
+          - label: Line-up text
+            name: lineuptxt
+            widget: markdown
+              
+      - label: "Transport"
+        name: "transport"
+        file: "content/transport.md"
+        fields:
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: transport
+          - label: Opengraph
+            name: opengraph
+            widget: image
+            required: false
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+            
+      - label: "Partners"
+        name: "partners"
+        file: "content/partners.md"
+        fields:
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: partners
+          - label: Partner
+            name: partner
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Link, name: position, widget: string}
+              - {label: Photo, name: photo, widget: image}
+                          
+      - label: "Practical"
+        name: "practical"
+        file: "content/practical.md"
+        fields:
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: practical
+          - label: Type
+            name: type
+            widget: hidden
+            default: practical
+          - label: Title
+            name: title
+            widget: string
+            default: practical
+          - label: Opengraph
+            name: opengraph
+            widget: image
+            required: false
+          - label: Body
+            name: body
+            widget: markdown
+          - label: Festival Info
+            name: festival
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Transport Info
+            name: transport
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Tickets Info
+            name: tickets
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Money Cashless Festival
+            name: money
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Money Cashless Festival
+            name: money
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Safety, Medical Help
+            name: safety
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Camping
+            name: camping
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Others
+            name: others
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Application
+            name: application
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}              
+          - label: Lost & Found
+            name: lostfound
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Volunteers & Jobs
+            name: volunteers
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Press Coverage
+            name: press
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
