@@ -525,6 +525,7 @@ p.greentxtblock{
     font-size: 32px;
     line-height: 30px;
     text-transform: uppercase;
+    text-align: center;
 }
 .section-intro.intro {
     margin-bottom: 24px;
@@ -1197,6 +1198,37 @@ svg:not(:root) {
     line-height: 40px;
     color: #fa8d76;
 }
+.txtctawhite{
+    line-height: 40px;
+    color: white;
+}
+div.containerorange>a{
+    background-color: #fa8d76;
+    PADDING: 50PX 230PX;
+}
+div.containerorange{
+    position: relative;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+}
+.btn-hero-orange{
+    position: relative;
+    margin-top: 7px;
+    padding: 20px 40px;
+    border-radius: 32px;
+    background-color: white;
+    -webkit-transition: -webkit-transform 200ms ease;
+    transition: -webkit-transform 200ms ease;
+    transition: transform 200ms ease;
+    transition: transform 200ms ease, -webkit-transform 200ms ease;
+    color: #fa8d76;
+    font-size: 24px;
+    line-height: 21px;
+    text-transform: uppercase;
+}
 .homefixednav {
     position: fixed;
     left: 0px;
@@ -1301,6 +1333,9 @@ color: #fa8d76;
 }
 .textblock {
     margin-top: 42px;
+    margin: auto;
+    width: 60%;
+    margin-bottom: 200px;
 }
 .textblock p {
     line-height: 2em;
@@ -1360,9 +1395,9 @@ body.news a.navlink-black.w-nav-link[href="/news"], body.green a.navlink-black.w
     display: -ms-flexbox;
     display: flex;
     overflow: hidden;
-    width: 30%;
-    height: 250px;
-    margin-right: 20px;
+    width: 20%;
+    height: 220px;
+    margin: 2.5%;
     margin-bottom: 37px;
     border-radius: 5px;
     background-position: 0 100%, 0 0, 50% 50%;
@@ -1373,6 +1408,18 @@ body.news a.navlink-black.w-nav-link[href="/news"], body.green a.navlink-black.w
     transition: -webkit-transform .2s ease;
     transition: transform .2s ease;
     transition: transform .2s ease, -webkit-transform .2s ease;
+}
+a.w-inline-block.news{
+    width: 20%;
+    margin: 1.8%;
+    display: inline-flex;
+    flex-direction: column;
+}
+img.image4tiles{
+    border-radius: 30px;
+    margin: 0% 1.8%;
+    height: 200PX;
+    WIDTH: 95%;
 }
 .containartist {
     position: relative;
@@ -1599,15 +1646,21 @@ html.w-mod-js *[data-ix="boyload"] {
     display: inline-block;
     text-align: center;
 }
-form.contactform input {
+form.contactform input, form.contactform textarea {
     height: 60px;
-    width: 70%;
-    padding: 20px;
+    width: 100%;
+    border-radius: 30PX;
+    padding: 20px 30px;
     font-weight: 200;
     border: 1px solid #e2e2e2
 }
+form.contactform button{
+    position: absolute;
+    left: 68%;
+    margin-top: 0px !important;
+}
 form.contactform label {
-    padding: 10px;
+        padding: 0px 10PX 0PX 20PX;
 }
 form.contactform textarea {
     height: 60px;
