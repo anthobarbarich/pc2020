@@ -1,4 +1,10 @@
 ---
 label: Chats
 hide_body: false
-fields: []
+fields:
+- name: color
+  type: color
+  label: color
+  config:
+    required: false
+    color_format: Hex
