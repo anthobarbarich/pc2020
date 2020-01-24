@@ -21,7 +21,7 @@ a {
 }
 .body {
     min-height: 1200px;
-    background-color: #fffdf8;
+    background-color: #FD97B6;
     font-family: Montserrat, sans-serif;
 }
 .body.news.navlink-black.w-nav-link a[href="/news"] {
@@ -144,8 +144,8 @@ a {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    padding-right: 100px;
-    padding-left: 100px;
+    padding-right: 150px;
+    padding-left: 150px;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
     -webkit-flex-direction: row;
@@ -806,10 +806,8 @@ p.section-lineup{
     font-size: 15px;
     text-transform: uppercase;
     position: relative;
-    border-radius: 5px;
     right: 40px;
     z-index: 99;
-    margin-left: 12px;
     margin-bottom: 30px;
     background-color: #fa8d76;
     box-shadow: 1px 1px 24px 0 rgba(0, 0, 0, .12);
@@ -835,7 +833,12 @@ p.section-lineup{
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
+    border-radius: 30px;
+    padding: 30px;
     transform: scale(.7);
+    box-shadow: 0 0 10px #ccc;
+    -webkit-box-shadow:0 0 10px #ccc;
+    -moz-box-shadow: 0 0 10px #ccc;
 }
 svg:not(:root) {
     overflow: visible;
@@ -863,7 +866,6 @@ svg:not(:root) {
 }
 #myBtnContainer {
     text-align: center;
-    margin-top: 10px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -1423,6 +1425,7 @@ img.image4tiles{
 }
 .containartist {
     position: relative;
+    margin: 0% 2.5%;
     width: 30%;
     margin-top: 0;
     margin-bottom: 40px;
@@ -1430,6 +1433,9 @@ img.image4tiles{
     transition: -webkit-transform 200ms ease;
     transition: transform 200ms ease;
     transition: transform 200ms ease, -webkit-transform 200ms ease;
+}
+div.containartist{
+    width: 20%;
 }
 
 iframe {
@@ -1513,13 +1519,21 @@ iframe {
     -ms-transform: scale(1.06);
     transform: scale(1.06);
 }
+div.detailsartist{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 100%;
+    padding: 0px 15px;
+}
 h3.daytxt {
     z-index: 99;
     background-color: #fa8d76;
     color: white;
     font-size: 15px;
-    padding: 3px 6px;
-    border-radius: 2px;
+    padding: 6PX 10PX;
+    margin-left: 3%;
+    border-radius: 10PX;
     line-height: normal;
     font-size: 16px;
     transform: translateY(-2px);
@@ -2129,10 +2143,8 @@ a.blogthumb.w-inline-block {
     font-size: 15px;
     text-transform: uppercase;
     position: relative;
-    border-radius: 5px;
     right: 0;
     z-index: 99;
-    margin-left: 12px;
     margin-bottom: 16px;
     background-color: #fa8d76;
     box-shadow: 1px 1px 24px 0 rgba(0, 0, 0, .12);
