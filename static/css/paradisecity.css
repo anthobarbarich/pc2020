@@ -1456,6 +1456,15 @@ color: #FF804B;
     color: #fff;
     font-size: 18px;
 }
+.bgfooter{
+    background-image: url(/images/bgmiddle1-1800.png) ; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imgpartnersfit{
+    width: 15%;    margin: auto;
+}
 .lastnav:hover {
     color: #fff;
 }
@@ -1728,6 +1737,13 @@ html.w-mod-js *[data-ix="appearmenu"] {
     -ms-transform: translate(0px, -61px);
     transform: translate(0px, -61px);
 }
+div.bgfooterlogo{
+    background : url('/images/bgfoot-test.png') no-repeat;    
+     background-size: contain;   
+     margin-top: -100px;
+     padding-top: 100px; background-size: cover;
+      width: 100%;
+}
 html.w-mod-js *[data-ix="appearright"] {
     opacity: 0;
     -webkit-transform: translate(87px, 0px);
@@ -1795,9 +1811,10 @@ form.contactform textarea {
     background-color: #fff;
     box-shadow: 1px 1px 50px 0 rgba(0, 0, 0, .22);
 }
-/*.smbuttons:hover {
-		width: 400px;
-}*/
+
+.hidden {
+    display: none;
+}
 
 .smicone {
     bottom: 10px;
@@ -2035,11 +2052,13 @@ input.newsletter-submit:hover, input.newsletter-submit:active {
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
 }
+.hidden {
+    display: block;
+}
 .brand {
     position: relative;
     display: block;
     width: 200px;
-    margin-top: 54px;
     margin-right: auto;
     margin-left: auto;
     float: none;
@@ -2215,6 +2234,30 @@ a.blogthumb.w-inline-block {
     padding-right: 10px;
     padding-left: 10px;
 }
+bgfooter{
+    background-image: url(/images/bgmiddle1-1800.png) ; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p.greentxtblock{
+    color: #456348;
+    text-shadow: 3px 3px 10px #BBBBBB;
+    font-size: 14X;
+    font-weight: 700;
+    line-height: 23px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.showdisplay{
+    display: none;
+}
+.bgup{
+    margin-top: 71px;    
+    background-image: none;
+    display: inline-flex;
+    flex-direction: column;
+}
 .container.split.paddingtop {
     padding-right: 20px;
     padding-left: 20px;
@@ -2226,6 +2269,21 @@ a.blogthumb.w-inline-block {
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+}
+.whiteBlock50 {
+    width: 90%;
+    margin: AUTO;
+    background-color: white;
+    border-radius: 30px;
+    padding: 10PX 30PX;
+    z-index: 100;
+}
+
+.parentcontainer {
+    display: inline-flex;
+    flex-direction: column;
+    width: 95%;
+    margin: auto;
 }
 #myBtnContainer {
     text-align: center;
@@ -2252,6 +2310,22 @@ a.blogthumb.w-inline-block {
     color: #fff;
     cursor: pointer;
     margin-bottom: 10px;
+}
+.section-partners{
+    margin: auto;
+    position: relative; 
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    MARGIN: auto;
+    text-align: center;
+    padding-top: 121px;
+    padding-bottom: 100px;
+}
+.imgpartnersfit{
+    width: 25%;
+    margin: 0PX 10PX;
 }
 .container.split.margin-bottom {
     -webkit-box-orient: vertical;
@@ -2290,6 +2364,9 @@ a.blogthumb.w-inline-block {
     font-size: 34px;
     text-align: center;
 }
+h1.heading{
+    margin-top: 240PX;
+}
 .nav-menu {
     height: 100vh;
     background-color: #fffdf8;
@@ -2313,18 +2390,27 @@ a.blogthumb.w-inline-block {
     line-height: 46px;
 }
 .btn-hero {
-    background-color: #fffdf8;
-    display: block;
+    background-color: white;
+    color: #FF804B;
+    padding: 15PX 20PX;
+    margin-top: 25px;
 }
 .btn-hero.reverse {
     margin-left: 0px;
+    width: 60%;
+}
+.hidden {
+    display: block;
+}
+.btn-home{
+    width: 60%;
+    font-size: 16px;
 }
 .brand {
     position: absolute;
     left: 50%;
     display: block;
     width: 190px;
-    margin-top: 50px;
     margin-right: auto;
     margin-left: auto;
     padding-left: 0px;
@@ -2337,12 +2423,18 @@ a.blogthumb.w-inline-block {
     background-size: cover;
 }
 .block50 {
-    /* padding-right: 10px;
-    padding-left: 10px; */
- 
+    WIDTH: 90%;
+    MARGIN: AUTO;
+    background-color: transparent;
+    margin-bottom: 30px;
 }
 .block50.bgwhite {
     padding-right: 0px;
+}
+h3.section-lineup{
+    font-size: 20PX;
+    LINE-HEIGHT: 50px;
+    margin: auto;
 }
 .block50.padding-left {
     padding-right: 20px;
@@ -2362,9 +2454,10 @@ a.blogthumb.w-inline-block {
 .thumbvideo {
     border-radius: 20px;
     box-shadow: 0 0 50px -3px rgba(0, 0, 0, .27);
+    margin-top: 0;
 }
 .image {
-    border-radius: 0px;
+    border-radius: 20px;
 }
 
 .container.split.margin-bottom:nth-child(odd) {
@@ -2427,6 +2520,7 @@ a.blogthumb.w-inline-block {
     flex: 0 auto;
     -webkit-transition: none 0ms ease;
     transition: none 0ms ease;
+    margin-bottom: 20px;
 }
 .btcta.reverse:hover {
     -webkit-transform: none;
@@ -2435,6 +2529,7 @@ a.blogthumb.w-inline-block {
 }
 .btcta.rev {
     position: relative;
+    margin-bottom: 30px;
 }
 .section-green {
     padding-bottom: 62px;
@@ -2446,8 +2541,17 @@ a.blogthumb.w-inline-block {
     max-width: 300%;
 }
 .partnerimg {
-    width: 57px;
-    margin-right: 10px;
+    width: 80PX;
+    margin: 20PX 10PX;
+}
+div.bgfooterlogo{
+    background: url(/images/bgfoot-test.png) no-repeat;
+    background-size: contain;
+    margin-top: -100PX;
+    padding-top: 0px;
+    background-position-y: bottom;
+    background-size: contain;
+    width: 100%;
 }
 .image-2 {
     bottom: -30px;
@@ -2494,7 +2598,9 @@ a.blogthumb.w-inline-block {
 }
 .navbarblack {
     height: auto;
+    background-color: transparent;
     padding-top: 0px;
+    box-shadow: none;
 }
 .navlink-black {
     margin-left: 0px;
@@ -2510,6 +2616,18 @@ a.blogthumb.w-inline-block {
 .bradn2 {
     margin-top: 13px;
     margin-left: -3px;
+}
+div.containerorange>a{
+    PADDING: 20PX 10PX;
+    width: 100%;
+    display: inline-flex;
+    width: 100%;
+    flex-direction: column;
+}
+.txtctawhite {
+    line-height: 20px;
+    color: white;
+    font-size: 24px;
 }
 .block-icons {
     margin-top: 0px;
