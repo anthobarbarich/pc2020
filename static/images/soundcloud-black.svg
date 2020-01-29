@@ -1,2 +1,13 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" id="Bold" enable-background="new 0 0 24 24" height="512px" viewBox="0 0 24 24" width="512px" class="hovered-paths"><g><path d="m20.25 11c-.267 0-.529.029-.782.082-.337-3.409-3.222-6.082-6.718-6.082-.414 0-.75.336-.75.75v12c0 .414.336.75.75.75h7.5c2.069 0 3.75-1.681 3.75-3.75 0-2.067-1.681-3.75-3.75-3.75z" data-original="#000000" class="hovered-path active-path" data-old_color="#000000" fill="#575757"/><path d="m9 7.25v10.5c0 .414.336.75.75.75s.75-.336.75-.75v-10.5c0-.414-.336-.75-.75-.75s-.75.336-.75.75z" data-original="#000000" class="hovered-path active-path" data-old_color="#000000" fill="#575757"/><path d="m6 10.25v7.5c0 .414.336.75.75.75s.75-.336.75-.75v-7.5c0-.414-.336-.75-.75-.75s-.75.336-.75.75z" data-original="#000000" class="hovered-path active-path" data-old_color="#000000" fill="#575757"/><path d="m3 17.75c0 .414.336.75.75.75s.75-.336.75-.75v-7.5c0-.414-.336-.75-.75-.75s-.75.336-.75.75z" data-original="#000000" class="hovered-path active-path" data-old_color="#000000" fill="#575757"/><path d="m.75 18.5c.414 0 .75-.336.75-.75v-4.5c0-.414-.336-.75-.75-.75s-.75.336-.75.75v4.5c0 .414.336.75.75.75z" data-original="#000000" class="hovered-path active-path" data-old_color="#000000" fill="#575757"/></g> </svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Bold" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<path d="M432,234.7c-5.7,0-11.3,0.6-16.7,1.7c-7.2-72.7-68.7-129.7-143.3-129.7c-8.8,0-16,7.2-16,16v256c0,8.8,7.2,16,16,16h160
+		c44.1,0,80-35.9,80-80C512,270.6,476.1,234.7,432,234.7z"/>
+	<path d="M192,154.7v224c0,8.8,7.2,16,16,16c8.8,0,16-7.2,16-16v-224c0-8.8-7.2-16-16-16C199.2,138.7,192,145.8,192,154.7z"/>
+	<path d="M128,218.7v160c0,8.8,7.2,16,16,16s16-7.2,16-16v-160c0-8.8-7.2-16-16-16S128,209.8,128,218.7z"/>
+	<path d="M64,378.7c0,8.8,7.2,16,16,16s16-7.2,16-16v-160c0-8.8-7.2-16-16-16s-16,7.2-16,16V378.7z"/>
+	<path d="M16,394.7c8.8,0,16-7.2,16-16v-96c0-8.8-7.2-16-16-16s-16,7.2-16,16v96C0,387.5,7.2,394.7,16,394.7z"/>
+</g>
+</svg>
