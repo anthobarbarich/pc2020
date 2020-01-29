@@ -27,8 +27,66 @@ a {
 .body.news.navlink-black.w-nav-link a[href="/news"] {
     color: red;
 }
+.bgup{
+    background-image: url(/images/bgup1-1800.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 100px;
+}
+#leavesleft{
+    POSITION: absolute;
+    left: 0;    
+    padding-top: 200px;
+    width: 10%;
+}
+#leavesleftmiddle{
+    position: absolute;
+    left: 780PX;
+    width: 13%;
+    z-index: 90;
+}
+#treeleft{
+    POSITION: absolute;
+    left: 0;
+    top: 2995PX;
+    padding-top: 200px;
+    width: 30%;
+    z-index: 100;
+}
+#leaves2reverse{
+    POSITION: absolute;
+    left: 835PX;
+    TOP: 1200PX;
+    padding-top: 200px;
+    z-index: 99;
+}
+#leaves3{
+    POSITION: absolute;
+    left: 835PX;
+    TOP: 800PX;
+    padding-top: 200px;
+    z-index: 99;
+    width: 10%;
+}
+#leaves1reverse{
+    POSITION: absolute;
+    right: 0PX;
+    padding-top: 200px;
+    z-index: 99;
+    width: 10%;
+}
+#leaves1reversebottom{
+    POSITION: absolute;
+    right: 0PX;
+    top: 1500PX;
+    padding-top: 200px;
+    z-index: 99;
+    width: 14%;
+}
 .body.home {
     display: block;
+
     margin-right: auto;
     margin-left: auto;
     -webkit-box-orient: horizontal;
@@ -47,10 +105,7 @@ a {
     -webkit-align-items: flex-start;
     -ms-flex-align: start;
     align-items: flex-start;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(10, 93%, 72%, .86)), to(hsla(10, 93%, 72%, .86))), url('../images/texture.jpg'), -webkit-gradient(linear, left top, left bottom, from(#f5c3a3), to(#FF804B));
-    background-image: linear-gradient(180deg, hsla(10, 93%, 72%, .86), hsla(10, 93%, 72%, .86)), url('../images/texture.jpg'), linear-gradient(180deg, #f5c3a3, #FF804B);
-    background-position: 0px 0px, 50% 50%, 0px 0px;
-    background-size: auto, auto, auto;
+    background-color:#FD97B6;
     font-family: Montserrat, sans-serif;
 }
 .container {
@@ -278,7 +333,7 @@ a {
 }
 .heading-2 {
     margin-top: 0px;
-    color: #ffd6cd;
+    color: white;
     font-size: 57px;
     line-height: 66px;
     text-transform: uppercase;
@@ -298,16 +353,35 @@ a {
     line-height: 21px;
     text-transform: uppercase;
 }
+.btn-home{
+    position: relative;
+    width: 20%;
+    color: black;
+    margin-top: 7px;
+    padding: 20px 40px;
+    border-radius: 32px;
+    background-color: WHITE;
+    COLOR: BLACK;
+    transition: -webkit-transform 200ms ease;
+    transition: transform 200ms ease;
+    transition: transform 200ms ease, -webkit-transform 200ms ease;
+    color: #fff;
+    font-size: 24px;
+    line-height: 21px;
+    text-transform: uppercase;
+    text-align: center;
+}
 .btn-hero:hover {
     -webkit-transform: scale(1.06);
     -ms-transform: scale(1.06);
     transform: scale(1.06);
 }
 .btn-hero.reverse {
-    margin-left: 12px;
-    border: 1px solid #fff;
-    background-color: transparent;
-    color: #fff;
+       width: 20%;
+       text-align: center;
+       border: 1px solid #fff;
+       background-color: transparent;
+       color: #fff;
 }
 .brand {
     margin-top: 3px;
@@ -337,6 +411,7 @@ margin: 0% 2.5%;
 border-radius: 30px;
 max-width: 100%;
 max-height: 100%;
+z-index: 20;
 }
 
 .block50.bgwhite {
@@ -388,16 +463,17 @@ max-height: 100%;
 }
 .whiteBlock50{
     width: 45%;
-    margin: 0% 2.5%;
+    margin: 0% 0% 0% 5%;
     background-color: white;
     border-radius: 30px;
     padding: 25px 50PX;
+    z-index: 100;
 }
 .section-heading {
     margin-bottom: 25px;
     font-family: Montserrat, sans-serif;
     color: #000000;
-    font-size: 13px;
+    font-size: 18px;
     line-height: 23px;
     text-transform: uppercase;
 }
@@ -435,17 +511,17 @@ max-height: 100%;
     border-radius: 25px;
 }
 .txtblock {
-    color: #5c5c5c;
-    font-size: 14px;
-    line-height: 27px;
+    color: black;
+    font-size: 17PX;
+    line-height: 42PX;
     font-weight: 400;
 }
 p.greentxtblock{
     color: #456348;
     text-shadow: 3px 3px 10px #BBBBBB;
-    font-size: 12px;
+    font-size: 16PX;
     font-weight: 700;
-    line-height: 18px;
+    line-height: 25px;
     font-weight: 900;
     text-transform: uppercase;
 }
@@ -700,8 +776,8 @@ p.greentxtblock{
 }
 .parentcontainer{
     display: inline-flex; 
-    flex-direction: row; 
-    margin: 50px 2.5%;
+    flex-direction: row;     
+    margin: 50px 2.5% 107PX 2.5%;
     width: 95%;
 
 }
@@ -745,8 +821,8 @@ p.greentxtblock{
 }
 .imagenews img{
     border-radius: 50px;
-    height: 200px;
-    width: 200px;
+    height: 250PX;
+    width: 250PX;
     margin-bottom: 20px;
 }
 div.buttonflex{
@@ -1498,11 +1574,10 @@ iframe {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 100px;
+    padding-top: 50px;
     z-index: 1;
+    margin-bottom: 50px;
 }
-
-
 
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {background-color: #ddd}
