@@ -1951,6 +1951,23 @@ input.newsletter-submit:hover, input.newsletter-submit:active {
 }
 
 @media (max-width: 991px) {
+    .menu-button {
+        color: white;
+        font-size: 35px;
+    }
+    .navbarblack {
+        display: inline-block;
+        height: auto;
+        margin-top: 0px;
+        background: transparent;
+        box-shadow: none;
+        height: auto;
+    background-color: TRANSPARENT;
+    /* padding-top: 57px; */
+    /* box-shadow: none; */
+    padding: 0px;
+    margin: 0px;
+    }
 .container {
     width: auto;
     max-width: 1200px;
@@ -2160,15 +2177,7 @@ a.blogthumb.w-inline-block {
 .blocknuages {
     margin-top: 50px;
 }
-.menu-button {
-    color: #FF804B;
-    font-size: 35px;
-}
-.navbarblack {
-    display: inline-block;
-    height: auto;
-    margin-top: 0px;
-}
+
 .bradn2 {
     width: 103px;
     margin-top: 9px;
@@ -2234,7 +2243,26 @@ a.blogthumb.w-inline-block {
     padding-right: 10px;
     padding-left: 10px;
 }
-bgfooter{
+.navbarblack {
+    display: inline-block;
+        height: auto;
+        margin-top: 0px;
+        background: transparent;
+        box-shadow: none;
+        height: auto;
+    background-color: TRANSPARENT;
+    /* padding-top: 57px; */
+    /* box-shadow: none; */
+    padding: 0px;
+    margin: 0px;
+}
+.navlink-black {
+    color: black;
+    text-align: center;
+    width: 100%;
+    margin: 0px 0px;
+}
+.bgfooter{
     background-image: url(/images/bgmiddle1-1800.png) ; 
     background-position: center;
     background-repeat: no-repeat;
@@ -2346,10 +2374,25 @@ p.greentxtblock{
     flex-wrap: wrap;
 }
 .container.nav {
-    text-align: center;
+    text-align: right;
+    height: 100%;
+    max-width: 479px;
+    /* margin-right: unset; */
+    margin-right: 0PX;
+    margin-left: 0px;
+    margin: 0 0 0 auto;
 }
 .ticketschoice {
     width: 100%;
+}
+.w-nav-overlay .w--nav-menu-open {
+    /* margin-top: -5px; */
+    height: 100%;
+}
+.w-nav-overlay {
+    margin-top: -5px;
+    height: 100%;
+    padding-top: 20px;
 }
 .nav-link {
     margin-left: 0px;
@@ -2581,32 +2624,24 @@ div.bgfooterlogo{
     width: 350%;
 }
 .menu-button {
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    z-index: 1000;
-    color: #fff;
+    color: white;
+    margin-top: 5px;
 }
-.menu-button.w--open {
-    background-color: #FF804B;
+.menu-button.w--open {    
+    background-color: transparent;
+    border-radius: 10px;
+}
+.w-nav[data-collapse="medium"] .w-nav-button {
+    display: block;
+    margin: 0 0 0 auto;
 }
 .menu-button.navok {
-    color: #FF804B;
+    color: white;
 }
 .menu-button._2 {
-    color: #FF804B;
+    color: white;
 }
-.navbarblack {
-    height: auto;
-    background-color: transparent;
-    padding-top: 0px;
-    box-shadow: none;
-}
-.navlink-black {
-    margin-left: 0px;
-    color: #555;
-    text-align: center;
-}
+
 .navlink-black.w--current {
     display: block;
 }
