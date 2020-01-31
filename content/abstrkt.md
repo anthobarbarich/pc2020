@@ -1,0 +1,6 @@
++++
+logo = ""
+name = "Abstrkt"
+photo = ""
+
++++
