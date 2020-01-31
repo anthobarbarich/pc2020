@@ -30,7 +30,7 @@ a {
 
 .body {
     min-height: 1200px;
-    background-color: #fffdf8;
+    background-color: #FFFAFA;
     font-family: Akrobat-Regular, sans-serif;
 }
 .body.news.navlink-black.w-nav-link a[href="/news"] {
@@ -504,19 +504,20 @@ a {
     opacity: 1;
 }
 .section-intro {
-    position: relative;
+position: relative;
     z-index: 2;
     display: block;
     overflow: hidden;
     margin-right: auto;
     margin-bottom: 44px;
     margin-left: auto;
-    padding-top: 0px;
+    padding-top: 22px;
     font-family: Akrobat;
     color: #414141;
     font-size: 32px;
     line-height: 30px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 
@@ -995,9 +996,11 @@ position: absolute;
 }
 .uppagebody {
     position: absolute;
-    top: -90px;
     right: 0;
-    width: 280px;
+}
+.uppagebody-left {
+    position: absolute;
+    left: 0;
 }
 .bradn2:hover {
     opacity: 0.8;
@@ -1265,10 +1268,10 @@ color: #fa8d76;
     line-height: 2em;
 }
 .lastnav {
-    margin-right: 0px;
+   margin-right: -2px;
     margin-left: 30px;
     padding-top: 20px;
-    padding-left: 20px;
+    padding-left: 30px;
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -1276,6 +1279,8 @@ color: #fa8d76;
     background-color: #fa8d76;
     color: #fff;
     font-size: 18px;
+    border-radius: 17px;
+    padding-right: 30px;
 }
 .lastnav:hover {
     opacity: 0.6;
