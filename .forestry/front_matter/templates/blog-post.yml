@@ -21,5 +21,6 @@ fields:
   name: thumbnail
   label: thumbnail
 pages:
+- content/news/daijdpizejozfjze.md
 - content/news/test.md
 - content/news/ticket-sale-starts-on-february-12th.md
