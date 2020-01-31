@@ -4,15 +4,15 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Stages
 - type: directory
   path: stages
   label: Stages
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - stages
-- type: heading
-  label: Stages
 - type: directory
   path: content
   label: Pages
