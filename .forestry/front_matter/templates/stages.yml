@@ -19,3 +19,4 @@ fields:
   label: Photo
 pages:
 - content/abstrkt.md
+- stages/abstrkt.md
