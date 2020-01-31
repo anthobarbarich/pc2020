@@ -25,7 +25,7 @@ a {
 /* COLORS */
 .green {
 	color:#456348;
-	font-family: 'Akrobat-Regular';
+	font-family: 'Akrobat';
 }
 
 .body {
@@ -441,10 +441,14 @@ a {
     font-size: 14px;
     line-height: 27px;
     font-weight: 400;
+	    font-family: Akrobat-regular;
+
 }
 .txtblock.green.page {
     line-height: 31px;
     font-weight: 400;
+	    font-family: Akrobat-regular;
+
 }
 .orange {
     color: #fa8d76;
