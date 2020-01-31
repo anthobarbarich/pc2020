@@ -4,6 +4,12 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: content/_index.md
+  label: Homepage
+  match: "**/*"
+- type: heading
+  label: MAIN PAGES
 - type: heading
   label: Stages
 - type: directory
@@ -30,6 +36,8 @@ sections:
   label: Artist
   create: all
   match: "**/*"
+  templates:
+  - artist
 - type: directory
   path: content/timetable
   label: Timetable
