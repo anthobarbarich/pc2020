@@ -20,12 +20,13 @@ fields:
 - name: featured
   type: list
   config:
-    use_select: true
+    use_select: false
     min: 
     max: 
     source:
-      type: pages
-      section: artist
+      type: documents
+      section: ''
+      file: 
   label: Featured
 pages:
 - content/_index.md
