@@ -2,11 +2,11 @@
 label: Stages
 hide_body: false
 fields:
-- name: name
+- name: Title
   type: text
   config:
     required: false
-  label: Name
+  label: Title
 - name: logo
   type: file
   config:
