@@ -6,6 +6,10 @@ lineuptxt: |-
 
   & many more
 greentext: ''
+featured:
+- artist/jt.md
+- artist/cleveland.md
+- artist/cleveland.md
 
 ---
 2019 marks our 5th anniversary and our excitement is mounting
