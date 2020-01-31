@@ -25,7 +25,7 @@ a {
 /* COLORS */
 .green {
 	color:#456348;
-	font-family: 'Akrobat';
+	font-family: 'Akrobat-Regular';
 }
 
 .body {
@@ -458,9 +458,9 @@ a {
     -webkit-justify-content: space-between;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    -webkit-flex-wrap: nowrap;
-    -ms-flex-wrap: nowrap;
-    flex-wrap: nowrap;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
     -webkit-box-align: end;
     -webkit-align-items: flex-end;
     -ms-flex-align: end;
@@ -1085,9 +1085,8 @@ position: absolute;
     -webkit-flex: 0 auto;
     -ms-flex: 0 auto;
     flex: 0 auto;
-    background-image: url('../images/shapesblog-2.png'), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
     border-radius: 10px;
-    background-color: #5dceb4;
+    background-color: #8FA768;
     background-position: 0px 100%;
     background-size: 108px;
     background-repeat: no-repeat;
@@ -1101,7 +1100,6 @@ position: absolute;
 }
 .ticketschoice.early {
     background-color: #fa8d76;
-    background-image: url('../images/shapesblog-2.png'), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
     background-position: 0px 100%, 0px 0px;
     background-size: 108px, auto;
     background-repeat: no-repeat, repeat;
