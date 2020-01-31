@@ -3,8 +3,8 @@ label: Basic Page
 hide_body: false
 fields:
 - type: text
-  name: uniqueid
-  label: uniqueid
-- type: text
   name: title
   label: title
+- type: text
+  name: uniqueid
+  label: uniqueid
