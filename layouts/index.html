@@ -172,9 +172,9 @@ Creation Date: 05/20/2019
             </picture>
             <div class="container containhero">
                 <div id="w-node-c85380380b13-feae796a" class="hero-content" data-ix="appearright"> {{ partial "circlelogo.html" }}
-                    <h1 class="heading">5, 6 &amp; 7 JULY </h1>
+                    <h1 class="heading">26, 27 &amp; 28 JUNE </h1>
                     <h2 class="heading-2">perk, belgium</h2>
-                    <a href="/tickets" target="_blank" class="btn-hero w-button">GET YOUR
+                    <a href="/tickets" target="_blank" class="btn-hero w-button">
 						TICKETS</a> <a href="https://www.facebook.com/events/354178365144537/" target="_blank" class="btn-hero reverse w-button">attend event</a> </div>
             </div>
             <div data-ix="appearcatle"> </div>
@@ -213,7 +213,7 @@ Creation Date: 05/20/2019
     right: -180px;
     top: 350px;
 }">
-			<img src="images/cloudnews.png" class="lozad" style="position: absolute;top: -270px;"/>
+			<img src="images/cloudnews.png" class="lozad" data-w-id="1f5b7647-20c3-046e-6657-95b6a164e7db" style="position: absolute;top: -270px;"/>
 	    <div class="container writing">
 						
 
@@ -238,9 +238,9 @@ Creation Date: 05/20/2019
                 <!--<a href="/lineup" class="btcta rev w-button" style="position: relative; z-index:99999999999;">SEE LINE-UP →</a>--> </div>
         </div>
         <div class="section-green"> 					 
-			<img data-src="images/greentree.png" width="500" alt="" class="feuillesbottomlineup lozad">
+			<img data-src="images/greentree.png" width="500" alt="" class="feuillesbottomlineup lozad" >
 			<img data-src="images/rightgreen.png" width="750" alt="" class="feuillesbottomlineup2 lozad">
-			<img data-src="images/greentopright.png" width="200" style="position: absolute; top: 0; right: 0; z-index: 1;" alt="" class="lozad">
+			<img data-src="images/greentopright.png" width="200" style="position: absolute; top: 0; right: 0; z-index: 1;" alt="" class="lozad" >
             <div class="container split">
                 <div id="w-node-48d598a7fe0c-feae796a" class="block50">
 					<picture>
@@ -249,7 +249,7 @@ Creation Date: 05/20/2019
 					</picture>
                     <picture>
                         <source data-srcset="images/green.webp" type="image/webp">
-                        <img data-src="images/green.jpg" width="626" alt="" class="img-green lozad">
+                        <img data-src="images/green.jpg" width="626" alt="" class="img-green lozad"> 
 					</picture>
                 </div>
                 <div id="w-node-48d598a7fe19-feae796a" class="block50 bgwhite">
@@ -261,45 +261,11 @@ Creation Date: 05/20/2019
                     <a href="green.html" class="btcta rev w-button">more info →</a> </div>
             </div>
         </div>
-        <div class="smbuttons" id="social-buttons">
-            <button class="joinustxt">Newsletter</button>
-            <div id="newsletter-form-wrapper">
-                <!-- Begin Mailchimp Signup Form -->
-                <div id="mc_embed_signup">
-                    <form action="https://paradisecity.us10.list-manage.com/subscribe/post?u=9385d387968c3b3102284a2c6&amp;id=24f9a4275b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                        <div id="mc_embed_signup_scroll">
-                            <div class="mc-field-group">
-                                <input type="text" value="" name="FNAME" class="newsletter-txt-input" id="mce-FNAME" placeholder="First Name">
-                                <input type="text" value="" name="LNAME" class="newsletter-txt-input" id="mce-LNAME" placeholder="Last Name">
-                                <span class="required">
-												<input type="email" value="" name="EMAIL"
-                    class="required email newsletter-txt-input" id="mce-EMAIL" placeholder="Email">
-												</span> </div>
-                            <div id="mce-responses" class="clear">
-                                <div class="response" id="mce-error-response" style="display:none"></div>
-                                <div class="response" id="mce-success-response" style="display:none"></div>
-                            </div>
-                            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                            <div style="position: absolute; left: -5000px;" aria-hidden="true">
-                                <input type="text" name="b_9385d387968c3b3102284a2c6_24f9a4275b" tabindex="-1" value="">
-                            </div>
-                            <div class="clear">
-                                <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="newsletter-submit button">
-                            </div>
-                        </div>
-                    </form>
-                </div>
-                <!--End mc_embed_signup-->
-            </div>
-            <div class="blocimgs">
-                <a href="https://www.instagram.com/paradisecityofficial" class="smicone" target="_blank"> <img src="/images/smallinsta.svg" class="iconez" width="40"> </a>
-                <a href="https://www.facebook.com/events/354178365144537/" class="smicone" target="_blank"> <img src="/images/smallfb.svg" class="iconez" width="40"> </a>
-            </div>
-        </div>
+{{ partial "widgetsm.html" }}
 {{ partial "cta.html" }}
         <div class="section-partners"><picture>
                         <source data-srcset="images/green.webp" type="image/webp">
-                        <img data-src="images/leafbottomcta.png" width="500" alt="" class="lozad" style="position: absolute; top:-112px; right:0">
+                        <img data-src="images/leafbottomcta.png" width="500" alt="" class="lozad" style="position: absolute; top:-112px; right:0" >
 					</picture>
             <div class="container partners" style="z-index: 99999"> {{ range where .Site.Pages "Params.uniqueid" "partners" }} {{ range .Params.partner }}
                 <a href="{{.position}}"> <img data-src="{{.photo}}" alt="{{.name}}" class="partnerimg lozad" width="132"></a> {{ end }} {{ .Content }} {{ end }} <img src="https://d33wubrfki0l68.cloudfront.net/22138bc7f912731bf00ae759322c657dc4d812c7/cd07c/images/minilogowhite.svg" width="137" alt="" class="logobottom lozad">

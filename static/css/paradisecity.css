@@ -131,13 +131,11 @@ a {
 }
 .container.split.newzz {
     margin-top: 96px;
-    -webkit-box-pack: start;
-    -webkit-justify-content: flex-start;
-    -ms-flex-pack: start;
-    justify-content: flex-start;
+
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+	    justify-content: space-between;
 }
 .container.writing {
     padding-top: 43px;
@@ -1302,7 +1300,7 @@ body.news a.navlink-black.w-nav-link[href="/news"], body.green a.navlink-black.w
     height: 250px;
     margin-right: 20px;
     margin-bottom: 5px;
-    border-radius: 5px;
+    border-radius: 25px;
     background-position: 0px 100%, 0px 0px, 50% 50%;
     background-size: 108px, auto, cover;
     background-repeat: no-repeat, repeat, repeat;
@@ -1332,7 +1330,7 @@ body.news a.navlink-black.w-nav-link[href="/news"], body.green a.navlink-black.w
 }
 .containartist {
     position: relative;
-    width: 30%;
+    width: 21%;
     margin-top: 0;
     margin-bottom: 40px;
     -webkit-transition: -webkit-transform 200ms ease;
@@ -1413,12 +1411,12 @@ iframe {
     transform: scale(1.06);
 }
 h3.daytxt {
-    z-index: 99;
+z-index: 99;
     background-color: #fa8d76;
     color: white;
     font-size: 15px;
-    padding: 3px 6px;
-    border-radius: 2px;
+    padding: 3px 12px;
+    border-radius: 14px;
     line-height: normal;
     font-size: 16px;
     transform: translateY(-2px);
@@ -1553,10 +1551,14 @@ form.contactform input {
     width: 70%;
     padding: 20px;
     font-weight: 200;
-    border: 1px solid #e2e2e2
+    border: 1px solid #e2e2e2;
+	    border-radius: 35px;
+	font-family: 'Akrobat-Regular';
 }
 form.contactform label {
     padding: 10px;
+	font-family: 'Akrobat';
+	text-transform: uppercase;
 }
 form.contactform textarea {
     height: 60px;
@@ -1565,6 +1567,8 @@ form.contactform textarea {
     font-weight: 200;
     border: 1px solid #e2e2e2;
     resize: none;
+	    border-radius: 35px;
+	font-family: 'Akrobat-Regular';
 }
 .container.split.margin-bottom:nth-child(odd) {
     flex-direction: row-reverse;
@@ -1608,8 +1612,8 @@ button.joinustxt {
     font-family: Akrobat;
     font-size: 16px;
     position: absolute;
-    left: -29px;
-    top: 80px;
+left: -27px;
+    top: 54px;
     letter-spacing: 1px;
     text-transform: uppercase;
     -webkit-transform-origin: center;
