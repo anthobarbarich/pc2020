@@ -1,15 +1,12 @@
 ---
-imgvideo: /images/uploads/newlineuptease.jpg
+imgvideo: ''
 lineuptitle: 'LINE-UP : Already announced'
-lineuptxt: >-
-  2manydjs - &ME - Adriatique - BLOND:ISH - Carista - Daphni - Dixon - DJ Koze -
-  Edward - Egyptian Lover - Folamour - Gerd Janson - Jan Blomqvist & Band - John
-  Talabot - Jungle By Night - map.ache live - Mind Against - Motor City Drum
-  Ensemble - Nu Guinea (Live band) - Polo & Pan (Dj set) - SKATEBÅRD - Todd
-  Terje (Dj set)
-
+lineuptxt: |-
+  2manydjs - &ME - Adriatique - BLOND:ISH - Carista - Daphni - Dixon - DJ Koze - Edward - Egyptian Lover - Folamour - Gerd Janson - Jan Blomqvist & Band - John Talabot - Jungle By Night - map.ache live - Mind Against - Motor City Drum Ensemble - Nu Guinea (Live band) - Polo & Pan (Dj set) - SKATEBÅRD - Todd Terje (Dj set)
 
   & many more
+greentext: ''
+
 ---
 2019 marks our 5th anniversary and our excitement is mounting
 to deliver the most special edition to date. The Paradise City

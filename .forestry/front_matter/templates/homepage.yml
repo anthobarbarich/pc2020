@@ -24,3 +24,5 @@ fields:
     schema:
       format: markdown
   label: Green Text
+pages:
+- content/_index.md
