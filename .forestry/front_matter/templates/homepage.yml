@@ -11,3 +11,16 @@ fields:
 - type: textarea
   name: lineuptxt
   label: lineuptxt
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- name: greentext
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Green Text
