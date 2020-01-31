@@ -186,6 +186,10 @@ Creation Date: 05/20/2019
 <!--            <img data-src="images/shapesrightintro.png" width="417" alt="" class="shapeesrightintro lozad">-->
             <div class="container split paddingtop">
                 <div id="w-node-dccfab5c11a5-feae796a" class="block50 bgwhite">
+					 <picture>
+                        <source data-srcset="images/ctaleaves.webp" type="image/webp">
+                        <img data-src="images/ctaleaves.png" width="150" alt="" class="lozad" style="position: absolute; z-index: 999;right:-150px;top:160px">
+					</picture>
                     <h3 class="section-heading">DEAREST CITIZEN</h3>
                     <p class="green"><strong>AT PARADISE CITY WE HAVE A PURPOSE. WE UTTERLY BELIEVE THE FUTURE CAN BE BRIGHT BUT THAT OUR GENERATION NEEDS TO STAND UP AND ACT. WE DECIDED TO START WITH OUR COZY LITTLE FESTIVAL AND TRY TO CONVINCE PARADISE CITIZENS OF THE BENEFITS AND THE NECESSITY OF A GREENER LIFESTYLE. </strong>
                     </p>
@@ -213,7 +217,7 @@ Creation Date: 05/20/2019
 	    <div class="container writing">
 						
 
-                <h3 class="section-intro" style="color:white">THE writing on the walls</h3>
+                <h3 class="section-intro" style="color:white;text-shadow: 2px 2px 7px #2d282885">THE writing on the walls</h3>
                 <div class="col4 whitebg"> 
 					<img data-src="images/lefwriting.png" width="400" alt="" class="lozad" style="position: absolute;top: -149px;left: -25px;">
 					
@@ -233,18 +237,20 @@ Creation Date: 05/20/2019
 <!--                <h3 class="section-cta">{{ .Params.lineuptxt | markdownify }}</h3>-->
                 <!--<a href="/lineup" class="btcta rev w-button" style="position: relative; z-index:99999999999;">SEE LINE-UP →</a>--> </div>
         </div>
-        <div class="section-green"> 
+        <div class="section-green"> 					 
 			<img data-src="images/greentree.png" width="500" alt="" class="feuillesbottomlineup lozad">
 			<img data-src="images/rightgreen.png" width="750" alt="" class="feuillesbottomlineup2 lozad">
-			<img data-src="images/greentopright.png" width="200" style="position: absolute;
-    top: 0;
-    right: 0;
-    z-index: 1;" alt="" class="lozad">
+			<img data-src="images/greentopright.png" width="200" style="position: absolute; top: 0; right: 0; z-index: 1;" alt="" class="lozad">
             <div class="container split">
                 <div id="w-node-48d598a7fe0c-feae796a" class="block50">
+					<picture>
+                        <source data-srcset="images/ctaleaves.webp" type="image/webp">
+                        <img data-src="images/ctaleaves.png" width="100" alt="" class="lozad" style="position: absolute;right: -77px;top: 10px;z-index: 9;">
+					</picture>
                     <picture>
                         <source data-srcset="images/green.webp" type="image/webp">
-                        <img data-src="images/green.jpg" width="626" alt="" class="img-green lozad"></picture>
+                        <img data-src="images/green.jpg" width="626" alt="" class="img-green lozad">
+					</picture>
                 </div>
                 <div id="w-node-48d598a7fe19-feae796a" class="block50 bgwhite">
                     <h3 class="section-heading">green</h3>
@@ -289,7 +295,24 @@ Creation Date: 05/20/2019
                 <a href="https://www.instagram.com/paradisecityofficial" class="smicone" target="_blank"> <img src="/images/smallinsta.svg" class="iconez" width="40"> </a>
                 <a href="https://www.facebook.com/events/354178365144537/" class="smicone" target="_blank"> <img src="/images/smallfb.svg" class="iconez" width="40"> </a>
             </div>
-        </div><a href="/tickets" target="_blank" class="ctaticket w-inline-block">
+        </div>
+		<a href="/tickets" target="_blank" class="ctaticket w-inline-block">
+		            <picture>
+                        <source data-srcset="images/ctaleaves.webp" type="image/webp">
+                        <img data-src="images/ctaleaves.png" width="200" alt="" class="lozad" style="position: absolute; z-index: 9999999;left:-40px;top:-80px">
+					</picture>
+	
+		            <picture>
+                        <source data-srcset="images/ctaleafright.webp" type="image/webp">
+                        <img data-src="images/ctaleafright.png" width="200" alt="" class="lozad" style="position: absolute; z-index: 9999999; right:-60px; top:-90px;">
+					</picture>
+		            
+					
+					
+				
+	
+	
+		
         <div class="container split">
             
 <!--                <picture style="position: absolute; bottom: 0px; left:0">
@@ -298,15 +321,18 @@ Creation Date: 05/20/2019
                 <div class="txtcta">STILL DIDN&#x27;T GET YOUR TICKETS?</div>
                 <div class="btn-hero">book them now !</div>
             
-        </div></a>
-        <div class="section-partners">
+        </div></a>	
+        <div class="section-partners"><picture>
+                        <source data-srcset="images/green.webp" type="image/webp">
+                        <img data-src="images/leafbottomcta.png" width="500" alt="" class="lozad" style="position: absolute; top:-112px; right:0">
+					</picture>
             <div class="container partners" style="z-index: 99999"> {{ range where .Site.Pages "Params.uniqueid" "partners" }} {{ range .Params.partner }}
                 <a href="{{.position}}"> <img data-src="{{.photo}}" alt="{{.name}}" class="partnerimg lozad" width="132"></a> {{ end }} {{ .Content }} {{ end }} <img src="https://d33wubrfki0l68.cloudfront.net/22138bc7f912731bf00ae759322c657dc4d812c7/cd07c/images/minilogowhite.svg" width="137" alt="" class="logobottom lozad">
 
                 <!--<img src="../images/Image-15.png" alt="" class="partnerimg"><img src="../images/Image-14.png" alt="" class="partnerimg"><img src="../images/Image-29.png" alt="" class="partnerimg"><img src="../images/Image-31.png" alt="" class="partnerimg"><img src="../images/Image-23.png" alt="" class="partnerimg"><img src="../images/Image-20.png" alt="" class="partnerimg"><img src="../images/Image-17.png" alt="" class="partnerimg"><img src="../images/Image-13.png" alt="" class="partnerimg"><img src="../images/Image-16.png" alt="" class="partnerimg"><img src="../images/Image-22.png" alt="" class="partnerimg"><img src="../images/Image-18.png" alt="" class="partnerimg"><img src="../images/Image-25.png" alt="" class="partnerimg"><img src="../images/Image-27.png" alt="" class="partnerimg"><img src="../images/Image-19.png" alt="" class="partnerimg"><img src="../images/Image-24.png" alt="" class="partnerimg"><img src="../images/Image-30.png" alt="" class="partnerimg"><img src="../images/minilogoorange.svg" width="137" alt="" class="logobottom"><img src="../images/Image-21.png" alt="" class="partnerimg"><img src="../images/Image-26.png" alt="" class="partnerimg"></div>-->
 
             </div>
-            <img data-src="/images/bgfoot2.jpg" data-srcset="/images/bgfoot2-p-500.jpeg 500w, /images/bgfoot2-p-1080.jpeg 1080w, /images/bgfoot2.jpg 1200w" sizes="100vw" alt="" class="image-2 lozad"> {{ partial "scripts.html" . }} </div>
+            <img data-src="/images/bgfoot-test.png" alt="" class="image-2 lozad"> {{ partial "scripts.html" . }} </div>
         <script>
             const observer = lozad(); // lazy loads elements with default selector as '.lozad'
             observer.observe();
