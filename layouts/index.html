@@ -165,10 +165,11 @@ Creation Date: 05/20/2019
                 <source srcset="images/castle23.webp" type="image/webp">
                 <img src="images/castle23.png" class="castle">
             </picture>
-            <img src="images/treebottomright.png" class="treebottom">
+            
 
             <picture>
                 <source srcset="images/treebottomright.webp" type="image/webp">
+				<img data-src="images/treebottomright.png" class="treebottom lozad">
             </picture>
             <div class="container containhero">
                 <div id="w-node-c85380380b13-feae796a" class="hero-content" data-ix="appearright"> {{ partial "circlelogo.html" }}
@@ -181,8 +182,17 @@ Creation Date: 05/20/2019
         </div>
         <section class="_01">
             <img data-src="images/leaves3-reverse.png" width="200" data-w-id="1f5b7647-20c3-046e-6657-95b6a164e7db" alt="" class="feuillegrise lozad">            
-			<img data-src="images/leaves3.png" width="200" alt="" class="feuillegriseleft lozad">			
-			<img data-src="images/tree2.png" width="400" alt="" class="tree2 lozad">
+			
+			<picture>
+            <source data-srcset="/images/leaves3.webp" type="image/webp">
+			<img data-src="images/leaves3.png" width="200" alt="" class="feuillegriseleft lozad">	
+			</picture>			
+			
+
+			 <picture>
+             <source srcset="images/tree2.webp" type="image/webp">
+				 <img data-src="images/tree2.png" width="400" alt="" class="tree2 lozad">
+			</picture>
 <!--            <img data-src="images/shapesrightintro.png" width="417" alt="" class="shapeesrightintro lozad">-->
             <div class="container split paddingtop">
                 <div id="w-node-dccfab5c11a5-feae796a" class="block50 bgwhite">
@@ -201,9 +211,26 @@ Creation Date: 05/20/2019
                     </p>
 
                 </div>
-                <div id="w-node-b00e1d967f4d-feae796a" class="block50"><img src="images/cloudcta.png" class="cloudcta">
-                    <a href="#" class="thumbvideo w-inline-block w-lightbox"><img src="images/playicon.svg" width="75" alt="" class="playicon"><img src="/images/thumbvideo.jpg" alt="" class="image">
-                        <script type="application/json" class="w-json">{"items":[{"type":"video","originalUrl":"https://www.youtube.com/watch?v=JiXo8WKuFjw","url":"https://www.youtube.com/watch?v=JiXo8WKuFjw","html":"
+                <div id="w-node-b00e1d967f4d-feae796a" class="block50">
+					
+					
+					<picture>
+                        <source data-srcset="images/cloudcta.webp" type="image/webp">
+					<img src="images/cloudcta.png" class="cloudcta">
+					</picture>
+					
+					<a href="#" class="thumbvideo w-inline-block w-lightbox"><img src="images/playicon.svg" width="75" alt="" class="playicon">
+						
+						
+						 <picture>
+                        <source data-srcset="/images/thumbvideo.webp" type="image/webp">
+						<img data-src="/images/thumbvideo.jpg" alt="" class="image lozad">
+						</picture>
+                        
+						
+						
+						
+						<script type="application/json" class="w-json">{"items":[{"type":"video","originalUrl":"https://www.youtube.com/watch?v=JiXo8WKuFjw","url":"https://www.youtube.com/watch?v=JiXo8WKuFjw","html":"
                             <iframe class=\ "embedly-embed\" src=\ "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJiXo8WKuFjw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJiXo8WKuFjw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJiXo8WKuFjw%2Fhqdefault.jpg&key=96f1f04c5f4143bcb0f2e68c87d65feb&type=text%2Fhtml&schema=youtube\" width=\ "940\" height=\ "528\" scrolling=\ "no\" frameborder=\ "0\" allow=\ "autoplay; fullscreen\" allowfullscreen=\ "true\"></iframe>","thumbnailUrl":"https://i.ytimg.com/vi/JiXo8WKuFjw/hqdefault.jpg","width":940,"height":528}]}</script>
                     </a>
                 </div>
@@ -212,8 +239,10 @@ Creation Date: 05/20/2019
 		<section style="position:relative;"><img data-src="images/treerightwrite.png" width="550" alt="" class="lozad" style="position: absolute;
     right: -180px;
     top: 350px;
-}">
-			<img src="images/cloudnews.png" class="lozad" style="position: absolute;top: -270px;"/>
+}">			<picture>
+             <source srcset="images/cloudnews.webp" type="image/webp">
+			<img data-src="images/cloudnews.png" class="lozad" style="position: absolute;top: -270px;" data-w-id="1f5b7647-20c3-046e-6657-95b6a164e7db"/>
+			</picture>
 	    <div class="container writing">
 						
 
@@ -261,41 +290,7 @@ Creation Date: 05/20/2019
                     <a href="green.html" class="btcta rev w-button">more info →</a> </div>
             </div>
         </div>
-        <div class="smbuttons" id="social-buttons">
-            <button class="joinustxt">Newsletter</button>
-            <div id="newsletter-form-wrapper">
-                <!-- Begin Mailchimp Signup Form -->
-                <div id="mc_embed_signup">
-                    <form action="https://paradisecity.us10.list-manage.com/subscribe/post?u=9385d387968c3b3102284a2c6&amp;id=24f9a4275b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                        <div id="mc_embed_signup_scroll">
-                            <div class="mc-field-group">
-                                <input type="text" value="" name="FNAME" class="newsletter-txt-input" id="mce-FNAME" placeholder="First Name">
-                                <input type="text" value="" name="LNAME" class="newsletter-txt-input" id="mce-LNAME" placeholder="Last Name">
-                                <span class="required">
-												<input type="email" value="" name="EMAIL"
-                    class="required email newsletter-txt-input" id="mce-EMAIL" placeholder="Email">
-												</span> </div>
-                            <div id="mce-responses" class="clear">
-                                <div class="response" id="mce-error-response" style="display:none"></div>
-                                <div class="response" id="mce-success-response" style="display:none"></div>
-                            </div>
-                            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                            <div style="position: absolute; left: -5000px;" aria-hidden="true">
-                                <input type="text" name="b_9385d387968c3b3102284a2c6_24f9a4275b" tabindex="-1" value="">
-                            </div>
-                            <div class="clear">
-                                <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="newsletter-submit button">
-                            </div>
-                        </div>
-                    </form>
-                </div>
-                <!--End mc_embed_signup-->
-            </div>
-            <div class="blocimgs">
-                <a href="https://www.instagram.com/paradisecityofficial" class="smicone" target="_blank"> <img src="/images/smallinsta.svg" class="iconez" width="40"> </a>
-                <a href="https://www.facebook.com/events/354178365144537/" class="smicone" target="_blank"> <img src="/images/smallfb.svg" class="iconez" width="40"> </a>
-            </div>
-        </div>
+{{ partial "widgetsm.html"}}
 {{ partial "cta.html" }}
         <div class="section-partners"><picture>
                         <source data-srcset="images/green.webp" type="image/webp">
