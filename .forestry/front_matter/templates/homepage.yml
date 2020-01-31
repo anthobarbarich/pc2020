@@ -1,0 +1,13 @@
+---
+label: Homepage
+hide_body: false
+fields:
+- type: file
+  name: imgvideo
+  label: imgvideo
+- type: text
+  name: lineuptitle
+  label: lineuptitle
+- type: textarea
+  name: lineuptxt
+  label: lineuptxt
