@@ -1,4 +1,41 @@
 ---
 label: Artist
 hide_body: false
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: name
+- name: photo
+  type: file
+  config:
+    maxSize: 250
+  label: photo
+- name: day
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Friday
+    - Saturday
+    - Sunday
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: day
+- name: position
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: news
+      file: 
+      path: 
+  label: position
