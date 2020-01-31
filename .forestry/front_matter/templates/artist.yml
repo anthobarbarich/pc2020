@@ -39,3 +39,5 @@ fields:
       file: 
       path: 
   label: position
+pages:
+- content/artist/cleveland.md
