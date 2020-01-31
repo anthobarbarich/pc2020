@@ -1,4 +1,60 @@
 ---
 label: Stages
 hide_body: false
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
+- name: logo
+  type: file
+  config:
+    maxSize: 250
+  label: Logo
+- name: photo
+  type: file
+  config:
+    maxSize: 250
+  label: Photo
+- name: field_group
+  type: field_group
+  config: {}
+  fields:
+  - name: titre
+    type: text
+    config:
+      required: false
+    label: titre
+  label: field group
+- name: repeatable_field_group
+  type: field_group_list
+  fields:
+  - name: titre
+    type: text
+    config:
+      required: false
+    label: titre
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: repeatable field group
+- name: sortable_list
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+    source:
+      type: simple
+  label: sortable list
+- name: blocks
+  type: blocks
+  label: blocks
+  template_types:
+  - basic-page
+  - blog-post
+  config:
+    min: 
+    max: 
