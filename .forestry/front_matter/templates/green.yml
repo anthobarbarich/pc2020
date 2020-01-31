@@ -1,0 +1,19 @@
+---
+label: Green
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: type
+  label: type
+- type: text
+  name: url
+  label: url
+- type: text
+  name: uniqueid
+  label: uniqueid
+- type: text
+  name: description
+  label: description
