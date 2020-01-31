@@ -8,3 +8,5 @@ fields:
 - type: text
   name: uniqueid
   label: uniqueid
+pages:
+- content/get-involved.md
