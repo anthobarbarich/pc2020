@@ -10,9 +10,9 @@ sections:
   path: content/_index.md
   label: Homepage
 - type: heading
-  label: content/stages
+  label: Stages
 - type: directory
-  path: stages
+  path: content/stages
   label: Stages
   create: documents
   match: "**/*"
