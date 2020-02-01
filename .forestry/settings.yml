@@ -46,18 +46,11 @@ sections:
   label: LANDING PAGES
 - type: directory
   path: content
-  label: Unique Basic Pages
-  create: documents
-  match: "*"
-  templates:
-  - basic-page
-- type: heading
-  label: OTHER
-- type: directory
-  path: content
   label: Pages
   create: all
   match: "*"
+- type: heading
+  label: OTHER
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''

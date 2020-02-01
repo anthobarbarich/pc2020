@@ -9,5 +9,4 @@ fields:
   name: uniqueid
   label: uniqueid
 pages:
-- content/**/*/popol.md
 - content/get-involved.md
