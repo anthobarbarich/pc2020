@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="60" cy="60" r="60" transform="translate(1234 566)" fill="#fff" stroke="#8fa768" stroke-width="12"/>
+    </clipPath>
+  </defs>
+  <g id="Forbidden_Icon" data-name="Forbidden Icon" transform="translate(-1234 -566)">
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(1234 566)" fill="none" stroke="#ff804b" stroke-width="12">
+      <circle cx="60" cy="60" r="60" stroke="none"/>
+      <circle cx="60" cy="60" r="54" fill="none"/>
+    </g>
+    <line id="Ligne_2" data-name="Ligne 2" x1="39" y2="42" transform="translate(1274.5 605.5)" fill="none" stroke="#ff804b" stroke-linecap="round" stroke-width="12"/>
+    <g id="Groupe_de_masques_13" data-name="Groupe de masques 13" clip-path="url(#clip-path)">
+      <line id="Ligne_1" data-name="Ligne 1" x2="79" y2="81" transform="translate(1234.5 566.5)" fill="none" stroke="#ff804b" stroke-linecap="round" stroke-width="12"/>
+    </g>
+  </g>
+</svg>

@@ -28,6 +28,10 @@ a {
 	font-family: 'Akrobat-Regular';
 }
 
+.grn {
+	color: #8FA768;
+}
+
 .body {
     min-height: 1200px;
     background-color: #FFFAFA;
@@ -438,13 +442,18 @@ a {
 }
 .txtblock {
     color: #5c5c5c;
-    font-size: 14px;
+    font-size: 1.2em;
     line-height: 27px;
     font-weight: 400;
 }
 .txtblock.green.page {
     line-height: 31px;
     font-weight: 400;
+}
+.textblock p {
+    line-height: 2em;
+    margin-bottom: 2em;
+    font-size: 1.3em;
 }
 .orange {
     color: #fa8d76;
