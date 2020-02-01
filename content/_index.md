@@ -1,15 +1,12 @@
 ---
 imgvideo: ''
-lineuptitle: 'LINE-UP : Already announced'
+lineuptitle: LINE-UP ANNOUNCED SOON, STAY TUNED!
 lineuptxt: |-
   2manydjs - &ME - Adriatique - BLOND:ISH - Carista - Daphni - Dixon - DJ Koze - Edward - Egyptian Lover - Folamour - Gerd Janson - Jan Blomqvist & Band - John Talabot - Jungle By Night - map.ache live - Mind Against - Motor City Drum Ensemble - Nu Guinea (Live band) - Polo & Pan (Dj set) - SKATEBÅRD - Todd Terje (Dj set)
 
   & many more
 greentext: ''
-featured:
-- artist/jt.md
-- artist/cleveland.md
-- artist/cleveland.md
+featured: []
 
 ---
 2019 marks our 5th anniversary and our excitement is mounting
