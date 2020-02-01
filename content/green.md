@@ -42,6 +42,13 @@ steps:
     site, we make sure it is the lightest possible to avoid any negative environmental
     impact.'
   img: "/uploads/com.svg"
+- title: 7. WATER
+  img: "/uploads/water2.svg"
+  description: Water is a valuable good of nature that is spread on festival ground
+    as our visitors must rehydrate, eat and (optionally) shower. For a second year
+    in a row, we intent to purify on site the water used in our showers, reducing
+    treatment as much as possible. And with the use of our eco-toilets, we intent
+    to reduce any excessive water usage.
 description: ''
 
 ---
