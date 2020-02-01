@@ -55,6 +55,12 @@ steps:
     Taking our responsibility, we offset the unavoidable climate impact through the
     support of CO2logic’s climate project.
   img: "/uploads/co2.svg"
+- title: 9. Camping
+  description: Camping has always been an ecological issue for festivals, mainly regarding
+    all the waste left over. We have been working on the problem since our first edition
+    and will implement for the second time in a row our circular camping where each
+    camper has the opportunity to rent recycled camping gear, how cool is that?
+  img: "/uploads/  9.svg"
 description: ''
 
 ---
