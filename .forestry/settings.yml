@@ -9,6 +9,10 @@ sections:
 - type: document
   path: content/_index.md
   label: Homepage
+- type: document
+  path: content/green.md
+  label: Green
+  match: "**/*"
 - type: heading
   label: Stages
 - type: directory
