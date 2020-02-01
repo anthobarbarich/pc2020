@@ -9,6 +9,9 @@ steps:
     monitoring and reporting each year on energy usage. The last 2 editions were powered
     up only by renewable energy & using low consumption lightning on site.
   img: "/uploads/1energy.svg"
+- title: ''
+  description: ''
+  img: ''
 description: ''
 
 ---
