@@ -12,6 +12,10 @@ sections:
 - type: document
   path: content/green.md
   label: Green
+- type: document
+  path: content/practical.md
+  label: Practical
+  match: "**/*"
 - type: heading
   label: BLOG
 - type: directory
