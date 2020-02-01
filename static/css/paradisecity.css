@@ -528,7 +528,9 @@ position: relative;
     text-transform: uppercase;
     text-align: center;
 }
-
+h3.section-intro.nomargin.greenz {
+    text-align: inherit;
+}
 
 .section-intro.intro {
     margin-bottom: 24px;
@@ -2214,6 +2216,9 @@ padding-top: 50px;
 }
 .section-intro {
     line-height: 37px;
+}
+	h3.section-intro.nomargin.greenz {
+    text-align: center;
 }
 .section-intro.nomargin {
     text-align: center;
