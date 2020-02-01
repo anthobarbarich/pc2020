@@ -61,8 +61,8 @@ a {
     -ms-flex-align: start;
     align-items: flex-start;
 	background-color: #FB9CB7;
-    background-position: 0px 0px, 50% 50%, 0px 0px;
-    background-size: auto, auto, auto;
+	background-image: url("/images/bgpattern.jpg");
+	background-size: 20px 500px;
 }
 .container {
     position: relative;
