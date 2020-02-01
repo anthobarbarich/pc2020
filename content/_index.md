@@ -5,7 +5,14 @@ lineuptxt: |-
   2manydjs - &ME - Adriatique - BLOND:ISH - Carista - Daphni - Dixon - DJ Koze - Edward - Egyptian Lover - Folamour - Gerd Janson - Jan Blomqvist & Band - John Talabot - Jungle By Night - map.ache live - Mind Against - Motor City Drum Ensemble - Nu Guinea (Live band) - Polo & Pan (Dj set) - SKATEBÅRD - Todd Terje (Dj set)
 
   & many more
-greentext: ''
+greentext: Any gathering of a large number of people can have a potential negative
+  impact on air, soil, water, resources and people. This includes not only the location
+  where the event takes place but also the impacts beyond. We are conscious about
+  this and have taken sustainability planning into consideration since day one. We
+  are very proud to have been selected as 1 of the 6 most sustainable festivals in
+  the world by A Greener Festival last year and we still want to do better. We promise
+  to minimize the potential negative impacts and to implement even more ecologically
+  mindful ways to enjoy Paradise City Festival.
 featured: []
 
 ---
