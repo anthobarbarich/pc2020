@@ -997,6 +997,7 @@ position: absolute;
 .uppagebody {
     position: absolute;
     right: 0;
+	
 }
 .uppagebody-left {
     position: absolute;
@@ -1549,10 +1550,14 @@ form.contactform input {
     width: 70%;
     padding: 20px;
     font-weight: 200;
-    border: 1px solid #e2e2e2
+    border: 1px solid #e2e2e2;
+		font-family: 'Akrobat-Regular';
+	border-radius: 40px;
 }
 form.contactform label {
     padding: 10px;
+	font-family: Akrobat;
+    text-transform: uppercase;
 }
 form.contactform textarea {
     height: 60px;
@@ -1561,6 +1566,15 @@ form.contactform textarea {
     font-weight: 200;
     border: 1px solid #e2e2e2;
     resize: none;
+	border-radius: 40px;
+	font-family: 'Akrobat-Regular';
+}
+
+button.btcta.rev.form {
+	
+	    position: relative;
+    margin-top: 0;
+    margin-left: 20px;
 }
 .container.split.margin-bottom:nth-child(odd) {
     flex-direction: row-reverse;
@@ -2285,6 +2299,11 @@ padding-top: 50px;
 }
 .uppagebody {
     margin-top: -55px;
+    max-width: 50%;
+    right: 0px;
+}
+.uppagebody-left {
+       max-width: 30%;
 }
 .bradn2 {
     margin-top: 13px;

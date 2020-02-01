@@ -14,6 +14,6 @@ title: 'Want to get in touch with us ?'
     <label>Message<br>  <textarea type="text" rows="4" name="message" placeholder="Your Message" style="height: 200px; padding:10px width: 70%;"></textarea></label>
   </p>
   <p>
-    <button type="submit" class="btcta rev">Send →</button>
+    <button type="submit" class="btcta rev form">Send →</button>
   </p>
 </form>
