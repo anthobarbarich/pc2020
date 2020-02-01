@@ -9,11 +9,35 @@ fields:
   name: type
   label: type
 - type: text
-  name: url
-  label: url
-- type: text
   name: uniqueid
   label: uniqueid
 - type: text
   name: description
   label: description
+- name: steps
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Description
+  - name: img
+    type: file
+    config:
+      maxSize: 250
+    label: Image
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Steps
