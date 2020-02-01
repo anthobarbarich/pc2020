@@ -58,3 +58,5 @@
 </IfModule>
 
 ErrorDocument 404 /404/index.html
+
+RedirectPermanent /greencard https://frontoffice.paylogic.nl/?event_id=124808&point_of_sale_id=17428
