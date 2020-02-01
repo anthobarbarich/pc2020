@@ -2,9 +2,10 @@ baseURL = "/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Paradise City Festival 2020"
+sectionPagesMenu = "main"
 
 [params]
-  author = "Studio Colibri"
+  author = "Paradise City"
   description = "5, 6 & 7 July in Perk, Belgium"
   mainSections = ["static", "news", "lineup", "home"]
 
