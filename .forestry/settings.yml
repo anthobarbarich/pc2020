@@ -12,7 +12,6 @@ sections:
 - type: document
   path: content/green.md
   label: Green
-  match: "**/*"
 - type: heading
   label: Stages
 - type: directory
