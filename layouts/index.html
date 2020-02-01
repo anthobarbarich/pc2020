@@ -29,11 +29,10 @@
     <meta property="og:image" content="https://paradisecity.be/images/opengraph3.jpg">
     <meta property="og:image:width" content="1200" />
     <meta content="width=device-width, initial-scale=1" name="viewport">
-	{{ with resources.Get "css/critical.css" | minify }}
-<style>{{ .Content | safeCSS }}</style>
-{{ end }}
-<!--    <link href="css/critical.css" rel="stylesheet" type="text/css">-->
-<!--    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js" type="text/javascript" defer></script>-->
+    <link href="css/normalize.css" rel="stylesheet" type="text/css">
+    <link href="css/components.css" rel="stylesheet" type="text/css">
+    <link href="css/paradisecity.css" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js" type="text/javascript" defer></script>
     <script type="text/javascript" defer>
         WebFont.load({
             google: {
@@ -170,7 +169,7 @@ Creation Date: 05/20/2019
 
             <picture>
                 <source srcset="images/treebottomright.webp" type="image/webp">
-				<img data-src="images/treebottomright.png" width="500" class="treebottom lozad">
+				<img data-src="images/treebottomright.png" class="treebottom lozad">
             </picture>
             <div class="container containhero">
                 <div id="w-node-c85380380b13-feae796a" class="hero-content" data-ix="appearright"> {{ partial "circlelogo.html" }}
@@ -240,12 +239,9 @@ Creation Date: 05/20/2019
 		<section style="position:relative;"><img data-src="images/treerightwrite.png" width="550" alt="" class="lozad" style="position: absolute;
     right: -180px;
     top: 350px;
-}">			
-			<img data-src="images/cloudnews.png" width="500" style="position: absolute;top: -270px;" data-w-id="1f5b7647-20c3-046e-6657-95b6a164e7db" class="lozad"/>
-			
-			<picture>
+}">			<picture>
              <source srcset="images/cloudnews.webp" type="image/webp">
-			
+			<img data-src="images/cloudnews.png" class="lozad" style="position: absolute;top: -270px;" data-w-id="1f5b7647-20c3-046e-6657-95b6a164e7db"/>
 			</picture>
 	    <div class="container writing">
 						
