@@ -30,6 +30,11 @@ steps:
     transport modes with our bicycle point. We promote Carpooling and Public transports:
     the more people share a car or public transport, the lower the carbon footprint
     per passenger, the lower the carbon footprint per festival resident.'
+- title: 5. Filtered Tap Water
+  description: 'Filtered tap water is available to avoid a wave of plastic water bottles
+    which usually submerges festivals. Meet our less lucrative but more responsible
+    alternative: Paradise City still & sparkling Tap Water.'
+  img: "/uploads/water.svg"
 description: ''
 
 ---
