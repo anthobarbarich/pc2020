@@ -12,10 +12,10 @@ steps:
     img: "/images/uploads/plan-de-travail-–-10.svg"
     title: Green energy
   title: 1.GREEN ENERGY
-  description: Green energy lowers the impact of lighting & music. We encourage everyone
+  description: 'Green energy lowers the impact of lighting & music. We encourage everyone
     involved in the festival to be aware of how much energy they use, while measuring,
     monitoring and reporting each year on energy usage. The last 2 editions were powered
-    up only by renewable energy & using low consumption lightning on site.
+    up only by renewable energy & using low consumption lightning on site. '
   img: "/uploads/1energy.svg"
 - step:
     description: Future food  consists of **100 % locally sourced & organically grown
