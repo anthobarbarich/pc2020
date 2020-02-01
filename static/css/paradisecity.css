@@ -2418,12 +2418,14 @@ padding-top: 50px;
     src: url('../fonts/Akrobat-Black.woff2') format("woff2"),url('../fonts/Akrobat-Black.woff') format('woff');
     font-weight: 900;
     font-style: normal;
+	font-display: swap;
 }
 @font-face {
     font-family: 'Akrobat-Regular';
     src: url('../fonts/Akrobat-Regular.woff') format('woff');
     font-weight: 300;
     font-style: normal;
+	font-display: swap;
 }
 /* -------------------------------- 
 
