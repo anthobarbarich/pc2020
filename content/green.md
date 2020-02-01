@@ -35,6 +35,13 @@ steps:
     which usually submerges festivals. Meet our less lucrative but more responsible
     alternative: Paradise City still & sparkling Tap Water.'
   img: "/uploads/water.svg"
+- title: 6. Sustainable Communication
+  description: 'Sustainable communication is considered whenever applicable: we use
+    only FSC paper for all our communication on paper (flyers, posters …), which we
+    try to cut down. And no tokens, it’s a cashless festival. As for our internet
+    site, we make sure it is the lightest possible to avoid any negative environmental
+    impact.'
+  img: "/uploads/com.svg"
 description: ''
 
 ---
