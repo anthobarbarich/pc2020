@@ -23,6 +23,13 @@ steps:
     We are also trying to implement a circular economy in regards with the waste generated
     by the festival.
   img: "/uploads/waste.svg"
+- title: 4. Transport
+  img: "/uploads/4transport.svg"
+  description: 'Transport modes have the biggest impact on our carbon footprint. So
+    how will you get here? We are providing near entrance parking for sustainable
+    transport modes with our bicycle point. We promote Carpooling and Public transports:
+    the more people share a car or public transport, the lower the carbon footprint
+    per passenger, the lower the carbon footprint per festival resident.'
 description: ''
 
 ---
