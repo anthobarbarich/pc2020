@@ -61,6 +61,12 @@ steps:
     and will implement for the second time in a row our circular camping where each
     camper has the opportunity to rent recycled camping gear, how cool is that?
   img: "/uploads/  9.svg"
+- title: 10. Awareness
+  description: Awareness of the importance of a sustainable way of life is enhanced
+    and communicated to our suppliers, partners and sponsors, to assure they share
+    our concerns about a greener future. And we give you useful sustainable tips on
+    the site of the festival.
+  img: "/uploads/awareness.svg"
 description: ''
 
 ---
