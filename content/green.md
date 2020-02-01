@@ -16,6 +16,13 @@ steps:
     providers. Menus are discussed internally in order to offer large & balanced alternatives.
     We also try to adapt food quantity to avoid leftovers.
   img: "/uploads/food.svg"
+- title: 3. Waste Management
+  description: Waste Management allows us, with our visitors’ participation, to sort,
+    recycle and compost our waste. In order to minimize our waste stream, we have
+    a “Zero single-used plastic” policy & we provide reusable cups for all drinks.
+    We are also trying to implement a circular economy in regards with the waste generated
+    by the festival.
+  img: "/uploads/waste.svg"
 description: ''
 
 ---
