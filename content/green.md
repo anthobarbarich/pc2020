@@ -9,9 +9,13 @@ steps:
     monitoring and reporting each year on energy usage. The last 2 editions were powered
     up only by renewable energy & using low consumption lightning on site.
   img: "/uploads/1energy.svg"
-- title: ''
-  description: ''
-  img: ''
+- title: 2. Future Food
+  description: Future food consists of 100 % locally sourced & organically grown food
+    and ingredients from fair-trade source. Because of meat’s high climate & environmental
+    impact, we propose a large range of vegetarian & meat free meals from our food
+    providers. Menus are discussed internally in order to offer large & balanced alternatives.
+    We also try to adapt food quantity to avoid leftovers.
+  img: "/uploads/food.svg"
 description: ''
 
 ---
