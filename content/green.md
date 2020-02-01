@@ -49,6 +49,12 @@ steps:
     in a row, we intent to purify on site the water used in our showers, reducing
     treatment as much as possible. And with the use of our eco-toilets, we intent
     to reduce any excessive water usage.
+- title: 8. CO2 Neutral
+  description: A CO2-Neutral festival is a goal we have achieved year after year.
+    We are aware that even after all our efforts, there is a remaining climate impact.
+    Taking our responsibility, we offset the unavoidable climate impact through the
+    support of CO2logic’s climate project.
+  img: "/uploads/co2.svg"
 description: ''
 
 ---
