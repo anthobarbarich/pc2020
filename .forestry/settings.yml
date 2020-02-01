@@ -45,10 +45,10 @@ sections:
 - type: heading
   label: LANDING PAGES
 - type: directory
-  path: content/**/*
-  label: "+ New Page"
+  path: content
+  label: Unique Basic Pages
   create: documents
-  match: "**/*"
+  match: "*"
   templates:
   - basic-page
 - type: heading
