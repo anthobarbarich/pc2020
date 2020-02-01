@@ -9,29 +9,18 @@ greentext: ''
 featured: []
 
 ---
-2019 marks our 5th anniversary and our excitement is mounting
-to deliver the most special edition to date. The Paradise City
-recipe has been quite simple from the start in 2015: mix the
-best electronic music on offer with an open minded crowd and a
-strong effort to minimize our ecological footprint. Meanwhile
-our intention has always been a dancefloor packed with energy,
-where people dance, live euphoric moments and connect with
-the artists and each-other.
+**DEAREST CITIZENS,**
 
-For our 5th birthday we want to impress our music loving
-community with a very special line-up. We also want to surprise
-you by making some bold changes to the festival site. But we
-can’t reveal it all here.
+People make the party, and what a party it was in 2019. Of course, with an increase of popularity comes the challenge of respecting the vibe and comfort of the early days. We realize that you, our earliest supporters, don’t want the festival to become crowdy. But rest assured, the vibe & energy remain our primary focus, not the numbers.
 
-There is a tremendous momentum for climate action in Belgium today,
-it’s great to see that people are standing up and claiming the climate.\
-At Paradise City we have a purpose, we utterly believe that the
-future can be bright but that we all need to make an effort to lower
-our ecological impact. That is why we are putting so much energy in our Green policy.
-That is also why you won’t find any meat or single used plastics on our festival.
+We build our festival for you, to create intense moments, memories for life, like the goosebumps when hearing your favorite tune for the first time, the rush when feeling connected with the rest of the crowd, or the utter joy that comes along with the camaraderie between likeminded spirits.
 
-Thank you, dear Citizen, for making Paradise City such a warm
-place. Each year we are deeply touched with your positive energy.
-So let’s do it all over again on July 5,6 & 7.
+We are very proud of this year’s line-up: we will take you on a musical trip that was made for your hearts, not the charts.
 
-**The countdown has begun… come and join us!**
+Paradise City aims to be part of the transition towards environmental responsibility in our society. Sustainability sits at the core of the Paradise City DNA and like each year we will take additional steps to lower our ecological footprint.
+
+We will increase the comfort at our camping this year, so if you want to enjoy Paradise City to the fullest go for the full camping experience.
+
+The countdown has begun. Let’s come together again at the end of June for 3 days in Paradise.
+
+**One Love**
