@@ -12,7 +12,7 @@ sections:
 - type: heading
   label: Stages
 - type: directory
-  path: stages
+  path: content/stages
   label: Stages
   create: documents
   match: "**/*"
