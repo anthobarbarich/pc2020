@@ -13,34 +13,34 @@ fields:
     maxSize: 250
   label: photo
 - name: day
-  type: select
-  default: []
+  type: list
   config:
-    required: false
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: simple
     options:
     - Friday
     - Saturday
     - Sunday
+  label: Day
+- name: position
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
     source:
       type: simple
-      section: 
-      file: 
-      path: 
-  label: day
-- name: position
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: documents
-      section: stages
-      file: 
-      path: 
-  label: position
+    options:
+    - Abstrkt
+    - Love
+    - Giegling
+    - Silo
+    - Paradise City Live
+    - Under My Garage
+  label: Stage
 pages:
 - content/artist/cleveland.md
-- content/artist/cleveland.md
-- content/artist/jt.md
 - content/artist/jt.md

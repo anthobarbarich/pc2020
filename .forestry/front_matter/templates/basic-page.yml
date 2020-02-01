@@ -8,6 +8,11 @@ fields:
 - type: text
   name: uniqueid
   label: uniqueid
+- name: image_opengraph
+  type: file
+  config:
+    maxSize: 250
+  label: Image Opengraph
+  description: 1080x1080 or 1200x650
 pages:
-- content/**/*/popol.md
 - content/get-involved.md
