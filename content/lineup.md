@@ -2,7 +2,7 @@
 uniqueid: artists
 type: lineup
 title: Line-Up
-intro: Our iline up is amazing
+intro: Line-UP ANNOUNCED SOON, STAY TUNED!
 team:
   - day: Sunday
     end: '17:00'
@@ -339,7 +339,7 @@ team:
     end: '14:30'
     linkartist: 'https://www.facebook.com/matebrothersbrussels/'
     name: Maté Brothers
-    photo: /images/uploads/square-maté-family-–-35-copie.jpg
+    photo: /images/uploads/square-maté-family-–-35-copie.jpg
     position: Love
     soundcloud: 'https://soundcloud.com/mate-family'
     time: '13:00'
