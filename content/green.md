@@ -11,7 +11,7 @@ steps:
       on site.
     img: "/images/uploads/plan-de-travail-–-10.svg"
     title: Green energy
-  title: GREEN ENERGY
+  title: 1.GREEN ENERGY
   description: Green energy lowers the impact of lighting & music. We encourage everyone
     involved in the festival to be aware of how much energy they use, while measuring,
     monitoring and reporting each year on energy usage. The last 2 editions were powered
