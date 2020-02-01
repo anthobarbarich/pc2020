@@ -15,6 +15,9 @@ sections:
 - type: document
   path: content/practical.md
   label: Practical
+- type: document
+  path: content/transport.md
+  label: Transport
   match: "**/*"
 - type: heading
   label: BLOG
