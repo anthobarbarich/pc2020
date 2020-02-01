@@ -10,7 +10,7 @@ sections:
   path: content/_index.md
   label: Homepage
 - type: heading
-  label: Stages
+  label: content/stages
 - type: directory
   path: stages
   label: Stages
