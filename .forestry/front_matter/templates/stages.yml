@@ -19,6 +19,4 @@ fields:
   label: Photo
 pages:
 - content/abstrkt.md
-- stages/Love.md
-- stages/Paradise City.md
-- stages/abstrkt.md
+- content/stages/abstrkt.md
