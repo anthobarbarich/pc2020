@@ -43,3 +43,5 @@ fields:
     max: 
     labelField: 
   label: Steps
+pages:
+- content/green.md
