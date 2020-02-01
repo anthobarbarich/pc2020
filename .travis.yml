@@ -10,8 +10,10 @@ install:
   - sudo dpkg -i hugo*.deb
 
 script:
+  - npm i
   - hugo version # prints the Hugo version, just in case.
   - hugo # build the website
+  - gulp minify
 
 env:
   global:
