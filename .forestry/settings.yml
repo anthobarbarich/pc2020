@@ -13,7 +13,23 @@ sections:
   path: content/green.md
   label: Green
 - type: heading
-  label: Stages
+  label: BLOG
+- type: directory
+  path: content/news
+  label: News
+  create: documents
+  match: "**/*"
+  templates:
+  - blog-post
+- type: heading
+  label: FESTIVAL
+- type: directory
+  path: content/artist
+  label: Artists
+  create: all
+  match: "**/*"
+  templates:
+  - artist
 - type: directory
   path: content/stages
   label: Stages
@@ -22,34 +38,26 @@ sections:
   templates:
   - stages
 - type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
-  path: content/news
-  label: News
-  create: documents
-  match: "**/*"
-  templates:
-  - blog-post
-- type: directory
-  path: content/artist
-  label: Artist
-  create: all
-  match: "**/*"
-  templates:
-  - artist
-- type: directory
   path: content/timetable
   label: Timetable
   create: all
   match: "**/*"
+- type: heading
+  label: LANDING PAGES
 - type: directory
-  path: content/lineup2
-  label: Lineup2
-  create: all
+  path: content/**/*
+  label: "+ New Page"
+  create: documents
   match: "**/*"
+  templates:
+  - basic-page
+- type: heading
+  label: OTHER
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
