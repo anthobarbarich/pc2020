@@ -588,6 +588,7 @@ h3.section-intro.nomargin.greenz {
     transition: -webkit-transform 200ms ease;
     transition: transform 200ms ease;
     transition: transform 200ms ease, -webkit-transform 200ms ease;
+	box-shadow: lightgrey 0 2px 20px;
 }
 
 .linkblog {
