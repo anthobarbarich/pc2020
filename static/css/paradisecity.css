@@ -2043,6 +2043,9 @@ a.blogthumb.w-inline-block {
 
 @media (max-width: 479px) {
 	
+	.treebottom {
+		display: none;
+	}
 	.section-intro.col.whitebg img {
 		position: relative;
 	}
