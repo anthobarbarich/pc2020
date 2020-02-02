@@ -51,7 +51,6 @@ sections:
 - type: document
   path: content/partners.md
   label: Partners
-  match: "**/*"
 - type: heading
   label: LANDING PAGES
 - type: directory
