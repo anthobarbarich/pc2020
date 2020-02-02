@@ -1,0 +1,20 @@
+---
+label: Partners
+hide_body: true
+fields:
+- type: text
+  name: uniqueid
+  label: uniqueid
+- type: field_group_list
+  name: partner
+  label: partner
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: file
+    name: photo
+    label: photo
+  - type: text
+    name: position
+    label: position
