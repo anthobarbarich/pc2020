@@ -16,7 +16,7 @@ greentext: Any gathering of a large number of people can have a potential negati
 featured: []
 
 ---
-### **DEAREST CITIZENS,**
+### DEAREST CITIZENS,
 
 **People make the party, and what a party it was in 2019. Of course, with an increase of popularity comes the challenge of respecting the vibe and comfort of the early days, but rest assured, the vibe & energy remain our primary focus, not the numbers.**
 
