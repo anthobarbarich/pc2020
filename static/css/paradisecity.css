@@ -6,6 +6,11 @@ body {
     overflow-x: hidden;
 	font-weight: 200;
 }
+
+h1 {
+	    font-family: akrobat;
+    text-transform: uppercase;
+}
 h2 {
     margin-top: 20px;
     margin-bottom: 10px;
@@ -14,6 +19,9 @@ h2 {
     line-height: 36px;
     font-weight: 700;
     text-transform: uppercase;
+}
+h3 {
+	font-family: 'Akrobat';
 }
 p {
     margin-bottom: 10px;
@@ -29,6 +37,17 @@ a {
 	font-family: 'Akrobat-Regular';
 }
 
+.greenhome {
+	color:#456348;
+	font-family: 'Akrobat';
+}
+
+.block50.bgwhite strong { 
+font-family: 'Akrobat';
+		color:#456348;
+		text-transform: uppercase;
+
+}
 .grn {
 	color: #8FA768;
 }
@@ -350,7 +369,7 @@ background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(253,
     font-size: 14px;
 	background-color: white;
 	border-radius: 20px;
-	max-height: 610px;
+	max-height: 547px;
 }
 .block50.padding-left {
     padding-left: 67px;
@@ -482,26 +501,9 @@ background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(253,
 .col4.whitebg {
     position: relative;
     max-width: 100%;
-    padding: 60px 20px 60px 50px;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: row;
-    -ms-flex-direction: row;
-    flex-direction: row;
-    -webkit-box-pack: start;
-    -webkit-justify-content: flex-start;
-    -ms-flex-pack: start;
-    justify-content: flex-start;
-    -webkit-flex-wrap: wrap;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    -webkit-box-align: start;
-    -webkit-align-items: flex-start;
-    -ms-flex-align: start;
-    align-items: flex-start;
-    -webkit-align-content: flex-start;
-    -ms-flex-line-pack: start;
-    align-content: flex-start;
+    padding: 10px 20px 60px 50px;
+
+    align-content: space-around;
     border-radius: 25px;
     background-color: #fff;
     box-shadow: 3px 3px 49px 14px rgba(0, 0, 0, .06);
@@ -555,7 +557,7 @@ h3.section-intro.nomargin.greenz {
     display: -ms-flexbox;
     display: flex;
     overflow: hidden;
-    width: 23%;
+    width: 100%;
     height: 250px;
     margin-right: 20px;
     -webkit-box-orient: horizontal;
@@ -578,25 +580,21 @@ h3.section-intro.nomargin.greenz {
     -webkit-flex: 0 auto;
     -ms-flex: 0 auto;
     flex: 0 auto;
-    border-radius: 10px;
+    border-radius: 30px;
     background-position: 0px 100%, 0px 0px, 50% 50%;
     background-size: 108px, auto, cover;
     background-repeat: no-repeat, repeat, repeat;
-    box-shadow: 1px 1px 29px 0 rgba(0, 0, 0, .28);
     -webkit-transition: -webkit-transform 200ms ease;
     transition: -webkit-transform 200ms ease;
     transition: transform 200ms ease;
     transition: transform 200ms ease, -webkit-transform 200ms ease;
 }
-.blogthumb:after {
-    position: absolute;
-    content: "";
-    background-color: black;
-    opacity: 0.3;
-    width: 100%;
-    height: 100%;
-    z-index: 9;
+
+.linkblog {
+	width: 21%;
+	margin-right: 1%;
 }
+
 .blogthumb:hover {
     -webkit-transform: scale(1.06);
     -ms-transform: scale(1.06);
@@ -613,7 +611,7 @@ h3.section-intro.nomargin.greenz {
     -ms-flex: 1;
     flex: 1;
     font-family: Akrobat;
-    color: #fff;
+    color: #000;
     font-size: 18px;
     line-height: 22px;
     font-weight: 500;
@@ -1892,6 +1890,10 @@ input.newsletter-submit:hover, input.newsletter-submit:active {
 	max-width: 92%;
 	margin: 27px auto;
 }
+	
+	.linkblog {
+    width: 45%;
+}
 .col4.whitebg {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -1918,7 +1920,7 @@ input.newsletter-submit:hover, input.newsletter-submit:active {
     text-align: center;
 }
 .blogthumb {
-    width: 45%;
+    width: 90%;
     -webkit-box-flex: 0;
     -webkit-flex: 0 auto;
     -ms-flex: 0 auto;
@@ -2053,6 +2055,10 @@ a.blogthumb.w-inline-block {
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+}
+	
+	.linkblog {
+    width: 100%;
 }
 #myBtnContainer {
     text-align: center;

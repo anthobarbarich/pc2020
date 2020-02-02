@@ -224,17 +224,20 @@ Creation Date: 05/20/2019
 			</picture>
 	    <div class="container writing">
 						
-
                 <h3 class="section-intro" style="color:white;text-shadow: 2px 2px 7px #2d282885; text-align:left;">THE writing on the walls</h3>
                 <div class="col4 whitebg"> 
 					<img data-src="images/lefwriting.png" width="400" alt="" class="lozad" style="position: absolute;top: -149px;left: -25px;">
 					
 					{{ range first 4 (where .Site.Pages "Params.layout" "blog").ByPublishDate.Reverse }}
-                    <a href="{{.Permalink}}" class="blogthumb w-inline-block lozad" style="background-image: linear-gradient(180deg, rgba(0, 0, 0, .24), rgba(0, 0, 0, .24)); background-size: cover; background-position: center;" data-background-image="{{ .Params.thumbnail }}">
-                        <h3 class="headingblogthumb"><span
-                class="datearticle">{{ .Date.Format "Mon, Jan 2" }}</span><br>
-								{{ .Title }} </h3>
-                    </a> {{ end }} <a href="/news" class="btcta reverse w-button">all news →</a></div>
+				<a href="{{.Permalink}}" class="linkblog">
+				<h3 class="headingblogthumb">
+					<span class="datearticle">{{ .Date.Format "Mon, Jan 2" }}</span><br>
+								{{ .Title }} 
+				</h3>
+                    <div class="blogthumb w-inline-block lozad" style="background-image: linear-gradient(180deg, rgba(0, 0, 0, .24), rgba(0, 0, 0, .24)); background-size: cover; background-position: center;" data-background-image="{{ .Params.thumbnail }}">
+                    </div></a> {{ end }} <a href="/news" class="btcta reverse w-button">all news →</a>
+			
+			</div>
             </div>
 	</section>
         <div class="lineu lozad">
@@ -262,7 +265,7 @@ Creation Date: 05/20/2019
                 </div>
                 <div id="w-node-48d598a7fe19-feae796a" class="block50 bgwhite">
                     <h3 class="section-heading">green</h3>
-                    <p class="green">TO MAKE SURE WE MINIMIZE OUR IMPACTS, WE HAVE SET A 10 STEPS PROCESS REGARDING OUR
+                    <p class="greenhome">TO MAKE SURE WE MINIMIZE OUR IMPACTS, WE HAVE SET A 10 STEPS PROCESS REGARDING OUR
 								ENERGY USE, THE FOOD WE OFFER, THE WATER CONSUMED, THE WASTE PRODUCED, THE TRANSPORT MEANS TO ATTEND THE
 								FESTIVAL AND FINALLY OUR CITIZEN’S AWARENESS.</p>
                     <p style="color:black;">{{ .Params.greentext}} </p>
