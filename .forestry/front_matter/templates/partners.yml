@@ -5,6 +5,7 @@ fields:
 - type: text
   name: uniqueid
   label: uniqueid
+  hidden: true
 - type: field_group_list
   name: partner
   label: partner
