@@ -48,6 +48,10 @@ sections:
   label: Timetable
   create: all
   match: "**/*"
+- type: document
+  path: content/partners.md
+  label: Partners
+  match: "**/*"
 - type: heading
   label: LANDING PAGES
 - type: directory
