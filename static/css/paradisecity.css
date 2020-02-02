@@ -5,6 +5,7 @@ body {
     line-height: 20px;
     overflow-x: hidden;
 	font-weight: 200;
+	font: sans-serif
 }
 
 h1 {
@@ -29,6 +30,9 @@ p {
 }
 a {
     text-decoration: none;
+}
+b, strong {
+	font-family: 'Akrobat';
 }
 
 /* COLORS */
@@ -55,7 +59,7 @@ font-family: 'Akrobat';
 .body {
     min-height: 1200px;
     background-color: #FFFAFA;
-    font-family: Akrobat-Regular, sans-serif;
+    font-family: 'Akrobat-Regular', sans-serif;
 }
 .body.news.navlink-black.w-nav-link a[href="/news"] {
     color: red;
@@ -81,8 +85,8 @@ font-family: 'Akrobat';
     -ms-flex-align: start;
     align-items: flex-start;
 	background-color: #FB9CB7;
-background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(253, 151, 182, 0.28)), to(rgba(255, 128, 75, 0.69))), url(/images/bgpattern2.jpg);
-    background-image: linear-gradient(90deg, rgba(253, 151, 182, 0.28), rgba(255, 128, 75, 0.69)), url(/images/bgpattern2.jpg);
+background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(253, 151, 182, 0.28)), to(rgba(255, 128, 75, 0.80))), url(/images/bgpattern2.jpg);
+    background-image: linear-gradient(90deg, rgba(253, 151, 182, 0.28), rgba(255, 128, 75, 0.80)), url(/images/bgpattern2.jpg);
     background-position: 0px 0px, 0px 0px;
     background-size: auto, 20px 200px;
 
@@ -500,7 +504,7 @@ background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(253,
 }
 .col4.whitebg {
     position: relative;
-    max-width: 100%;
+   width: 100%;
     padding: 10px 20px 60px 50px;
 
     align-content: space-around;
@@ -1488,6 +1492,7 @@ h3.daytxt {
 }
 .textblock.w-richtext a {
     font-weight: 600;
+	position: relative;
 }
 .image-5 {
     position: absolute;
