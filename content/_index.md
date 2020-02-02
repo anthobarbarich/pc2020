@@ -18,7 +18,7 @@ featured: []
 ---
 ### **DEAREST CITIZENS,**
 
-**People make the party, and what a party it was in 2019. Of course, with an increase of popularity comes the challenge of respecting the vibe and comfort of the early days, but rest assured, the vibe & energy remain our primary focus, not the numbers.**
+**<p class="greenhome>People make the party, and what a party it was in 2019. Of course, with an increase of popularity comes the challenge of respecting the vibe and comfort of the early days, but rest assured, the vibe & energy remain our primary focus, not the numbers.</p>**
 
 We build our festival for you, to create intense moments, memories for life, like the goosebumps when hearing your favorite tune for the first time, the rush when feeling connected with the rest of the crowd, or the utter joy that comes along with the camaraderie between likeminded spirits.
 
