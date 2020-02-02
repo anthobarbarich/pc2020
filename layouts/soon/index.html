@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-<html data-wf-page="5c4b1835008881d3feae796a" data-wf-site="5c34c1d2a3cd45693156a337">
-
-<head>
+<html data-wf-page="5c4b1835008881d3feae796a" data-wf-site="5c34c1d2a3cd45693156a337"><head>
     <!-- Google Tag Manager -->
     <script>
         (function(w, d, s, l, i) {
@@ -21,7 +19,7 @@
     </script>
     <!-- End Google Tag Manager -->
     <meta charset="utf-8">
-    <title>Paradise City Festival 2020 | 5, 6 & 7 July Perk, Belgium</title>
+    <title>Paradise City Festival 2020 | 26, 27 & 28 June Perk, Belgium</title>
     <meta name="description" content="{{ .Content | truncate 150 }}" />
     <meta content="Paradise City Festival 2020 | 5, 6 & 7 July Perk, Belgium" property="og:title">
     <meta content="{{ .Content | truncate 150 }}" property="og:description">
@@ -124,8 +122,8 @@
     </script>
 </head>
 
-<body class="body home" data-ix="boyload">
-    <div style="overflow-x:hidden">
+<body class="body home">
+    <div style="overflow-x:hidden" class="bggradient">
         <!-- Google Tag Manager (noscript) -->
         <noscript>
             <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4CP3V8" height="0" width="0" style="display:none;visibility:hidden"></iframe>
@@ -159,29 +157,133 @@ Creation Date: 05/20/2019
 
             gtag('config', 'AW-807793275');
         </script>
+        {{ partial "nav.html" . }}
         <div class="hero" data-ix="appearhomenav">
             <picture>
                 <source srcset="images/castle23.webp" type="image/webp">
                 <img src="images/castle23.png" class="castle">
             </picture>
-
-
+            <picture>
+                <source srcset="images/treebottomright.webp" type="image/webp" >
+				<img data-src="images/treebottomright.png" class="treebottom lozad">
+            </picture>
             <div class="container containhero">
-                <div id="w-node-c85380380b13-feae796a" class="hero-content" data-ix="appearright"> {{ partial "circlelogo.html" }}
-                    <h1 class="heading">5, 6 &amp; 7 JULY </h1>
+                <div id="w-node-c85380380b13-feae796a" class="hero-content"> {{ partial "circlelogo.html" }}
+                    <h1 class="heading">26, 27 &amp; 28 JUNE </h1>
                     <h2 class="heading-2">perk, belgium</h2>
-                    <a href="https://www.facebook.com/events/544608079603530/" target="_blank" class="btn-hero reverse w-button">attend event</a><a href="https://frontoffice.paylogic.nl/?point_of_sale_id=17428&event_id=133545" target="_blank" class="btn-hero w-button">Green Card Tickets</a> </div>
+                    <a href="/tickets" target="_blank" class="btn-hero w-button">GET YOUR
+						TICKETS</a> <a href="https://www.facebook.com/events/544608079603530/" target="_blank" class="btn-hero reverse w-button">attend event</a> </div>
             </div>
         </div>
+        <section class="_01">
+            <img data-src="images/leaves3-reverse.png" width="200" data-w-id="1f5b7647-20c3-046e-6657-95b6a164e7db" alt="" class="feuillegrise lozad">            
+			
+			<picture>
+            <source data-srcset="/images/leaves3.webp" type="image/webp">
+			<img data-src="images/leaves3.png" width="200" alt="" class="feuillegriseleft lozad">	
+			</picture>			
+			
 
+			 <picture>
+             <source srcset="images/tree2.webp" type="image/webp">
+				 <img data-src="images/tree2.png" width="400" alt="" class="tree2 lozad">
+			</picture>
+<!--            <img data-src="images/shapesrightintro.png" width="417" alt="" class="shapeesrightintro lozad">-->
+            <div class="container split paddingtop">
+                <div id="w-node-dccfab5c11a5-feae796a" class="block50 bgwhite">
+					 <picture>
+                        <source data-srcset="images/ctaleaves.webp" type="image/webp">
+                        <img data-src="images/ctaleaves.png" width="150" alt="" class="lozad" style="position: absolute; z-index: 999;right:-150px;top:160px">
+					</picture>
+                   {{.Content }}
+
+                </div>
+                <div id="w-node-b00e1d967f4d-feae796a" class="block50">
+					
+					
+					<picture>
+                        <source data-srcset="images/cloudcta.webp" type="image/webp">
+					<img src="images/cloudcta.png" class="cloudcta lozad">
+					</picture>
+					
+{{partial "lightbox.html"}}
+                </div>
+            </div>
+        </section>
+		<section style="position:relative;"><img data-src="images/treerightwrite.png" width="550" alt="" class="lozad" style="position: absolute;
+    right: -180px;
+    top: 350px;
+}">			<picture>
+             <source srcset="images/cloudnews.webp" type="image/webp">
+			<img data-src="images/cloudnews.png" class="lozad" style="position: absolute;top: -270px;" data-w-id="1f5b7647-20c3-046e-6657-95b6a164e7db"/>
+			</picture>
+	    <div class="container writing">
+						
+                <h3 class="section-intro" style="color:white;text-shadow: 2px 2px 7px #2d282885; text-align:left;">THE writing on the walls</h3>
+                <div class="col4 whitebg"> 
+					<img data-src="images/lefwriting.png" width="400" alt="" class="lozad" style="position: absolute;top: -149px;left: -25px;">
+					
+					{{ range first 4 (where .Site.Pages "Params.layout" "blog").ByPublishDate.Reverse }}
+				<a href="{{.Permalink}}" class="linkblog">
+				<h3 class="headingblogthumb">
+					<span class="datearticle">{{ .Date.Format "Mon, Jan 2" }}</span><br>
+								{{ .Title }} 
+				</h3>
+                    <div class="blogthumb w-inline-block lozad" style="background-image: linear-gradient(180deg, rgba(0, 0, 0, .24), rgba(0, 0, 0, .24)); background-size: cover; background-position: center;" data-background-image="{{ .Params.thumbnail }}">
+                    </div></a> {{ end }} <a href="/news" class="btcta reverse w-button">all news →</a>
+			
+			</div>
+            </div>
+	</section>
+        <div class="lineu lozad">
+<!--           <img data-src="images/feuille.svg" width="278" alt="" class="feuille lozad"><img data-src="images/brancherouge.svg" width="172" alt="" class="feuille rouge lozad">-->
+            <div class="container">
+                <h3 class="section-cta">{{.Params.lineuptitle}}</h3>
+                <div class="line"></div>
+                <!--<h3 class="section-cta">{{ .Params.lineuptxt | markdownify }}</h3>-->
+               <!--<a href="/lineup" class="btcta rev w-button" style="position: relative; z-index:99999999999;">SEE LINE-UP →</a>--> </div>
+        </div>
+        <div class="section-green"> 					 
+			<img data-src="images/greentree.png" width="500" alt="" class="feuillesbottomlineup lozad">
+			<img data-src="images/rightgreen.png" width="750" alt="" class="feuillesbottomlineup2 lozad">
+			<img data-src="images/greentopright.png" width="200" style="position: absolute; top: 0; right: 0; z-index: 1;" alt="" class="lozad">
+            <div class="container split">
+                <div id="w-node-48d598a7fe0c-feae796a" class="block50">
+					<picture>
+                        <source data-srcset="images/ctaleaves.webp" type="image/webp">
+                        <img data-src="images/ctaleaves.png" width="100" alt="" class="lozad" style="position: absolute;right: -77px;top: 10px;z-index: 9;">
+					</picture>
+                    <picture>
+                        <source data-srcset="images/green.webp" type="image/webp">
+                        <img data-src="images/green.jpg" width="626" alt="" class="img-green lozad">
+					</picture>
+                </div>
+                <div id="w-node-48d598a7fe19-feae796a" class="block50 bgwhite">
+                    <h3 class="section-heading">green</h3>
+                    <p class="greenhome">TO MAKE SURE WE MINIMIZE OUR IMPACTS, WE HAVE SET A 10 STEPS PROCESS REGARDING OUR
+								ENERGY USE, THE FOOD WE OFFER, THE WATER CONSUMED, THE WASTE PRODUCED, THE TRANSPORT MEANS TO ATTEND THE
+								FESTIVAL AND FINALLY OUR CITIZEN’S AWARENESS.</p>
+                    <p style="color:black;">{{ .Params.greentext}} </p>
+                    <a href="green.html" class="btcta rev w-button">more info →</a> </div>
+            </div>
+        </div>
 {{ partial "widgetsm.html"}}
-        <div class="section-partners">
+{{ partial "cta.html" }}
+        <div class="section-partners"><picture>
+                        <source data-srcset="images/green.webp" type="image/webp">
+                        <img data-src="images/leafbottomcta.png" width="500" alt="" class="lozad" style="position: absolute; top:-112px; right:0">
+					</picture>
+            <div class="container partners" style="z-index: 99999"> {{ range where .Site.Pages "Params.uniqueid" "partners" }} {{ range .Params.partner }}
+                <a href="{{.position}}"> <img data-src="{{.photo}}" alt="{{.name}}" class="partnerimg lozad" width="132"></a> {{ end }} {{ .Content }} {{ end }} <img src="https://d33wubrfki0l68.cloudfront.net/22138bc7f912731bf00ae759322c657dc4d812c7/cd07c/images/minilogowhite.svg" width="137" alt="" class="logobottom lozad">
 
+                <!--<img src="../images/Image-15.png" alt="" class="partnerimg"><img src="../images/Image-14.png" alt="" class="partnerimg"><img src="../images/Image-29.png" alt="" class="partnerimg"><img src="../images/Image-31.png" alt="" class="partnerimg"><img src="../images/Image-23.png" alt="" class="partnerimg"><img src="../images/Image-20.png" alt="" class="partnerimg"><img src="../images/Image-17.png" alt="" class="partnerimg"><img src="../images/Image-13.png" alt="" class="partnerimg"><img src="../images/Image-16.png" alt="" class="partnerimg"><img src="../images/Image-22.png" alt="" class="partnerimg"><img src="../images/Image-18.png" alt="" class="partnerimg"><img src="../images/Image-25.png" alt="" class="partnerimg"><img src="../images/Image-27.png" alt="" class="partnerimg"><img src="../images/Image-19.png" alt="" class="partnerimg"><img src="../images/Image-24.png" alt="" class="partnerimg"><img src="../images/Image-30.png" alt="" class="partnerimg"><img src="../images/minilogoorange.svg" width="137" alt="" class="logobottom"><img src="../images/Image-21.png" alt="" class="partnerimg"><img src="../images/Image-26.png" alt="" class="partnerimg"></div>-->
+
+            </div>
             <img data-src="/images/bgfoot-test.png" alt="" class="image-2 lozad"> {{ partial "scripts.html" . }} </div>
         <script>
             const observer = lozad(); // lazy loads elements with default selector as '.lozad'
             observer.observe();
-        </script>
+		</script>
 </body>
 
-</html> 
+</html>
