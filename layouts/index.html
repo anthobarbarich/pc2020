@@ -124,7 +124,7 @@
     </script>
 </head>
 
-<body class="body home" data-ix="boyload">
+<body class="body home" data-ix="boyload" style="max-height:100vh;overflow:hidden;">
     <div style="overflow-x:hidden">
         <!-- Google Tag Manager (noscript) -->
         <noscript>
@@ -177,7 +177,7 @@ Creation Date: 05/20/2019
 {{ partial "widgetsm.html"}}
         <div class="section-partners">
 
-            <img data-src="/images/bgfoot-test.png" alt="" class="image-2 lozad"> {{ partial "scripts.html" . }} </div>
+            {{ partial "scripts.html" . }} </div>
         <script>
             const observer = lozad(); // lazy loads elements with default selector as '.lozad'
             observer.observe();
