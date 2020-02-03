@@ -1,7 +1,7 @@
 +++
 date = 2020-02-03T18:08:55Z
 layout = "blog"
-thumbnail = "/uploads/paradise_150_070719_AG1A3132_leylahesna_lr.jpg"
+thumbnail = "/v1580761017/paradise_150_070719_AG1A3132_leylahesna_lr_wtddcp.jpg"
 title = "Become an Ambassador"
 
 +++
