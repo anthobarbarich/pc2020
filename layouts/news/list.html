@@ -15,8 +15,9 @@
 					<span class="datearticle">{{ .Date.Format "Mon, Jan 2" }}</span><br>
 								{{ .Title }} 
 				</h3>
-                    <div class="blogthumb w-inline-block lozad" style="background-image:url({{ .Params.thumbnail }}); background-size: cover; background-position: center;">
+                    <div class="blogthumb w-inline-block lozad" style="background-image:url(https://res.cloudinary.com/dxswtxauo/image/upload/w_400/q_auto{{ .Params.thumbnail }}); background-size: cover; background-position: center;">
                     </div></a> {{ end }}
+	
 			
 			</div>
 			
@@ -27,3 +28,6 @@
 		
 	</div>
 {{ partial "footer.html" . }}
+
+
+
