@@ -1,6 +1,7 @@
 +++
+image_opengraph = ""
 title = "Get Involved"
 uniqueid = ""
 
 +++
-Come on man ! 
+Ecrire texte ici :) 
