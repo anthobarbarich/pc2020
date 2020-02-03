@@ -1,6 +1,8 @@
 ---
 uniqueid: transport
 title: How to get to Paradise City?
+draft: true
+
 ---
 ## BY BIKE
 
