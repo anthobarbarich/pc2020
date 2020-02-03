@@ -22,4 +22,5 @@ fields:
   label: thumbnail
 pages:
 - content/news/test.md
+- content/news/the-writing-on-the-walls.md
 - content/news/ticket-sale-starts-on-february-12th.md
