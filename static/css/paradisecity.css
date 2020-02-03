@@ -29,7 +29,7 @@ h3 {
 p {
     margin-bottom: 10px;
 	font-size: 1em;
-}
+}p
 a {
     text-decoration: none;
 }
@@ -881,15 +881,16 @@ svg:not(:root) {
     color: #fff;
 }
 .partnerimg {
-    position: relative;
+ osition: relative;
     width: 87px;
-    margin-right: 83px;
+    margin-right: 40px;
     margin-bottom: 42px;
-    padding-right: 0px;
+    padding-right: 0;
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
+    margin-left: 40px;
 }
 .image-2 {
     position: relative;
