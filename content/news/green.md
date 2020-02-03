@@ -2,6 +2,7 @@
 title: Green
 uniqueid: news
 thumbnail: "/uploads/07072019-DSCF2142.jpg"
+date: 2020-02-04T23:00:00+00:00
 
 ---
 Global emissions keep beating records every year. The environmental crisis dawning upon us means that we all need to adapt fast and efficiently. The music industry needs to focus on this topic too. Since day one, sustainability sits at the core of Paradise City’s DNA. It implies taking into consideration various aspects regarding its organisation and its process. Paradise City is a meat-free and a no-single-use plastic festival. We not only recycle but we re-use everything we can.

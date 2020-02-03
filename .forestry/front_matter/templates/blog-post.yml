@@ -16,7 +16,7 @@ fields:
   config:
     display_utc: true
   default: now
-  hidden: true
+  hidden: false
 - type: file
   name: thumbnail
   label: thumbnail
