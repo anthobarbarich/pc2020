@@ -8,3 +8,5 @@ title = "Ticket sale starts on February 15th at 4pm"
 ## Dear citizens,
 
 Ticket sale for our 6th edition has started on **Wednesday February 5th.** Early Birds and tickets with a Green Card discount are now accessible. Watch out as there’s a very limited amount of tickets available in Wave 1 of Green Card tickets.
+
+<a class="w-button btcta rev" href="/tickets/" target="_blank">Tickets</a>
