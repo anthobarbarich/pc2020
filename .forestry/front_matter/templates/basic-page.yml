@@ -17,5 +17,6 @@ fields:
   description: 1080x1080 or 1200x650
 pages:
 - content/antho.md
+- content/antho2.md
 - content/camping.md
 - content/get-involved.md
