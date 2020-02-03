@@ -1,9 +1,18 @@
+::selection { background: #FF804B; color: white; }
+
+
 body {
     color: #333;
     font-size: 14px;
     line-height: 20px;
     overflow-x: hidden;
 	font-weight: 200;
+	font: sans-serif
+}
+
+h1 {
+	    font-family: akrobat;
+    text-transform: uppercase;
 }
 h2 {
     margin-top: 20px;
@@ -14,12 +23,18 @@ h2 {
     font-weight: 700;
     text-transform: uppercase;
 }
+h3 {
+	font-family: 'Akrobat';
+}
 p {
     margin-bottom: 10px;
 	font-size: 1em;
 }
 a {
     text-decoration: none;
+}
+b, strong {
+	font-family: 'Akrobat';
 }
 
 /* COLORS */
@@ -28,10 +43,25 @@ a {
 	font-family: 'Akrobat-Regular';
 }
 
+.greenhome {
+	color:#456348;
+	font-family: 'Akrobat';
+}
+
+.block50.bgwhite strong { 
+font-family: 'Akrobat';
+		color:#456348;
+		text-transform: uppercase;
+
+}
+.grn {
+	color: #8FA768;
+}
+
 .body {
     min-height: 1200px;
     background-color: #FFFAFA;
-    font-family: Akrobat-Regular, sans-serif;
+    font-family: 'Akrobat-Regular', sans-serif;
 }
 .body.news.navlink-black.w-nav-link a[href="/news"] {
     color: red;
@@ -57,8 +87,11 @@ a {
     -ms-flex-align: start;
     align-items: flex-start;
 	background-color: #FB9CB7;
-    background-position: 0px 0px, 50% 50%, 0px 0px;
-    background-size: auto, auto, auto;
+background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(253, 151, 182, 0.28)), to(rgba(255, 128, 75, 0.80))), url(/images/bgpattern2.jpg);
+    background-image: linear-gradient(90deg, rgba(253, 151, 182, 0.28), rgba(255, 128, 75, 0.80)), url(/images/bgpattern2.jpg);
+    background-position: 0px 0px, 0px 0px;
+    background-size: auto, 20px 200px;
+
 }
 .container {
     position: relative;
@@ -342,7 +375,7 @@ a {
     font-size: 14px;
 	background-color: white;
 	border-radius: 20px;
-	max-height: 610px;
+	max-height: 547px;
 }
 .block50.padding-left {
     padding-left: 67px;
@@ -438,13 +471,18 @@ a {
 }
 .txtblock {
     color: #5c5c5c;
-    font-size: 14px;
+    font-size: 1.2em;
     line-height: 27px;
     font-weight: 400;
 }
 .txtblock.green.page {
     line-height: 31px;
     font-weight: 400;
+}
+.textblock p {
+    line-height: 2em;
+    margin-bottom: 2em;
+    font-size: 1.3em;
 }
 .orange {
     color: #fa8d76;
@@ -468,27 +506,10 @@ a {
 }
 .col4.whitebg {
     position: relative;
-    max-width: 100%;
-    padding: 60px 20px 60px 50px;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: row;
-    -ms-flex-direction: row;
-    flex-direction: row;
-    -webkit-box-pack: start;
-    -webkit-justify-content: flex-start;
-    -ms-flex-pack: start;
-    justify-content: flex-start;
-    -webkit-flex-wrap: wrap;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    -webkit-box-align: start;
-    -webkit-align-items: flex-start;
-    -ms-flex-align: start;
-    align-items: flex-start;
-    -webkit-align-content: flex-start;
-    -ms-flex-line-pack: start;
-    align-content: flex-start;
+   width: 100%;
+    padding: 10px 20px 60px 50px;
+
+    align-content: space-around;
     border-radius: 25px;
     background-color: #fff;
     box-shadow: 3px 3px 49px 14px rgba(0, 0, 0, .06);
@@ -515,11 +536,13 @@ position: relative;
     font-family: Akrobat;
     color: #414141;
     font-size: 32px;
-    line-height: 30px;
+    line-height: 37px;
     text-transform: uppercase;
     text-align: center;
 }
-
+h3.section-intro.nomargin.greenz {
+    text-align: inherit;
+}
 
 .section-intro.intro {
     margin-bottom: 24px;
@@ -540,7 +563,7 @@ position: relative;
     display: -ms-flexbox;
     display: flex;
     overflow: hidden;
-    width: 23%;
+    width: 100%;
     height: 250px;
     margin-right: 20px;
     -webkit-box-orient: horizontal;
@@ -563,25 +586,22 @@ position: relative;
     -webkit-flex: 0 auto;
     -ms-flex: 0 auto;
     flex: 0 auto;
-    border-radius: 10px;
+    border-radius: 30px;
     background-position: 0px 100%, 0px 0px, 50% 50%;
     background-size: 108px, auto, cover;
     background-repeat: no-repeat, repeat, repeat;
-    box-shadow: 1px 1px 29px 0 rgba(0, 0, 0, .28);
     -webkit-transition: -webkit-transform 200ms ease;
     transition: -webkit-transform 200ms ease;
     transition: transform 200ms ease;
     transition: transform 200ms ease, -webkit-transform 200ms ease;
+	box-shadow: lightgrey 0 2px 20px;
 }
-.blogthumb:after {
-    position: absolute;
-    content: "";
-    background-color: black;
-    opacity: 0.3;
-    width: 100%;
-    height: 100%;
-    z-index: 9;
+
+.linkblog {
+	width: 21%;
+	margin-right: 1%;
 }
+
 .blogthumb:hover {
     -webkit-transform: scale(1.06);
     -ms-transform: scale(1.06);
@@ -598,7 +618,7 @@ position: relative;
     -ms-flex: 1;
     flex: 1;
     font-family: Akrobat;
-    color: #fff;
+    color: #000;
     font-size: 18px;
     line-height: 22px;
     font-weight: 500;
@@ -698,6 +718,12 @@ position: relative;
     margin-bottom: 24px;
     font-size: 14px;
 }
+.ctaleafright{
+	position: absolute; z-index: 9999999; right:-60px; top:-90px;}
+
+.ctaleaves{
+	position: absolute; z-index: 9999999;left:-40px;top:-80px;}
+
 .btcta {
     position: absolute;
     margin-top: 7px;
@@ -974,6 +1000,7 @@ position: absolute;
     font-family: Akrobat;
     color: #fff;
     text-transform: uppercase;
+	z-index:999999999;
 }
 .navlink-black {
     margin-left: 30px;
@@ -982,6 +1009,7 @@ position: absolute;
     color: #575757;
     font-size: 18px;
 }
+
 .navlink-black:hover {
     opacity: 0.6;
     color: #fa8d76;
@@ -997,6 +1025,7 @@ position: absolute;
 .uppagebody {
     position: absolute;
     right: 0;
+	
 }
 .uppagebody-left {
     position: absolute;
@@ -1171,7 +1200,7 @@ position: absolute;
     text-transform: uppercase;
 }
 .navbar-2 {
-    z-index: 100000;
+    z-index: 99999999999;
     display: block;
     -webkit-transform: translate(0px, -100px);
     -ms-transform: translate(0px, -100px);
@@ -1466,6 +1495,7 @@ h3.daytxt {
 }
 .textblock.w-richtext a {
     font-weight: 600;
+	position: relative;
 }
 .image-5 {
     position: absolute;
@@ -1494,7 +1524,7 @@ position: absolute;
     /* height: 160px; */
     height: 64%;
     margin: 0 auto;
-    top: 37px;
+    top: 40px;
     left: 4px;
     right: 0;
     bottom: 0;
@@ -1549,10 +1579,14 @@ form.contactform input {
     width: 70%;
     padding: 20px;
     font-weight: 200;
-    border: 1px solid #e2e2e2
+    border: 1px solid #e2e2e2;
+		font-family: 'Akrobat-Regular';
+	border-radius: 40px;
 }
 form.contactform label {
     padding: 10px;
+	font-family: Akrobat;
+    text-transform: uppercase;
 }
 form.contactform textarea {
     height: 60px;
@@ -1561,6 +1595,15 @@ form.contactform textarea {
     font-weight: 200;
     border: 1px solid #e2e2e2;
     resize: none;
+	border-radius: 40px;
+	font-family: 'Akrobat-Regular';
+}
+
+button.btcta.rev.form {
+	
+	    position: relative;
+    margin-top: 0;
+    margin-left: 20px;
 }
 .container.split.margin-bottom:nth-child(odd) {
     flex-direction: row-reverse;
@@ -1604,8 +1647,8 @@ button.joinustxt {
     font-family: Akrobat;
     font-size: 16px;
     position: absolute;
-    left: -29px;
-    top: 80px;
+left: -27px;
+    top: 58px;
     letter-spacing: 1px;
     text-transform: uppercase;
     -webkit-transform-origin: center;
@@ -1856,6 +1899,10 @@ input.newsletter-submit:hover, input.newsletter-submit:active {
 	max-width: 92%;
 	margin: 27px auto;
 }
+	
+	.linkblog {
+    width: 45%;
+}
 .col4.whitebg {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -1882,7 +1929,7 @@ input.newsletter-submit:hover, input.newsletter-submit:active {
     text-align: center;
 }
 .blogthumb {
-    width: 45%;
+    width: 90%;
     -webkit-box-flex: 0;
     -webkit-flex: 0 auto;
     -ms-flex: 0 auto;
@@ -1962,6 +2009,13 @@ a.blogthumb.w-inline-block {
 .circlelogoonly {
     width: 123px;
 }
+	.ctaleafright {
+		max-width: 30%;
+	}.ctaleaves {
+		max-width: 30%;
+		top: 50px;
+		left:-70px;
+	}
 }
 
 @media (max-width: 767px) {
@@ -1992,6 +2046,7 @@ a.blogthumb.w-inline-block {
 
 @media (max-width: 479px) {
 	
+
 	.section-intro.col.whitebg img {
 		position: relative;
 	}
@@ -2010,6 +2065,10 @@ a.blogthumb.w-inline-block {
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+}
+	
+	.linkblog {
+    width: 100%;
 }
 #myBtnContainer {
     text-align: center;
@@ -2157,7 +2216,7 @@ a.blogthumb.w-inline-block {
     text-align: left;
 }
 .col4.whitebg {
-padding-top: 50px;
+padding-top: 0px;
     padding-right: 30px;
     padding-left: 30px;
     -webkit-box-pack: center;
@@ -2177,6 +2236,9 @@ padding-top: 50px;
 }
 .section-intro {
     line-height: 37px;
+}
+	h3.section-intro.nomargin.greenz {
+    text-align: center;
 }
 .section-intro.nomargin {
     text-align: center;
@@ -2279,12 +2341,19 @@ padding-top: 50px;
     margin-left: 0px;
     color: #555;
     text-align: center;
+	text-transform: uppercase;
+	font-family: Akrobat;
 }
 .navlink-black.w--current {
     display: block;
 }
 .uppagebody {
     margin-top: -55px;
+    max-width: 50%;
+    right: 0px;
+}
+.uppagebody-left {
+       max-width: 30%;
 }
 .bradn2 {
     margin-top: 13px;
@@ -2371,12 +2440,14 @@ padding-top: 50px;
     src: url('../fonts/Akrobat-Black.woff2') format("woff2"),url('../fonts/Akrobat-Black.woff') format('woff');
     font-weight: 900;
     font-style: normal;
+	font-display: swap;
 }
 @font-face {
     font-family: 'Akrobat-Regular';
     src: url('../fonts/Akrobat-Regular.woff') format('woff');
     font-weight: 300;
     font-style: normal;
+	font-display: swap;
 }
 /* -------------------------------- 
 

@@ -33,4 +33,6 @@ Our Community Manager will also be available throughout the campaign to answer a
 
 Want to become an ambassador?
 
-[https://bit.ly/2B3Fk3X](https://bit.ly/2B3Fk3X "https://bit.ly/2B3Fk3X")
+<a class="w-button btcta rev" href="https://bit.ly/2B3Fk3X" target="_blank">Sign up here →</a>
+
+<br><br><br>

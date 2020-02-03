@@ -15,3 +15,4 @@ Our camping will be your personal chill-out area in the midst of festival insani
 * **Campers** and **caravans** can be parked in the Camper area with a separate ticket for **40€**. Water and electricity will be supplied for your campers on the caravan pitch.
 
 More info can be found on our Camping page [**_here_**](www.paradisecity.be/camping).
+
