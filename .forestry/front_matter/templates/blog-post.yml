@@ -21,4 +21,5 @@ fields:
   name: thumbnail
   label: thumbnail
 pages:
+- content/news/1-love-1-planet.md
 - content/news/test.md
