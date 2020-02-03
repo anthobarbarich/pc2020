@@ -1,7 +1,7 @@
 +++
 date = 2020-02-03T18:16:00Z
 layout = "blog"
-thumbnail = "/uploads/6.jpg"
+thumbnail = "/v1580761034/6_x0hhgl.jpg"
 title = "Ticket sale starts on February 15th at 4pm"
 
 +++
