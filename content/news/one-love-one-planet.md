@@ -1,6 +1,5 @@
 +++
 date = 2020-02-03T22:00:00Z
-draft = true
 layout = "blog"
 thumbnail = "/uploads/82442533_2536228309975394_5650293785880428544_o.jpg"
 title = "One Love, One Planet"
