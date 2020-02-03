@@ -3,12 +3,13 @@ languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Paradise City Festival 2020"
 sectionPagesMenu = "main"
-cloudinary_url = "https://res.cloudinary.com/dxswtxauo/image/upload"
 
 [params]
   author = "Paradise City"
   description = "5, 6 & 7 July in Perk, Belgium"
   mainSections = ["static", "news", "lineup", "home"]
+  cloudinary_url = "https://res.cloudinary.com/dxswtxauo/image/upload"
+	
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
