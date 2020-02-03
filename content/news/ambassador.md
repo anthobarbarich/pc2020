@@ -2,7 +2,7 @@
 date = 2020-02-03T18:08:55Z
 layout = "blog"
 thumbnail = "/uploads/paradise_150_070719_AG1A3132_leylahesna_lr.jpg"
-title = "Ambassador"
+title = "Become an Ambassador"
 
 +++
 Become an **official Paradise City ambassador** and earn tickets and exclusive experiences by selling tickets to Paradise City Festival 2020!
