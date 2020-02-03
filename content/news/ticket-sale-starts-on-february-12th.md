@@ -1,9 +1,8 @@
 ---
 layout: blog
 title: Ticket sale has started
-date: 2019-01-29T17:15:37.000+00:00
+date: 2020-02-05T16:00:37+00:00
 thumbnail: "/uploads/6.jpg"
-draft: true
 
 ---
 ## Dear citizens,
