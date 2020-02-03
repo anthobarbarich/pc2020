@@ -55,6 +55,24 @@ fields:
   config:
     required: false
   label: Soundcloud
+- name: start
+  type: datetime
+  label: start
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: end
+  type: datetime
+  label: end
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - content/artist/cleveland.md
 - content/artist/jt.md
