@@ -41,6 +41,16 @@ fields:
     - Paradise City Live
     - Under My Garage
   label: Stage
+- name: facebook
+  type: text
+  config:
+    required: false
+  label: Facebook
+- name: soundcloud
+  type: text
+  config:
+    required: false
+  label: Soundcloud
 pages:
 - content/artist/cleveland.md
 - content/artist/jt.md
