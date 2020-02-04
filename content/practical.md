@@ -4,12 +4,11 @@ type: practical
 title: Practical - FAQ
 opengraph: "/images/uploads/b64i708.jpg"
 festival:
-- answer: "* You can check-in on Friday from 14.00h and check-out until 01.00h. \n*
-    The festival starts Saturday at 12.00h until 01.00h and Sunday at 12.00h till
-    23.00h.\n* The after party on Sunday will take place at 23.00h till 06.00h.\n*
-    The camping opens on Friday at 14.00h till Monday morning at 11.00h."
+- answer: "* Opening hours : \nFriday at 14.00h until 01.00h\nSaturday at 12.00h until
+    01.00h\nSunday at 12.00h till 23.00h.\n\n* The camping opens on Friday at 12.00h
+    till Monday morning at 12.00h."
   question: WHAT ARE THE FESTIVAL OPENING HOURS?
-- answer: It will be announced in the coming weeks!
+- answer: 'Right here : https://paradisecity.be/timetable/friday'
   question: WHERE CAN I FIND THE LINE-UP?
 - answer: "People with wheelchairs get free access to the comfort area. There’s a
     disability parking close to the entrance of the festival. You will be allowed
@@ -59,10 +58,9 @@ tickets:
     upfront. Also, tickets will be 10euro more expensive at the door. Just so you
     know.
   question: IS THERE A TICKET OFFICE  AT THE FESTIVAL?
-- answer: 'Your ticket is not valid for our nightprogram in C12. You have to buy a
-    seperate ticket for it in our shop. Please present yourself at the entrance with
-    your festival bracelet otherwise you''ll have to pay an extra 5€.  '
-  question: DOES MY TICKET INCLUDE THE NIGHTPROGRAM AT C12?
+- answer: You can buy your tickets for the afterparty for Sunday. Also many unofficial
+    afterparties are happening in Perk on Friday and Saturday.
+  question: DOES MY TICKET TAKE ME TO THE AFTERPARTY?
 - answer: "Nope! Everybody’s welcome at Paradise City Festival and kids below 12 years
     even enter free of charge. However, all kids below 18 have to be accompanied by
     their parents.  \n\nAlcohol will only be sold to people over 18! \n\nPlease mind
