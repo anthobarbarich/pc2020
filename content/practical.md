@@ -4,20 +4,20 @@ type: practical
 title: Practical - FAQ
 opengraph: "/images/uploads/b64i708.jpg"
 festival:
-- answer: "* You can check-in on Friday from 14.00h and check-out until 01.00h. \n*
-    The festival starts Saturday at 12.00h until 01.00h and Sunday at 12.00h till
-    23.00h.\n* The after party on Sunday will take place at 23.00h till 06.00h.\n*
-    The camping opens on Friday at 14.00h till Monday morning at 11.00h."
+- answer: "* Opening hours : \nFriday at 14.00h until 01.00h\nSaturday at 12.00h until
+    01.00h \nSunday at 12.00h till 23.00h.\n* Nightprogram every night at C12\n* The
+    camping opens on Friday at 14.00h till Monday morning at 11.00h."
   question: WHAT ARE THE FESTIVAL OPENING HOURS?
 - answer: It will be announced in the coming weeks!
   question: WHERE CAN I FIND THE LINE-UP?
 - answer: "People with wheelchairs get free access to the comfort area. There’s a
     disability parking close to the entrance of the festival. You will be allowed
     to park there after showing your personal parking card. Further, there will be
-    dedicated toilets on site.\n\nWe are trying our best to make the festival accessible
-    to all, but we cannot guarantee that moving around in a wheelchair will be easy
-    (grass, etc). \n\nThere are risks of getting stuck if it rains, because the ground
-    is not hard.\n\nFor more information, please contact us on info@paradisecity.be"
+    dedicated toilets on site.\r\n\n\r\n\nWe are trying our best to make the festival
+    accessible to all, but we cannot guarantee that moving around in a wheelchair
+    will be easy (grass, etc). \r\n\nThere are risks of getting stuck (risk of entanglement?)
+    if it rains, because the ground is not hard.\n\n \n\nFor more information, please
+    contact us on info@paradisecity.be"
   question: IS THE FESTIVAL WHEELCHAIR FRIENDLY?
 - answer: Yes, at the entrance. We provide lockers to keep your stuff safe, for €7-10
     per day!
