@@ -9,6 +9,7 @@ fields:
   name: type
   label: type
   hidden: true
+  default: green
 - type: text
   name: uniqueid
   label: uniqueid
