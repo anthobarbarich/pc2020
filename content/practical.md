@@ -59,9 +59,10 @@ tickets:
     upfront. Also, tickets will be 10euro more expensive at the door. Just so you
     know.
   question: IS THERE A TICKET OFFICE  AT THE FESTIVAL?
-- answer: You can buy your tickets for the afterparty for Sunday. Also many unofficial
-    afterparties are happening in Perk on Friday and Saturday.
-  question: DOES MY TICKET TAKE ME TO THE AFTERPARTY?
+- answer: 'Your ticket is not valid for our nightprogram in C12. You have to buy a
+    seperate ticket for it in our shop. Please present yourself at the entrance with
+    your festival bracelet otherwise you''ll have to pay an extra 5€.  '
+  question: DOES MY TICKET INCLUDE THE NIGHTPROGRAM AT C12?
 - answer: "Nope! Everybody’s welcome at Paradise City Festival and kids below 12 years
     even enter free of charge. However, all kids below 18 have to be accompanied by
     their parents.  \n\nAlcohol will only be sold to people over 18! \n\nPlease mind
