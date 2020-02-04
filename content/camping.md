@@ -1,5 +1,8 @@
 +++
+date = 2020-02-04T13:27:15Z
 image_opengraph = "/v1580761016/Paradise_Sat_Sil_0029_hvk4zl.jpg"
+layout = "blog"
+thumbnail = "/v1580761016/Paradise_Sat_Sil_0029_hvk4zl.jpg"
 title = "Camping"
 uniqueid = ""
 
@@ -14,7 +17,7 @@ The camping will be your personal eco-friendly chill-out area in the midst of fe
 
 _(Please, note that you won’t be allowed on the campsite without a valid camping ticket)_
 
-1. **For those of you who wish to bring their own tent and camping equipment**
+1. For those of you who wish to bring their own tent and camping equipment
 
 Here you take your own tent with you. The camping is located next to the festival site, it is secure and serene with good facilities such as food stalls, bars, fresh drinking water and super sanitary services (high-quality WCs and hot showers). Don’t forget to bring your own towel! Lockers will be available for rent. No matter what you have forgotten at home, we will help you out of the trouble. At the campsite, you can easily rent camping items such as sleeping bags or air mattresses.
 
@@ -27,7 +30,7 @@ The camping has a limited capacity and was sold out a couple of weeks before the
 
 ![](https://res.cloudinary.com/dxswtxauo/image/upload/v1580821029/paradise249_050719_602A5051_leylahesna_lr__htlmlg.jpg)
 
-2. **Camp2Camp Ready to go**
+1. **Camp2Camp Ready to go**
 
 Make your festival weekend even easier and buy a package which includes a tent, sleeping bags, mattress and chairs. The Camp2Camp area is built up and ready before you arrive.
 
@@ -39,7 +42,7 @@ Make your festival weekend even easier and buy a package which includes a tent, 
 
 ![](https://res.cloudinary.com/dxswtxauo/image/upload/v1580821150/paradise204_050719_602A5058_leylahesna_lr__g58y7h.jpg)
 
-3. **Glamping options**
+1. **Glamping options**
 
 These onsite glamping options are the absolute ultimate in cool and comfort. These shiny tents are 2, 4 or 5-person size dome tents and all have cosy beds, electricity and light. Outside it, you can relax in deckchairs and watch the stars at night. These are the perfect options for those who wish something different and want to add some style, comfort and fun to their festival experience.
 
@@ -63,10 +66,10 @@ For **five**: 1 spacious and elegant tent + 5 real beds with mattress + duvets &
 
 ![](https://res.cloudinary.com/dxswtxauo/image/upload/v1580821466/2019-07-25_Liffin_Gardens_0330_2_HR_zwnf5b.jpg)
 
-4. **Campers and caravans**
+1. **Campers and caravans**
 
 Campers and caravans can be parked in the Camper area with a separate ticket for **20€**. This ticket will only be valid in combination with a camping ticket. Water and electricity are supplied for your campers on the caravan pitch.
 
 Please, think twice about buying a cheap throwaway tent that will only contribute to landfill and use our pre-pitched option :-)
 
-\* The campsite will be open from Friday 12.00 to Monday 12.00.
+\* The campsite will be open from Friday 14.00 to Monday 12.00.
