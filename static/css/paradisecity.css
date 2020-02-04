@@ -1164,7 +1164,7 @@ position: absolute;
     font-size: 44px;
     text-transform: uppercase;
 	z-index:999999;
-	background-image: url('/images/ctacloudright.png');
+	background-image: url('https://res.cloudinary.com/dxswtxauo/image/upload/f_auto/v1580829029/ctacloudright_itjoln.png');
 	background-position: right;
 	background-repeat: no-repeat;
 	background-size: auto 100%;
