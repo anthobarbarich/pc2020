@@ -152,9 +152,8 @@ camping:
   question: IS MY CAMPING TICKET INCLUDED IN MY FESTIVAL TICKET?
 - answer: "On our campsite you can take a hot shower and use toilets. You will also
     find what you need to do your dishes and recycle your waste!\n\nHungry after a
-    day of partying? Breakfast is available on the island at Brasserie 2050: on Saturday
-    and Sunday from 08.00h till 12.00h and on Monday from 08.00h until 11.00h. \n\nOur
-    camping crew will be at your disposal to answer all your questions and needs (hospitality
+    day of partying? Breakfast will be available on the campsite. \n\nOur camping
+    crew will be at your disposal to answer all your questions and needs (hospitality
     desk), and the security will also look after you."
   question: ARE THERE CAMPING FACILITIES INCLUDED?
 - answer: 'Check-in: Continuously from Friday July 5th, starting at 14.00h. Check-out:
