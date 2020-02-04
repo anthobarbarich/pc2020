@@ -1,6 +1,9 @@
 ---
 uniqueid: partners
 partner:
+- name: Connections
+  photo: "/v1580806748/logoconnectionssmall_ifjygi.jpg"
+  position: ''
 - name: Ginette
   photo: "/images/uploads/ginette-knipoog-logo.png"
   position: https://www.ginettebeer.com/
