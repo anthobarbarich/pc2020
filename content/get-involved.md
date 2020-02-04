@@ -16,7 +16,7 @@ Depending on your motivation and availability, you can help out for 1 day and up
 
 Working as a volunteer is also a great opportunity to learn about Paradise City from the inside out, to get out of your daily routine, sharpen your skills and develop new ones, and create special bonds with your fellow volunteers. Learn how to work in a team, discover a new universe, meet new people, and of course have lots of fun! You'll see, the people and atmosphere are insanely chill.
 
-With over **600** dedicated people working throughout the summer, we definitely need all the helping hands there are to make it happen!
+With over 600 dedicated people working throughout the summer, we definitely need all the helping hands there are to make it happen!
 
 If you feel like helping us build Paradise City, you can register as a volunteer right [**here**](https://www.eventication.com/events/paradise-city-2020)**.** And why not bring a friend with you? « Alone, I go faster; together, we go further »
 
