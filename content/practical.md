@@ -8,7 +8,7 @@ festival:
     01.00h\nSunday at 12.00h till 23.00h.\n\n* The camping opens on Friday at 12.00h
     till Monday morning at 12.00h."
   question: WHAT ARE THE FESTIVAL OPENING HOURS?
-- answer: 'Right here : https://paradisecity.be/timetable/friday'
+- answer: Line-up announced soon, stay tuned!
   question: WHERE CAN I FIND THE LINE-UP?
 - answer: "People with wheelchairs get free access to the comfort area. There’s a
     disability parking close to the entrance of the festival. You will be allowed
