@@ -44,5 +44,6 @@ fields:
     labelField: 
   label: Steps
 pages:
+- content/campingtest.md
 - content/green.md
 - content/green.md
