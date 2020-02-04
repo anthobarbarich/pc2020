@@ -13,11 +13,11 @@ festival:
 - answer: "People with wheelchairs get free access to the comfort area. There’s a
     disability parking close to the entrance of the festival. You will be allowed
     to park there after showing your personal parking card. Further, there will be
-    dedicated toilets on site.\r\n\n\r\n\nWe are trying our best to make the festival
-    accessible to all, but we cannot guarantee that moving around in a wheelchair
-    will be easy (grass, etc). \r\n\nThere are risks of getting stuck (risk of entanglement?)
-    if it rains, because the ground is not hard.\n\n \n\nFor more information, please
-    contact us on info@paradisecity.be"
+    dedicated toilets on site.\n\nWe are trying our best to make the festival accessible
+    to all, but we cannot guarantee that moving around in a wheelchair will be easy
+    (grass, etc). \n\nThere are risks of getting stuck (risk of entanglement?) if
+    it rains, because the ground is not hard.\n\nFor more information, please contact
+    us on info@paradisecity.be"
   question: IS THE FESTIVAL WHEELCHAIR FRIENDLY?
 - answer: Yes, at the entrance. We provide lockers to keep your stuff safe, for €7-10
     per day!
