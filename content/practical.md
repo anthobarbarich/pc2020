@@ -54,7 +54,7 @@ tickets:
     per order.
   question: HOW MANY TICKETS CAN I ORDER?
 - answer: Yes, you’ll be able to buy ticket at the entrance if Paradise City is not
-    sold out. Last year Saturday was sold out, so we recommend buying your ticket
+    sold out. Saturday was sold out last year, so we recommend buying your ticket
     upfront. Also, tickets will be 10euro more expensive at the door. Just so you
     know.
   question: IS THERE A TICKET OFFICE  AT THE FESTIVAL?
