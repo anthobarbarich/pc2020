@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+
+<div class="section-page line-up">
+    <div class="container default">
+		<h1 class="section-intro">{{.Title}}</h1>
+{{ .Content}}
+		  {{ range .Params.steps }} 
+	<div class="container split margin-bottom">
+		<div class="block50 midalign"><img src="{{ $.Site.Params.cloudinary_url}}/w_500/{{ .img }}" width="350" alt="" class="greenimages"></div>
+        <div class="block50">
+          <h3 class="section-intro nomargin greenz">{{ .title }}</h3>
+          <div class="txtblock green page">{{ .description | markdownify }}</div>
+        </div>
+      </div>
+		{{end}}
+
+	</div>
+</div>
+
+{{ partial "footer.html" . }}
