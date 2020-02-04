@@ -5,10 +5,10 @@ partner:
   photo: "/v1580823273/ginette-knipoog-logo_r3dmr3.png"
   position: https://www.ginettebeer.com/
 - name: Studio_Brussel
-  photo: "/images/uploads/stubru1.png"
+  photo: "/v1580823274/stubru1_efbead.png"
   position: https://stubru.be/
 - name: Brussels Airport
-  photo: "/images/uploads/brussels-airport_baseline_rgb-copie.png"
+  photo: "/v1580823273/brussels-airport_baseline_rgb-copie_rgi1ql.png"
   position: https://www.brusselsairport.be
 - name: Metro_B
   photo: "/images/uploads/metro-logonlrvb.jpg"

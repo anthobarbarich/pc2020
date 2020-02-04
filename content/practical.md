@@ -32,9 +32,9 @@ transport:
 
     Whilst on the road you don’t have to worry about anything but to follow the signs on your chosen route to the festival.
   question: WHAT'S THE BEST WAY TO GET AROUND?
-- answer: "There will be buses coming from different cities in Belgium, here are the
-    schedules for the weekend. Please make sure you are present at least 15 minutes
-    before departure. \n\nYou need to buy a ticket for these busses: <https://shop.paylogic.com/122150/17501/add-ons>\n\n![null](/images/uploads/tableau.png)\n\n![null](/images/uploads/tableau-–-424234.png)"
+- answer: 'There will be buses and trains coming from different cities in Belgium.
+    The buses and trains are altogether quicker, cheaper and connect all cities with
+    a regular service. '
   question: BUSES
 - answer: |-
     This year we're working with our partner **Brussels Airport** who will provide electric shuttle busses that will bring you from the **Vilvoorde train station** to our doors. The return shuttles will bring you to **Vilvoorde train station & Brussels Airport train station**.
