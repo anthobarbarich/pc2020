@@ -15,9 +15,15 @@ fields:
   label: uniqueid
   hidden: true
   default: green
-- type: text
-  name: description
-  label: description
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Description
 - name: steps
   type: field_group_list
   fields:
@@ -31,7 +37,7 @@ fields:
     default: ''
     config:
       required: false
-      wysiwyg: false
+      wysiwyg: true
       schema:
         format: markdown
     label: Description
