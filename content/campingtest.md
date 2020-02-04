@@ -1,6 +1,5 @@
 +++
 description = "Blablalblablla"
-draft = true
 title = "Campingtest"
 type = ""
 uniqueid = ""
