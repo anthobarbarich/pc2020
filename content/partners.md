@@ -2,7 +2,7 @@
 uniqueid: partners
 partner:
 - name: Ginette
-  photo: "/images/uploads/ginette-knipoog-logo.png"
+  photo: "/v1580823273/ginette-knipoog-logo_r3dmr3.png"
   position: https://www.ginettebeer.com/
 - name: Studio_Brussel
   photo: "/images/uploads/stubru1.png"
