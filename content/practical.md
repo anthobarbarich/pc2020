@@ -211,14 +211,13 @@ volunteers:
     to help and build our cozy little festival? Without our 650 volunteers Paradise
     City would not exist. It is together that we create this unique and sustainable
     party on the grounds of the castle of Ribaucourt.  \n\nIf this sounds like something
-    for you, sing-up here: https://www.eventication.com/events/paradise-city-2019\n\nYou’re
-    in for a memorable experience."
+    for you, sing-up here: https://www.eventication.com/events/paradise-city-2020
+    \ \n\nYou’re in for a memorable experience."
   question: DO YOU HIRE VOLUNTEERS?
 press:
 - answer: 'Send an email to ann@pravdapressroom.com and/or tom@pravdapressroom.com
     (Object: Paradise City Festival)'
   question: HOW CAN I CONTACT YOU FOR PRESS-RELATED QUESTIONS?
-draft: true
 
 ---
 Looking for info about the festival, tickets, access? You're at the right place!
