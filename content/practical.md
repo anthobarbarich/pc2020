@@ -26,12 +26,12 @@ transport:
 - answer: |-
     Please check our page transport for this matter : <https://paradisecity.be/transport>
 
-    It goes without saying that we recommend you to use your bike or public transport to get to the festival. The bike racks will be lit at night.
+    It goes without saying that we recommend you to forget cars and use your bike or public transport to get to the festival. The bike racks will be lit at night.
 
     Go to http://fietsnet.be and follow the junctions to our festival, from your location. Our festival is located in Perk, right next to junction 56.
 
     Whilst on the road you don’t have to worry about anything but to follow the signs on your chosen route to the festival.
-  question: HOW DO I GET TO PARADISE CITY?
+  question: WHAT'S THE BEST WAY TO GET AROUND?
 - answer: "There will be buses coming from different cities in Belgium, here are the
     schedules for the weekend. Please make sure you are present at least 15 minutes
     before departure. \n\nYou need to buy a ticket for these busses: <https://shop.paylogic.com/122150/17501/add-ons>\n\n![null](/images/uploads/tableau.png)\n\n![null](/images/uploads/tableau-–-424234.png)"
