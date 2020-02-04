@@ -5,19 +5,19 @@ title: Practical - FAQ
 opengraph: "/images/uploads/b64i708.jpg"
 festival:
 - answer: "* Opening hours : \nFriday at 14.00h until 01.00h\nSaturday at 12.00h until
-    01.00h\nSunday at 12.00h till 23.00h.\n\n* The camping opens on Friday at 12.00h
-    till Monday morning at 12.00h."
+    01.00h \nSunday at 12.00h till 23.00h.\n* Nightprogram every night at C12\n* The
+    camping opens on Friday at 14.00h till Monday morning at 11.00h."
   question: WHAT ARE THE FESTIVAL OPENING HOURS?
-- answer: Line-up announced soon, stay tuned!
+- answer: It will be announced in the coming weeks!
   question: WHERE CAN I FIND THE LINE-UP?
 - answer: "People with wheelchairs get free access to the comfort area. There’s a
     disability parking close to the entrance of the festival. You will be allowed
     to park there after showing your personal parking card. Further, there will be
-    dedicated toilets on site.\n\nWe are trying our best to make the festival accessible
-    to all, but we cannot guarantee that moving around in a wheelchair will be easy
-    (grass, etc). \n\nThere are risks of getting stuck (risk of entanglement?) if
-    it rains, because the ground is not hard.\n\nFor more information, please contact
-    us on info@paradisecity.be"
+    dedicated toilets on site.\r\n\n\r\n\nWe are trying our best to make the festival
+    accessible to all, but we cannot guarantee that moving around in a wheelchair
+    will be easy (grass, etc). \r\n\nThere are risks of getting stuck (risk of entanglement?)
+    if it rains, because the ground is not hard.\n\n \n\nFor more information, please
+    contact us on info@paradisecity.be"
   question: IS THE FESTIVAL WHEELCHAIR FRIENDLY?
 - answer: Yes, at the entrance. We provide lockers to keep your stuff safe, for €7-10
     per day!
@@ -26,12 +26,12 @@ transport:
 - answer: |-
     Please check our page transport for this matter : <https://paradisecity.be/transport>
 
-    It goes without saying that we recommend you to forget cars and use your bike or public transport to get to the festival. The bike racks will be lit at night.
+    It goes without saying that we recommend you to use your bike or public transport to get to the festival. The bike racks will be lit at night.
 
     Go to http://fietsnet.be and follow the junctions to our festival, from your location. Our festival is located in Perk, right next to junction 56.
 
     Whilst on the road you don’t have to worry about anything but to follow the signs on your chosen route to the festival.
-  question: WHAT'S THE BEST WAY TO GET AROUND?
+  question: HOW DO I GET TO PARADISE CITY?
 - answer: "There will be buses coming from different cities in Belgium, here are the
     schedules for the weekend. Please make sure you are present at least 15 minutes
     before departure. \n\nYou need to buy a ticket for these busses: <https://shop.paylogic.com/122150/17501/add-ons>\n\n![null](/images/uploads/tableau.png)\n\n![null](/images/uploads/tableau-–-424234.png)"
@@ -58,9 +58,10 @@ tickets:
     upfront. Also, tickets will be 10euro more expensive at the door. Just so you
     know.
   question: IS THERE A TICKET OFFICE  AT THE FESTIVAL?
-- answer: You can buy your tickets for the afterparty for Sunday. Also many unofficial
-    afterparties are happening in Perk on Friday and Saturday.
-  question: DOES MY TICKET TAKE ME TO THE AFTERPARTY?
+- answer: 'Your ticket is not valid for our nightprogram in C12. You have to buy a
+    seperate ticket for it in our shop. Please present yourself at the entrance with
+    your festival bracelet otherwise you''ll have to pay an extra 5€.  '
+  question: DOES MY TICKET INCLUDE THE NIGHTPROGRAM AT C12?
 - answer: "Nope! Everybody’s welcome at Paradise City Festival and kids below 12 years
     even enter free of charge. However, all kids below 18 have to be accompanied by
     their parents.  \n\nAlcohol will only be sold to people over 18! \n\nPlease mind
@@ -135,29 +136,35 @@ safety:
     at the entrance.
   question: OK SO NO DRUGS ALLOWED?
 camping:
-- answer: "We provide a campsite next to the festival grounds on the domain of Ribaucourt.\n\nAs
-    you may know, every year a lot of stuff is left behind on festival campsites after
-    a festival is finished. This includes bottles and glasses, but also tents! To
-    be more specific: 1 in 4 people leave their tent behind on the various campsites
-    worldwide! People feel hungover and tired, and don’t feel like folding up their
-    tent. As you can imagine this causes a lot of waste and it is not all too good
-    for the environment… after only a single use all these tents will go to the garbage
-    dump!\n\nNo worries, we’ve got you covered: meet our circular camping where each
-    camper has the opportunity to rent recycled camping gear! How cool is that? \n\nTo
-    access the campsite, you must be in possession of a valid camping wristband. You
-    will receive your wristband at the campsite cash register."
+- answer: "We provide a campsite next to the festival grounds on the domain of Ribaucourt.\n\nParadise
+    City is the first festival offering a comfortable and super sustainable camping
+    experience. You can rent a tent on our webshop.(https://shop.paylogic.com/124808/17501/accommodation)\n\nIf
+    you decide to bring your own, you’ll have to pay a warranty. At the end of the
+    festival, you’ll get it back after we confirm that you left your camping place
+    clean and tidy.  \n\nAs you may know, every year a lot of stuff is left behind
+    on festival campsites after a festival is finished. This includes bottles and
+    glasses, but also tents! To be more specific: 1 in 4 people leave their tent behind
+    on the various campsites worldwide! People feel hungover and tired, and don’t
+    feel like folding up their tent. As you can imagine this causes a lot of waste
+    and it is not all too good for the environment… after only a single use all these
+    tents will go to the garbage dump!\n\nNo worries, we’ve got you covered: meet
+    our circular camping where each camper has the opportunity to rent recycled camping
+    gear! How cool is that? \n\nTo access the campsite, you must be in possession
+    of a valid camping wristband. You will receive your wristband at the campsite
+    cash register."
   question: WHERE TO STAY DURING THE FESTIVAL?
 - answer: Only on Holiday tickets. Not on Day and Weekend tickets. If you forgot to
     order your camping ticket, a camping upgrade is available.
   question: IS MY CAMPING TICKET INCLUDED IN MY FESTIVAL TICKET?
 - answer: "On our campsite you can take a hot shower and use toilets. You will also
     find what you need to do your dishes and recycle your waste!\n\nHungry after a
-    day of partying? Breakfast will be available on the campsite. \n\nOur camping
-    crew will be at your disposal to answer all your questions and needs (hospitality
+    day of partying? Breakfast is available on the island at Brasserie 2050: on Saturday
+    and Sunday from 08.00h till 12.00h and on Monday from 08.00h until 11.00h. \n\nOur
+    camping crew will be at your disposal to answer all your questions and needs (hospitality
     desk), and the security will also look after you."
   question: ARE THERE CAMPING FACILITIES INCLUDED?
-- answer: 'Check-in: Continuously from Friday June 26th, starting at 12.00h. Check-out:
-    Monday, June 19th, before 12h00.'
+- answer: 'Check-in: Continuously from Friday July 5th, starting at 14.00h. Check-out:
+    Monday, July 8th, before 11h00.'
   question: OPENING HOURS?
 - answer: Yes there will be lockers on the campsite.
   question: ARE THERE LOCKERS ON THE CAMPSITES?
