@@ -20,7 +20,7 @@ Here you take your own tent with you. The camping is located next to the festiva
 
 To access the campsite, there are two possibilities:
 
-* You can buy a 3 days-ticket **+ camping**
+* You can buy a 3 days-ticket + **camping**
 * Or you can just buy a camping ticket for **35€** (1 ticket per person)
 
 The camping has a limited capacity and was sold out a couple of weeks before the festival last year so please, be sure to book your ticket in time to avoid any disappointment.
