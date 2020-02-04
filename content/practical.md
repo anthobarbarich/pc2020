@@ -4,9 +4,9 @@ type: practical
 title: Practical - FAQ
 opengraph: "/images/uploads/b64i708.jpg"
 festival:
-- answer: |-
-    * The festival starts Friday at 14.00h until 01.00h, Saturday at 12.00h until 01.00h and Sunday at 12.00h till 23.00h.
-    * The camping opens on Friday at 14.00h till Monday morning at 11.00h.
+- answer: "* Opening hours : \nFriday at 14.00h until 01.00h\nSaturday at 12.00h until
+    01.00h\nSunday at 12.00h till 23.00h.\n\n* The camping opens on Friday at 14.00h
+    till Monday morning at 11.00h."
   question: WHAT ARE THE FESTIVAL OPENING HOURS?
 - answer: 'Right here : https://paradisecity.be/timetable/friday'
   question: WHERE CAN I FIND THE LINE-UP?
