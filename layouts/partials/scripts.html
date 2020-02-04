@@ -1,7 +1,7 @@
-<script src="https://d1tdp7z6w94jbb.cloudfront.net/js/jquery-3.3.1.min.js" type="text/javascript" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous" defer></script>
-  <script src="/js/paradisecity.js" type="text/javascript" defer></script>
+<script src="https://d1tdp7z6w94jbb.cloudfront.net/js/jquery-3.3.1.min.js" type="text/javascript" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous" async></script>
+  <script src="/js/paradisecity.js" type="text/javascript" async></script>
   <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
-	<script>
+	<script async>
 filterSelection("all")
 function filterSelection(c) {
   var x, i;
@@ -49,8 +49,7 @@ for (var i = 0; i < btns.length; i++) {
     this.className += " active";
   });
 }
-</script>
-<script>
+
 	var links = document.links;
 
 for (var i = 0, linksLength = links.length; i < linksLength; i++) {
@@ -59,8 +58,7 @@ for (var i = 0, linksLength = links.length; i < linksLength; i++) {
    } 
 }
 
-</script>
-<script>
+
 /* When the user clicks on the button, 
 toggle between hiding and showing the dropdown content */
 function myFunction() {
