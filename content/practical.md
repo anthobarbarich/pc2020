@@ -44,17 +44,16 @@ transport:
 tickets:
 - answer: 'Here’s a link to our ticketshop: [www.paradisecity.be/tickets](www.paradisecity.be/tickets)'
   question: WHERE CAN I BUY TICKETS?
-- answer: "Yes of course… if you don’t go. The ticket doesn’t have to be registered
+- answer: 'Yes of course… if you don’t go. The ticket doesn’t have to be registered
     in your name or match your identification. There is only one rule: one ticket
-    = one person. \n\nNote that your Wristband is not transferable (don’t think you
-    can share it with your BF).\n\nIf you want to sell your ticket to a friend, no
-    problem."
+    = one person. Note that your Wristband is not transferable (don’t think you can
+    share it with your BF).If you want to sell your ticket to a friend, no problem.'
   question: CAN I SHARE MY TICKET WITH A FRIEND?
 - answer: You can buy tickets for someone else. Note that there is a limit of 10 tickets
     per order.
   question: HOW MANY TICKETS CAN I ORDER?
 - answer: Yes, you’ll be able to buy ticket at the entrance if Paradise City is not
-    sold out. Last year Saturday was sold out, so we recommend buying your ticket
+    sold out. Saturday was sold out last year, so we recommend buying your ticket
     upfront. Also, tickets will be 10euro more expensive at the door. Just so you
     know.
   question: IS THERE A TICKET OFFICE  AT THE FESTIVAL?
