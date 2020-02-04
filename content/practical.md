@@ -158,8 +158,8 @@ camping:
     crew will be at your disposal to answer all your questions and needs (hospitality
     desk), and the security will also look after you."
   question: ARE THERE CAMPING FACILITIES INCLUDED?
-- answer: 'Check-in: Continuously from Friday July 5th, starting at 14.00h. Check-out:
-    Monday, July 8th, before 11h00.'
+- answer: 'Check-in: Continuously from Friday June 26th, starting at 14.00h. Check-out:
+    Monday, June 29th, before 12h00.'
   question: OPENING HOURS?
 - answer: Yes there will be lockers on the campsite.
   question: ARE THERE LOCKERS ON THE CAMPSITES?
