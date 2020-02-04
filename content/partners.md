@@ -17,13 +17,13 @@ partner:
   photo: "/v1580823273/metro-logonlrvb_j0lwwu.jpg"
   position: http://www.metrotime.be/
 - name: FOCUS Knack
-  photo: "/v1580823273/focusvif_zw_jcde9p.png"
+  photo: "/v1580823503/knack_72_rgb-2_a27m8e.png"
   position: https://focus.levif.be/culture/
 - name: Focus VIF
   photo: "/v1580823273/focusvif_zw_jcde9p.png"
   position: https://focus.levif.be/culture/?cookie_check=1558687574
 - name: Somersby
-  photo: "/images/uploads/somersby-logo-1.png"
+  photo: "/v1580823321/somersby-logo-1_lqcz82.png"
   position: https://www.somersbycider.com/
 - name: Connections
   photo: "/v1580822527/logoconnectionssmall_p4lqpn.png"
