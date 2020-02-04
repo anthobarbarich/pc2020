@@ -17,7 +17,7 @@ partner:
   photo: "/v1580823273/metro-logonlrvb_j0lwwu.jpg"
   position: http://www.metrotime.be/
 - name: FOCUS Knack
-  photo: "/images/uploads/knack_72_rgb-2.png"
+  photo: "/v1580823273/focusvif_zw_jcde9p.png"
   position: https://focus.levif.be/culture/
 - name: Focus VIF
   photo: "/images/uploads/focusvif_zw.png"
