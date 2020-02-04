@@ -66,6 +66,12 @@ font-family: 'Akrobat';
 .body.news.navlink-black.w-nav-link a[href="/news"] {
     color: red;
 }
+
+.leftwriting {
+	position: absolute;
+    top: -149px;
+    left: -25px;
+}
 .body.home {
     display: block;
     margin-right: auto;
@@ -257,7 +263,7 @@ background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(253,
     padding-top: 20px;
     padding-left: 20px;
     color: #fff;
-    font-size: 19px;
+    font-size: 15px;
 }
 .nav-link:hover {
     opacity: 0.6;
@@ -1008,7 +1014,7 @@ position: absolute;
     padding-top: 20px;
     padding-left: 20px;
     color: #575757;
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .navlink-black:hover {
