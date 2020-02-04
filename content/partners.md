@@ -26,7 +26,7 @@ partner:
   photo: "/images/uploads/somersby-logo-1.png"
   position: https://www.somersbycider.com/
 - name: Connections
-  photo: "/v1580806748/logoconnectionssmall_ifjygi.jpg"
+  photo: "/v1580822527/logoconnectionssmall_p4lqpn.png"
   position: ''
 - name: Aperol_Sprit
   photo: "/images/uploads/aperol_logo_v2.png"
