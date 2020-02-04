@@ -1,9 +1,6 @@
 ---
 uniqueid: partners
 partner:
-- name: Connections
-  photo: "/v1580806748/logoconnectionssmall_ifjygi.jpg"
-  position: ''
 - name: Ginette
   photo: "/images/uploads/ginette-knipoog-logo.png"
   position: https://www.ginettebeer.com/
@@ -28,6 +25,9 @@ partner:
 - name: Somersby
   photo: "/images/uploads/somersby-logo-1.png"
   position: https://www.somersbycider.com/
+- name: Connections
+  photo: "/v1580806748/logoconnectionssmall_ifjygi.jpg"
+  position: ''
 - name: Aperol_Sprit
   photo: "/images/uploads/aperol_logo_v2.png"
   position: https://www.aperol.com/spritz-ritual
