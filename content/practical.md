@@ -6,7 +6,7 @@ opengraph: "/images/uploads/b64i708.jpg"
 festival:
 - answer: "* Opening hours : \nFriday at 14.00h until 01.00h\nSaturday at 12.00h until
     01.00h \nSunday at 12.00h till 23.00h.\n* Nightprogram every night at C12\n* The
-    camping opens on Friday at 14.00h till Monday morning at 11.00h."
+    camping opens on Friday at 14.00h till Monday at 12.00h."
   question: WHAT ARE THE FESTIVAL OPENING HOURS?
 - answer: It will be announced in the coming weeks!
   question: WHERE CAN I FIND THE LINE-UP?
