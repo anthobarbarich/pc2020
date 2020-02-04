@@ -2,20 +2,7 @@
 <html data-wf-page="5c4b1835008881d3feae796a" data-wf-site="5c34c1d2a3cd45693156a337"><head>
     <!-- Google Tag Manager -->
     <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-M4CP3V8');
+!function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src="https://www.googletagmanager.com/gtm.js?id=GTM-M4CP3V8",m.parentNode.insertBefore(r,m)}(window,document,"script","dataLayer");
     </script>
     <!-- End Google Tag Manager -->
     <meta charset="utf-8">
@@ -40,85 +27,11 @@
     </script>-->
     <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
     <script type="text/javascript" defer>
-        ! function(o, c) {
-            var n = c.documentElement,
-                t = " w-mod-";
-            n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
-        }(window, document);
+!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);
     </script>
     <link href="images/favico.png" rel="shortcut icon" type="image/x-icon">
     <script type="text/javascript">
-        ! function(t, e) {
-            "object" == typeof exports && "undefined" != typeof module ? module.exports = e() : "function" == typeof define && define.amd ? define(e) : t.lozad = e()
-        }(this, function() {
-            "use strict";
-            var g = Object.assign || function(t) {
-                    for (var e = 1; e < arguments.length; e++) {
-                        var r = arguments[e];
-                        for (var o in r) Object.prototype.hasOwnProperty.call(r, o) && (t[o] = r[o])
-                    }
-                    return t
-                },
-                n = "undefined" != typeof document && document.documentMode,
-                l = {
-                    rootMargin: "0px",
-                    threshold: 0,
-                    load: function(t) {
-                        if ("picture" === t.nodeName.toLowerCase()) {
-                            var e = document.createElement("img");
-                            n && t.getAttribute("data-iesrc") && (e.src = t.getAttribute("data-iesrc")), t.getAttribute("data-alt") && (e.alt = t.getAttribute("data-alt")), t.appendChild(e)
-                        }
-                        if ("video" === t.nodeName.toLowerCase() && !t.getAttribute("data-src") && t.children) {
-                            for (var r = t.children, o = void 0, a = 0; a <= r.length - 1; a++)(o = r[a].getAttribute("data-src")) && (r[a].src = o);
-                            t.load()
-                        }
-                        t.getAttribute("data-src") && (t.src = t.getAttribute("data-src")), t.getAttribute("data-srcset") && t.setAttribute("srcset", t.getAttribute("data-srcset")), t.getAttribute("data-background-image") && (t.style.backgroundImage = "url('" + t.getAttribute("data-background-image") + "')"), t.getAttribute("data-toggle-class") && t.classList.toggle(t.getAttribute("data-toggle-class"))
-                    },
-                    loaded: function() {}
-                };
-            /**
-             * Detect IE browser
-             * @const {boolean}
-             * @private
-             */
-            function f(t) {
-                t.setAttribute("data-loaded", !0)
-            }
-            var b = function(t) {
-                return "true" === t.getAttribute("data-loaded")
-            };
-            return function() {
-                var r, o, a = 0 < arguments.length && void 0 !== arguments[0] ? arguments[0] : ".lozad",
-                    t = 1 < arguments.length && void 0 !== arguments[1] ? arguments[1] : {},
-                    e = g({}, l, t),
-                    n = e.root,
-                    i = e.rootMargin,
-                    d = e.threshold,
-                    c = e.load,
-                    u = e.loaded,
-                    s = void 0;
-                return window.IntersectionObserver && (s = new IntersectionObserver((r = c, o = u, function(t, e) {
-                    t.forEach(function(t) {
-                        (0 < t.intersectionRatio || t.isIntersecting) && (e.unobserve(t.target), b(t.target) || (r(t.target), f(t.target), o(t.target)))
-                    })
-                }), {
-                    root: n,
-                    rootMargin: i,
-                    threshold: d
-                })), {
-                    observe: function() {
-                        for (var t = function(t) {
-                                var e = 1 < arguments.length && void 0 !== arguments[1] ? arguments[1] : document;
-                                return t instanceof Element ? [t] : t instanceof NodeList ? t : e.querySelectorAll(t)
-                            }(a, n), e = 0; e < t.length; e++) b(t[e]) || (s ? s.observe(t[e]) : (c(t[e]), f(t[e]), u(t[e])))
-                    },
-                    triggerLoad: function(t) {
-                        b(t) || (c(t), f(t), u(t))
-                    },
-                    observer: s
-                }
-            }
-        });
+        !function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"==typeof define&&define.amd?define(e):t.lozad=e()}(this,function(){"use strict";var t=Object.assign||function(t){for(var e=1;e<arguments.length;e++){var r=arguments[e];for(var o in r)Object.prototype.hasOwnProperty.call(r,o)&&(t[o]=r[o])}return t},e="undefined"!=typeof document&&document.documentMode,r={rootMargin:"0px",threshold:0,load:function(t){if("picture"===t.nodeName.toLowerCase()){var r=document.createElement("img");e&&t.getAttribute("data-iesrc")&&(r.src=t.getAttribute("data-iesrc")),t.getAttribute("data-alt")&&(r.alt=t.getAttribute("data-alt")),t.appendChild(r)}if("video"===t.nodeName.toLowerCase()&&!t.getAttribute("data-src")&&t.children){for(var o=t.children,a=void 0,n=0;n<=o.length-1;n++)(a=o[n].getAttribute("data-src"))&&(o[n].src=a);t.load()}t.getAttribute("data-src")&&(t.src=t.getAttribute("data-src")),t.getAttribute("data-srcset")&&t.setAttribute("srcset",t.getAttribute("data-srcset")),t.getAttribute("data-background-image")&&(t.style.backgroundImage="url('"+t.getAttribute("data-background-image")+"')"),t.getAttribute("data-toggle-class")&&t.classList.toggle(t.getAttribute("data-toggle-class"))},loaded:function(){}};function o(t){t.setAttribute("data-loaded",!0)}var a=function(t){return"true"===t.getAttribute("data-loaded")};return function(){var e,n,i=0<arguments.length&&void 0!==arguments[0]?arguments[0]:".lozad",d=1<arguments.length&&void 0!==arguments[1]?arguments[1]:{},c=t({},r,d),u=c.root,s=c.rootMargin,g=c.threshold,l=c.load,f=c.loaded,b=void 0;return window.IntersectionObserver&&(b=new IntersectionObserver((e=l,n=f,function(t,r){t.forEach(function(t){(0<t.intersectionRatio||t.isIntersecting)&&(r.unobserve(t.target),a(t.target)||(e(t.target),o(t.target),n(t.target)))})}),{root:u,rootMargin:s,threshold:g})),{observe:function(){for(var t=function(t){var e=1<arguments.length&&void 0!==arguments[1]?arguments[1]:document;return t instanceof Element?[t]:t instanceof NodeList?t:e.querySelectorAll(t)}(i,u),e=0;e<t.length;e++)a(t[e])||(b?b.observe(t[e]):(l(t[e]),o(t[e]),f(t[e])))},triggerLoad:function(t){a(t)||(l(t),o(t),f(t))},observer:b}}});
     </script>
 </head>
 
