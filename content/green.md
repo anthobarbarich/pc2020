@@ -8,14 +8,14 @@ steps:
     involved in the festival to be aware of how much energy they use, while measuring,
     monitoring and reporting each year on energy usage. The last 2 editions were powered
     up only by renewable energy & using low consumption lightning on site.
-  img: "/uploads/1energy.svg"
+  img: "/v1580761003/1energy_myyol9.svg"
 - title: 2. Future Food
   description: Future food consists of 100 % locally sourced & organically grown food
     and ingredients from fair-trade source. Because of meat’s high climate & environmental
     impact, we propose a large range of vegetarian & meat free meals from our food
     providers. Menus are discussed internally in order to offer large & balanced alternatives.
     We also try to adapt food quantity to avoid leftovers.
-  img: "/uploads/food.svg"
+  img: "/v1580761005/food_jzhmk2.svg"
 - title: 3. Waste Management
   description: Waste Management allows us, with our visitors’ participation, to sort,
     recycle and compost our waste. In order to minimize our waste stream, we have
