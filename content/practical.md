@@ -32,10 +32,11 @@ transport:
 
     Whilst on the road you don’t have to worry about anything but to follow the signs on your chosen route to the festival.
   question: HOW DO I GET TO PARADISE CITY?
-- answer: "There will be buses coming from different cities in Belgium, here are the
-    schedules for the weekend. Please make sure you are present at least 15 minutes
-    before departure. \n\nYou need to buy a ticket for these busses: <https://shop.paylogic.com/122150/17501/add-ons>\n\n![null](/images/uploads/tableau.png)\n\n![null](/images/uploads/tableau-–-424234.png)"
-  question: BUSES
+- answer: |2-
+     NEW! In order for you to reach the festival easily and in a more sustainable way, Paradise City and NMBS/SNCB have joined forces and will offer discounted train tickets. There will also be extra night trains.
+
+    All info and train tickets will soon be available on nmbs.be/paradisecity or sncb.be/paradisecity.
+  question: TRAINS
 - answer: |-
     This year we're working with our partner **Brussels Airport** who will provide electric shuttle busses that will bring you from the **Vilvoorde train station** to our doors. The return shuttles will bring you to **Vilvoorde train station & Brussels Airport train station**.
 
