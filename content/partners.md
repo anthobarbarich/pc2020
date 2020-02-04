@@ -11,10 +11,10 @@ partner:
   photo: "/v1580823273/brussels-airport_baseline_rgb-copie_rgi1ql.png"
   position: https://www.brusselsairport.be
 - name: Metro_B
-  photo: "/images/uploads/metro-logonlrvb.jpg"
+  photo: "/v1580823273/metro-logo_frrvb_mvf8ob.jpg"
   position: http://www.metrotime.be/
 - name: Metro_G
-  photo: "/images/uploads/metro-logo_frrvb.jpg"
+  photo: "/v1580823273/metro-logonlrvb_j0lwwu.jpg"
   position: http://www.metrotime.be/
 - name: FOCUS Knack
   photo: "/images/uploads/knack_72_rgb-2.png"
