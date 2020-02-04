@@ -4,11 +4,12 @@ type: practical
 title: Practical - FAQ
 opengraph: "/images/uploads/b64i708.jpg"
 festival:
-- answer: "* Opening hours : \nFriday at 14.00h until 01.00h\nSaturday at 12.00h until
-    01.00h\nSunday at 12.00h till 23.00h.\n\n* The camping opens on Friday at 14.00h
-    till Monday morning at 11.00h."
+- answer: "* You can check-in on Friday from 14.00h and check-out until 01.00h. \n*
+    The festival starts Saturday at 12.00h until 01.00h and Sunday at 12.00h till
+    23.00h.\n* The after party on Sunday will take place at 23.00h till 06.00h.\n*
+    The camping opens on Friday at 14.00h till Monday morning at 11.00h."
   question: WHAT ARE THE FESTIVAL OPENING HOURS?
-- answer: 'Right here : https://paradisecity.be/timetable/friday'
+- answer: It will be announced in the coming weeks!
   question: WHERE CAN I FIND THE LINE-UP?
 - answer: "People with wheelchairs get free access to the comfort area. There’s a
     disability parking close to the entrance of the festival. You will be allowed
