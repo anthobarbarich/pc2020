@@ -20,7 +20,7 @@ partner:
   photo: "/v1580823273/focusvif_zw_jcde9p.png"
   position: https://focus.levif.be/culture/
 - name: Focus VIF
-  photo: "/images/uploads/focusvif_zw.png"
+  photo: "/v1580823273/focusvif_zw_jcde9p.png"
   position: https://focus.levif.be/culture/?cookie_check=1558687574
 - name: Somersby
   photo: "/images/uploads/somersby-logo-1.png"
