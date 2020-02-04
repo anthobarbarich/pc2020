@@ -38,10 +38,10 @@ partner:
   photo: "/v1580823273/aca5f813-6bbe-468f-ae9a-7ccbf780d95c-1_qlh4ef.png"
   position: https://www.eventication.com/
 - name: CO2 Neutral
-  photo: "/images/uploads/co2neutral_logo.png"
+  photo: "/v1580823273/co2neutral_logo_ae9zuo.png"
   position: https://www.co2logic.com/nl/het-co2-neutral%C2%AE-label
 - name: 'Payconiq '
-  photo: "/images/uploads/logopayconiq.png"
+  photo: "/v1580823273/logopayconiq_lkedqi.png"
   position: https://www.payconiq.be/en
 - name: Vlam
   photo: "/images/uploads/logo-big.png"
