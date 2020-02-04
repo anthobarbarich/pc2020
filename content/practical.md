@@ -135,22 +135,17 @@ safety:
     at the entrance.
   question: OK SO NO DRUGS ALLOWED?
 camping:
-- answer: "We provide a campsite next to the festival grounds on the domain of Ribaucourt.\n\nParadise
-    City is the first festival offering a comfortable and super sustainable camping
-    experience. You can rent a tent on our webshop.(https://shop.paylogic.com/124808/17501/accommodation)\n\nIf
-    you decide to bring your own, you’ll have to pay a warranty. At the end of the
-    festival, you’ll get it back after we confirm that you left your camping place
-    clean and tidy.  \n\nAs you may know, every year a lot of stuff is left behind
-    on festival campsites after a festival is finished. This includes bottles and
-    glasses, but also tents! To be more specific: 1 in 4 people leave their tent behind
-    on the various campsites worldwide! People feel hungover and tired, and don’t
-    feel like folding up their tent. As you can imagine this causes a lot of waste
-    and it is not all too good for the environment… after only a single use all these
-    tents will go to the garbage dump!\n\nNo worries, we’ve got you covered: meet
-    our circular camping where each camper has the opportunity to rent recycled camping
-    gear! How cool is that? \n\nTo access the campsite, you must be in possession
-    of a valid camping wristband. You will receive your wristband at the campsite
-    cash register."
+- answer: "We provide a campsite next to the festival grounds on the domain of Ribaucourt.\n\nAs
+    you may know, every year a lot of stuff is left behind on festival campsites after
+    a festival is finished. This includes bottles and glasses, but also tents! To
+    be more specific: 1 in 4 people leave their tent behind on the various campsites
+    worldwide! People feel hungover and tired, and don’t feel like folding up their
+    tent. As you can imagine this causes a lot of waste and it is not all too good
+    for the environment… after only a single use all these tents will go to the garbage
+    dump!\n\nNo worries, we’ve got you covered: meet our circular camping where each
+    camper has the opportunity to rent recycled camping gear! How cool is that? \n\nTo
+    access the campsite, you must be in possession of a valid camping wristband. You
+    will receive your wristband at the campsite cash register."
   question: WHERE TO STAY DURING THE FESTIVAL?
 - answer: Only on Holiday tickets. Not on Day and Weekend tickets. If you forgot to
     order your camping ticket, a camping upgrade is available.
