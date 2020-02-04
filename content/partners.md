@@ -44,7 +44,7 @@ partner:
   photo: "/v1580823273/logopayconiq_lkedqi.png"
   position: https://www.payconiq.be/en
 - name: Vlam
-  photo: "/images/uploads/logo-big.png"
+  photo: "/v1580823274/logo-big_bwg470.png"
   position: http://vlam.be/
 
 ---
