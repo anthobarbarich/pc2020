@@ -35,7 +35,7 @@ partner:
   photo: "/v1580823272/bruzz_logo_red_rgb_tmlma0.png"
   position: https://www.bruzz.be/
 - name: Eventication
-  photo: "/images/uploads/aca5f813-6bbe-468f-ae9a-7ccbf780d95c-1.png"
+  photo: "/v1580823273/aca5f813-6bbe-468f-ae9a-7ccbf780d95c-1_qlh4ef.png"
   position: https://www.eventication.com/
 - name: CO2 Neutral
   photo: "/images/uploads/co2neutral_logo.png"
