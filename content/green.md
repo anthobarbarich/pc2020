@@ -22,9 +22,9 @@ steps:
     a “Zero single-used plastic” policy & we provide reusable cups for all drinks.
     We are also trying to implement a circular economy in regards with the waste generated
     by the festival.
-  img: "/uploads/waste.svg"
+  img: "/v1580761009/waste_eke2kr.svg"
 - title: 4. Transport
-  img: "/uploads/4transport.svg"
+  img: "/v1580761003/4transport_ueipws.svg"
   description: 'Transport modes have the biggest impact on our carbon footprint. So
     how will you get here? We are providing a parking near the entrance for sustainable
     transport modes with our bicycle point. We promote Carpooling and Public transports:
@@ -34,16 +34,16 @@ steps:
   description: 'Filtered tap water is available to avoid a wave of plastic water bottles
     which usually submerges festivals. Meet our less lucrative but more responsible
     alternative: Paradise City still & sparkling Tap Water.'
-  img: "/uploads/water.svg"
+  img: "/v1580761011/water_mldnzy.svg"
 - title: 6. Sustainable Communication
   description: 'Sustainable communication is considered whenever applicable: we use
     only FSC paper for all our communication on paper (flyers, posters …), which we
     try to cut down. And no tokens, it’s a cashless festival. As for our internet
     site, we make sure it is the lightest possible to avoid any negative environmental
     impact.'
-  img: "/uploads/com.svg"
+  img: "/v1580761007/com_uagmyl.svg"
 - title: 7. WATER
-  img: "/uploads/water2.svg"
+  img: "/v1580761013/water2_lcputz.svg"
   description: Water is a valuable good of nature that is spread on festival ground
     as our visitors must rehydrate, eat and (optionally) shower. For a second year
     in a row, we intent to purify on site the water used in our showers, reducing
@@ -54,19 +54,19 @@ steps:
     We are aware that even after all our efforts, there is a remaining climate impact.
     Taking our responsibility, we offset the unavoidable climate impact through the
     support of CO2logic’s climate project.
-  img: "/uploads/co2.svg"
+  img: "/v1580761005/co2_l41jtz.svg"
 - title: 9. Camping
   description: Camping has always been an ecological issue for festivals, mainly regarding
     all the waste left over. We have been working on the problem since our first edition
     and will implement for the second time in a row our circular camping where each
     camper has the opportunity to rent recycled camping gear, how cool is that?
-  img: "/uploads/  9.svg"
+  img: "/v1580761003/9_gqjcfg.svg"
 - title: 10. Awareness
   description: Awareness of the importance of a sustainable way of life is enhanced
     and communicated to our suppliers, partners and sponsors, to assure they share
     our concerns about a greener future. And we give you useful sustainable tips on
     the site of the festival.
-  img: "/uploads/awareness.svg"
+  img: "/v1580761005/awareness_a6yeop.svg"
 description: ''
 
 ---
