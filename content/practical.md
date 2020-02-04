@@ -36,10 +36,10 @@ transport:
 
     All info and train tickets will soon be available on nmbs.be/paradisecity or sncb.be/paradisecity.
   question: TRAINS
-- answer: |-
-    This year we're working with our partner **Brussels Airport** who will provide electric shuttle busses that will bring you from the **Vilvoorde train station** to our doors. The return shuttles will bring you to **Vilvoorde train station & Brussels Airport train station**.
-
-    ![null](/images/uploads/shuttlevilvoorde.jpg)
+- answer: This year we're working with our partner **Brussels Airport** who will provide
+    electric shuttle busses that will bring you from the **Vilvoorde train station**
+    to our doors. The return shuttles will bring you to **Vilvoorde train station
+    & Brussels Airport train station**.
   question: SHUTTLES FROM A TRAIN STATION
 tickets:
 - answer: 'Here’s a link to our ticketshop: [www.paradisecity.be/tickets](www.paradisecity.be/tickets)'
