@@ -29,10 +29,10 @@ partner:
   photo: "/v1580822527/logoconnectionssmall_p4lqpn.png"
   position: ''
 - name: Aperol_Sprit
-  photo: "/images/uploads/aperol_logo_v2.png"
+  photo: "/v1580823273/aperol_logo_v2_ouhbxt.png"
   position: https://www.aperol.com/spritz-ritual
 - name: Bruzz
-  photo: "/images/uploads/bruzz_logo_red_rgb.png"
+  photo: "/v1580823272/bruzz_logo_red_rgb_tmlma0.png"
   position: https://www.bruzz.be/
 - name: Eventication
   photo: "/images/uploads/aca5f813-6bbe-468f-ae9a-7ccbf780d95c-1.png"
