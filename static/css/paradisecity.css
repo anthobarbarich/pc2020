@@ -2218,6 +2218,11 @@ a.blogthumb.w-inline-block {
 .txtblock.green {
     display: none;
 }
+	
+	.leftwriting {
+
+    z-index: -1;
+}
 .txtblock.green.page {
     display: inline-block;
     text-align: left;
