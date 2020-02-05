@@ -4,6 +4,10 @@ title = "Campingtest"
 type = "camping"
 uniqueid = ""
 [[steps]]
+description = "- You can buy a 3 days-ticket + camping\n- Or you can just buy a camping ticket for 35€ (1 ticket per person)\n\nThe camping has a limited capacity and was sold out a couple of weeks before the festival last year so please, be sure to book your ticket in time to avoid any disappointment."
+img = "/v1580821029/paradise249_050719_602A5051_leylahesna_lr__htlmlg.jpg"
+title = "To access the campsite, there are two possibilities"
+[[steps]]
 description = "This is a comfortable tent for two. It has a big window at the back allowing the sun and the breeze to flow through the tent.\n\n- For two: 1 tent + 2 real beds with mattress + duvets & pillows + 2 deckchairs + light → 300€"
 img = "/v1580821249/2019-06-27_Liffin_Defqon_0086_WEB_hykdhv.jpg"
 title = "The Who (440 x 250 x 240 cm)"
@@ -28,13 +32,6 @@ _(Please, note that you won’t be allowed on the campsite without a valid campi
 <br><br>
 
 Here you take your own tent with you. The camping is located next to the festival site, it is secure and serene with good facilities such as food stalls, bars, fresh drinking water and super sanitary services (high-quality WCs and hot showers). Don’t forget to bring your own towel! Lockers will be available for rent. No matter what you have forgotten at home, we will help you out of the trouble. At the campsite, you can easily rent camping items such as sleeping bags or air mattresses.
-
-To access the campsite, there are two possibilities:
-
-* You can buy a 3 days-ticket + **camping**
-* Or you can just buy a camping ticket for **35€** (1 ticket per person)
-
-The camping has a limited capacity and was sold out a couple of weeks before the festival last year so please, be sure to book your ticket in time to avoid any disappointment.
 
 <br><br>
 
