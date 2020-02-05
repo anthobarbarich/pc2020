@@ -34,7 +34,7 @@ transport:
 - answer: |2-
      NEW! In order for you to reach the festival easily and in a more sustainable way, Paradise City and NMBS/SNCB have joined forces and will offer discounted train tickets. There will also be extra night trains.
 
-    All info and train tickets will soon be available on nmbs.be/paradisecity or sncb.be/paradisecity.
+    All info and train tickets will soon be available on http://bit.ly/PC-NMBS or http://bit.ly/PC-SNCB.
   question: TRAINS
 - answer: This year we're working with our partner **Brussels Airport** who will provide
     electric shuttle busses that will bring you from the **Vilvoorde train station**
