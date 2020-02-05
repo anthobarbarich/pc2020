@@ -27,5 +27,18 @@ fields:
   - type: text
     name: title
     label: title
+- name: groupe_1
+  type: include
+  config: {}
+  template: layout-columns
+  label: Groupe 1
+- name: block
+  type: blocks
+  label: block
+  template_types:
+  - layout-columns
+  config:
+    min: 
+    max: 
 pages:
 - content/campingtest.md
