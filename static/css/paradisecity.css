@@ -1321,7 +1321,7 @@ color: #fa8d76;
     color: #fff;
 }
 .lastnav.w--current {
-    color: #fa8d76;
+    color: #ffffff;
 }
 body.news a.navlink-black.w-nav-link[href="/news"], body.green a.navlink-black.w-nav-link[href="/green"], body.food a.navlink-black.w-nav-link[href="/food"], body.practical a.navlink-black.w-nav-link[href="/practical"], body.contact a.navlink-black.w-nav-link[href="/contact"], body.artists a.navlink-black.w-nav-link[href="/lineup"] {
     color: #fa8d76;
