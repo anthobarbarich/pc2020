@@ -4,7 +4,7 @@ title = "Campingtest"
 type = "camping"
 uniqueid = ""
 [[steps]]
-description = "This is a comfortable tent for two. It has a big window at the back allowing the sun and the breeze to flow through the tent.\n\n- For two: 1 tent + 2 real beds with mattress + duvets & pillows + 2 deckchairs + light >> 300€"
+description = "This is a comfortable tent for two. It has a big window at the back allowing the sun and the breeze to flow through the tent.\n\n- For two: 1 tent + 2 real beds with mattress + duvets & pillows + 2 deckchairs + light → 300€"
 img = "/v1580821249/2019-06-27_Liffin_Defqon_0086_WEB_hykdhv.jpg"
 title = "The Who (440 x 250 x 240 cm)"
 [[steps]]
