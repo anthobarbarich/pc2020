@@ -9,7 +9,7 @@ img = "/v1580821249/2019-06-27_Liffin_Defqon_0086_WEB_hykdhv.jpg"
 title = "The Who (440 x 250 x 240 cm)"
 [[steps]]
 description = "The campsite has two different types of Elvis tents. With a diameter of 6 meters and a height of 3 meters, the Elvis feels huge and comfortable.\n\n- For four: 1 spacious and elegant tent + 4 real beds with mattress + duvets & pillows + 4 deckchairs + light >> 420€\n- For five: 1 spacious and elegant tent + 5 real beds with mattress + duvets & pillows + 5 deckchairs + light >> 480€"
-img = "/v1580761017/paradise_150_070719_AG1A3132_leylahesna_lr_wtddcp.jpg"
+img = "/v1580821466/2019-07-25_Liffin_Gardens_0330_2_HR_zwnf5b.jpg"
 title = "The Elvis (600 x 300 cm)"
 
 +++
