@@ -7,7 +7,7 @@ title = "Become an Ambassador"
 +++
 Become an **official Paradise City ambassador** and earn tickets and exclusive experiences by selling tickets to Paradise City Festival 2020!
 
-**Rewards to claim**
+### Rewards to claim
 
 * Friday ticket
 * Saturday ticket
@@ -18,13 +18,13 @@ Become an **official Paradise City ambassador** and earn tickets and exclusive 
 * €40 Credit
 * Weekend ticket for you and one of your friend
 
-**How does the program work?**
+### How does the program work?
 
 You’ll earn points for every ticket that you sell to your friends. You can then use these points to redeem rewards in a shop within your ambassador dashboard. The more points you earn the more rewards you can claim for you and your friends.
 
 Our Community Manager will also be available throughout the campaign to answer any questions, give you advice on how to make more sales and provide you with important festival updates!
 
-**How do I make sales?**
+### How do I make sales?
 
 1. Create an ambassador account
 2. Log in to your account and click on start selling
