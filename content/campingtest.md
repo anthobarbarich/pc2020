@@ -8,9 +8,9 @@ description = "This is a comfortable tent for two. It has a big window at the ba
 img = "/v1580821249/2019-06-27_Liffin_Defqon_0086_WEB_hykdhv.jpg"
 title = "The Who (440 x 250 x 240 cm)"
 [[steps]]
-description = "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum "
+description = "The campsite has two different types of Elvis tents. With a diameter of 6 meters and a height of 3 meters, the Elvis feels huge and comfortable.\n\n- For four: 1 spacious and elegant tent + 4 real beds with mattress + duvets & pillows + 4 deckchairs + light >> 420€\n- For five: 1 spacious and elegant tent + 5 real beds with mattress + duvets & pillows + 5 deckchairs + light >> 480€"
 img = "/v1580761017/paradise_150_070719_AG1A3132_leylahesna_lr_wtddcp.jpg"
-title = "Option 2"
+title = "The Elvis (600 x 300 cm)"
 
 +++
 For campers, Paradise City is more than just a music festival, it is also a camping experience. Along with a rising sunshine and star-lit night skies, the intimate setting welcomes a fantastic crowd of music lovers.
