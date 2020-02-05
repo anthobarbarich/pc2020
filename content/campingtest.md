@@ -4,9 +4,9 @@ title = "Campingtest"
 type = "camping"
 uniqueid = ""
 [[steps]]
-description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum "
-img = "/v1580820865/B64I9384_uexrd4.jpg"
-title = "Option 1"
+description = "This is a comfortable tent for two. It has a big window at the back allowing the sun and the breeze to flow through the tent.\n\n- For two: 1 tent + 2 real beds with mattress + duvets & pillows + 2 deckchairs + light >> 300€"
+img = "/v1580821249/2019-06-27_Liffin_Defqon_0086_WEB_hykdhv.jpg"
+title = "The Who (440 x 250 x 240 cm)"
 [[steps]]
 description = "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum "
 img = "/v1580761017/paradise_150_070719_AG1A3132_leylahesna_lr_wtddcp.jpg"
@@ -23,6 +23,6 @@ _(Please, note that you won’t be allowed on the campsite without a valid campi
 
 <br><br>
 
-## To access, there are 2 possibilities
+## For those of you who wish to bring their own tent and camping equipment
 
 <br><br>
