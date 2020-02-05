@@ -6,7 +6,7 @@ uniqueid: ''
 image_opengraph: ''
 
 ---
-Op 26, 27 en 28 Juni is Steenokkerzeel opnieuw het mooie decor van Paradise City Festival, het groenste festival van het land. Paradise City zou niet hetzelfde zijn zonder jullie talrijke opkomst. En vooral op vrijdag willen we er een heus buurtfeest van maken, met extra voordelen voor alle inwoners van Steenokkerzeel. Zoals vorig jaar word Vrijdag een volwaardige festivaldag: de deuren gaan open om 14u, er zijn 3 stages met grote namen die we binnenkort gaan aankondigen. 
+Op 26, 27 en 28 Juni is Steenokkerzeel opnieuw het mooie decor van Paradise City Festival, het groenste festival van het land. Paradise City zou niet hetzelfde zijn zonder jullie talrijke opkomst. En vooral op vrijdag willen we er een heus buurtfeest van maken, met extra voordelen voor alle inwoners van Steenokkerzeel. Zoals vorig jaar word Vrijdag een volwaardige festivaldag: de deuren gaan open om 14u, er zijn 4 stages met grote namen die we binnenkort gaan aankondigen.
 
 **Welk voordeel krijgen jullie dit jaar?**
 
