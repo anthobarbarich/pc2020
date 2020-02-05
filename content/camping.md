@@ -71,4 +71,4 @@ Campers and caravans can be parked in the Camper area with a separate ticket for
 
 Please, think twice about buying a cheap throwaway tent that will only contribute to landfill and use our pre-pitched option :-)
 
-\* The campsite will be open from Friday 14.00 to Monday 12.00.
+_The campsite will be open from Friday 14.00 to Monday 12.00._
