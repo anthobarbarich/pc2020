@@ -1766,6 +1766,19 @@ input.newsletter-submit:hover, input.newsletter-submit:active {
 }
 
 @media (max-width: 991px) {
+	.w-nav-button.w--open {
+    background-color: #fc8872;
+    color: #fff;
+}
+	.w-nav-overlay {
+    position: absolute;
+    overflow: hidden;
+    display: none;
+    top: 100%;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
 .container {
     width: auto;
     max-width: 1200px;
@@ -2023,7 +2036,35 @@ a.blogthumb.w-inline-block {
 		top: 50px;
 		left:-70px;
 	}
+	
+.w-nav[data-collapse="medium"] .w-nav-menu {
+    display: none;
+    background-color: #fffdf8;
+    border-top: 1px solid lightgrey;
 }
+	.w--nav-link-open {
+    display: block;
+    position: relative;
+    text-align: center;
+}
+	.w-nav[data-collapse="medium"] .w-nav-button {
+    display: block;
+    color: white;
+}
+	.nav-link {
+    margin-left: 30px;
+    padding-top: 20px;
+    padding-left: 20px;
+    color: #3a3838;
+    font-size: 15px;
+}
+	.w-nav[data-collapse="medium"] .w-nav-button {
+    display: block;
+    color: #fc8872;
+    background-color: white;
+}
+}
+
 
 @media (max-width: 767px) {
 .btn-hero {
