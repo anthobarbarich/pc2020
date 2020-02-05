@@ -22,4 +22,4 @@ If you feel like helping us build Paradise City, you can register as a volunteer
 
 Got **_free time in June_**, a lot of **_energy and_** **_motivation_** and a desire to **_make something cool_**? We guarantee a great experience!
 
-    <a class="w-button btcta rev" href="https://www.eventication.com/events/paradise-city-2020" target="_blank">Register here →</a>
+    
