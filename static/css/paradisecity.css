@@ -2418,8 +2418,8 @@ padding-top: 0px;
     text-align: center;
 }
 .lastnav.w--current {
-    display: block;
-}
+    /* display: block; */
+	display: none;}
 .icon-2 {
     color: #fa8d76;
 }
@@ -2437,6 +2437,7 @@ padding-top: 0px;
 .section-page.line-up {
     margin-top: 80px;
 }
+	
 }
 .filterDiv {
     display: none; /* Hidden by default */
