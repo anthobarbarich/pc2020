@@ -13,6 +13,6 @@ img = "/v1580761017/paradise_150_070719_AG1A3132_leylahesna_lr_wtddcp.jpg"
 title = "Option 2"
 
 +++
-For campers, Paradise City is more than just a music festival, it is also a camping experience. Along with a rising sunshine and star-lit night skies, the intimate setting welcomes a fantastic crowd of music lovers
+For campers, Paradise City is more than just a music festival, it is also a camping experience. Along with a rising sunshine and star-lit night skies, the intimate setting welcomes a fantastic crowd of music lovers.<br><br>
 
 ## To access, there are 2 possibilities
