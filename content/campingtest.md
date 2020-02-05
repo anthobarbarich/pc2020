@@ -25,6 +25,10 @@ _(Please, note that you won’t be allowed on the campsite without a valid campi
 
 <br><br>
 
-## For those of you who wish to bring their own tent and camping equipment
+## Glamping options
 
 <br><br>
+
+These onsite glamping options are the absolute ultimate in cool and comfort. These shiny tents are 2, 4 or 5-person size dome tents and all have cosy beds, electricity and light. Outside it, you can relax in deckchairs and watch the stars at night. These are the perfect options for those who wish something different and want to add some style, comfort and fun to their festival experience.
+
+These camping packages can be booked along with your festival tickets through our website.
