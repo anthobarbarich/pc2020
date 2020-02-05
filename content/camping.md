@@ -48,7 +48,7 @@ These onsite glamping options are the absolute ultimate in cool and comfort. The
 
 These camping packages can be booked along with your festival tickets through our website.
 
-##### **The Who** (440 x 250 x 240 cm)
+#### **The Who** (440 x 250 x 240 cm)
 
 This is a comfortable tent for **two**. It has a big window at the back allowing the sun and the breeze to flow through the tent.
 
@@ -56,7 +56,7 @@ This is a comfortable tent for **two**. It has a big window at the back allowing
 
 ![](https://res.cloudinary.com/dxswtxauo/image/upload/v1580821249/2019-06-27_Liffin_Defqon_0086_WEB_hykdhv.jpg)
 
-##### **The Elvis** (600 x 300 cm)
+#### **The Elvis** (600 x 300 cm)
 
 The campsite has two different types of Elvis tents. With a diameter of 6 meters and a height of 3 meters, the Elvis feels huge and comfortable.
 
