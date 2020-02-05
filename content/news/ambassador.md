@@ -1,5 +1,6 @@
 +++
 date = 2020-02-03T10:30:55Z
+draft = true
 layout = "blog"
 thumbnail = "/v1580761017/paradise_150_070719_AG1A3132_leylahesna_lr_wtddcp.jpg"
 title = "Become an Ambassador"
