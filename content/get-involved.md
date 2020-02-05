@@ -1,5 +1,5 @@
 +++
-image_opengraph = "/v1580828711/paradise328_050719_AG1A0309_leylahesna_lr__xjjicj.jpg"
+image_opengraph = "/v1580908987/DSC_193222_eltifh.jpg"
 title = "Get Involved"
 uniqueid = ""
 
@@ -18,6 +18,8 @@ Working as a volunteer is also a great opportunity to learn about Paradise City 
 
 With over **600 dedicated people** working throughout the summer, we definitely need all the helping hands there are to make it happen!
 
-If you feel like helping us build Paradise City, you can register as a volunteer right [**here**](https://www.eventication.com/events/paradise-city-2020)**.** And why not bring a friend with you? As we say, « _Alone, I go faster; together, we go further._ »
-
 Got **_free time in June_**, a lot of **_energy and_** **_motivation_** and a desire to **_make something cool_**? We guarantee a great experience!
+
+If you feel like helping us build Paradise City, you can register as a volunteer **right** [**here**](https://www.eventication.com/events/paradise-city-2020)**.** And why not bring a friend with you? As we say, « _Alone, I go faster; together, we go further._ »
+
+    
