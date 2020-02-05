@@ -8,6 +8,10 @@ description = "- You can buy a 3 days-ticket + camping\n- Or you can just buy a 
 img = "/v1580821029/paradise249_050719_602A5051_leylahesna_lr__htlmlg.jpg"
 title = "To access the campsite, there are two possibilities"
 [[steps]]
+description = "Make your festival weekend even easier and buy a package which includes a tent, sleeping bags, mattress and chairs. The Camp2Camp area is built up and ready before you arrive.\n\n- For one person: 1 tent + 1 mattress + 1 sleeping bag + 1 chair → 75€\n- For two: 1 tent + 2 mattress + 2 sleeping bag + 2 chair → 120€\n- For four: 1 tent + 4 mattress + 4 sleeping bag + 4 chair → 220€\n(Note that a guarantee will be asked for all rented items)"
+img = "/v1580821150/paradise204_050719_602A5058_leylahesna_lr__g58y7h.jpg"
+title = "Camp2Camp Ready to go"
+[[steps]]
 description = "This is a comfortable tent for two. It has a big window at the back allowing the sun and the breeze to flow through the tent.\n\n- For two: 1 tent + 2 real beds with mattress + duvets & pillows + 2 deckchairs + light → 300€"
 img = "/v1580821249/2019-06-27_Liffin_Defqon_0086_WEB_hykdhv.jpg"
 title = "The Who (440 x 250 x 240 cm)"
