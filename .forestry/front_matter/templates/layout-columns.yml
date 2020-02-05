@@ -1,0 +1,29 @@
+---
+label: Layout Columns
+hide_body: false
+fields:
+- type: text
+  name: description
+  label: description
+- type: text
+  name: title
+  label: title
+- type: text
+  name: type
+  label: type
+- type: text
+  name: uniqueid
+  label: uniqueid
+- type: field_group_list
+  name: steps
+  label: steps
+  fields:
+  - type: textarea
+    name: description
+    label: description
+  - type: file
+    name: img
+    label: img
+  - type: text
+    name: title
+    label: title
