@@ -11,7 +11,7 @@ uniqueid = ""
 
 ![](https://res.cloudinary.com/dxswtxauo/image/upload/v1580820865/B64I9384_uexrd4.jpg)
 
-We all know there’s nothing better than having a refreshing (hot) shower followed by a good coffee and a delicious breakfast, while listening to that guy who was playing piano – remember last year? – or maybe you were the one that woke up, unlocked his sweet little tent and saw his best mates already drinking an opened Carapils can… You took a sip too, kicking off the day. Anyway, you’re feeling ready to start another day of carefully selected electronic music. Our campsite is a true slice of Paradise 😏And after an intense day of music, get a last and final beer at the camping bar.
+We all know there’s nothing better than having a refreshing (hot) shower followed by a good coffee and a delicious breakfast, while listening to that guy who was playing piano – remember last year? – or maybe you were the one that woke up, unlocked his sweet little tent and saw his best mates already drinking an opened Carapils can… You took a sip too, kicking off the day. Anyway, you’re feeling ready to start another day of carefully selected electronic music. Our campsite is a true slice of Paradise 😏 And after an intense day of music, get a last and final beer at the camping bar.
 
 The camping will be your personal eco-friendly chill-out area in the midst of festival insanity. There are **different options to overnight** **at Paradise City**, from pre-pitched tents or glamping options to caravans. Let’s explore them below.
 
@@ -38,7 +38,7 @@ Make your festival weekend even easier and buy a package which includes a tent, 
 * For **two**: 1 tent + 2 mattress + 2 sleeping bag + 2 chair >> **120€**
 * For **four**: 1 tent + 4 mattress + 4 sleeping bag + 4 chair >> **220€**
 
-\* Note that a guarantee will be asked for all rented items.
+_(Note that a guarantee will be asked for all rented items_)
 
 ![](https://res.cloudinary.com/dxswtxauo/image/upload/v1580821150/paradise204_050719_602A5058_leylahesna_lr__g58y7h.jpg)
 
