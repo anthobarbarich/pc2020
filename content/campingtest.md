@@ -53,7 +53,7 @@ These camping packages can be booked along with your festival tickets through ou
 
 <br><br>
 
-Campers and caravans can be parked in the Camper area with a separate ticket for **20€**. This ticket will only be valid in combination with a camping ticket. Water and electricity are supplied for your campers on the caravan pitch.
+Campers and caravans can be parked in the Camper area with a separate ticket for **40€**. This ticket will only be valid in combination with a camping ticket. Water and electricity are supplied for your campers on the caravan pitch.
 
 Please, think twice about buying a cheap throwaway tent that will only contribute to landfill and use our pre-pitched option :-)
 
