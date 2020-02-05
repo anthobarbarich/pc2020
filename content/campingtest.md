@@ -46,3 +46,15 @@ Here you take your own tent with you. The camping is located next to the festiva
 These onsite glamping options are the absolute ultimate in cool and comfort. These shiny tents are 2, 4 or 5-person size dome tents and all have cosy beds, electricity and light. Outside it, you can relax in deckchairs and watch the stars at night. These are the perfect options for those who wish something different and want to add some style, comfort and fun to their festival experience.
 
 These camping packages can be booked along with your festival tickets through our website.
+
+<br><br>
+
+## Campers and caravans
+
+<br><br>
+
+Campers and caravans can be parked in the Camper area with a separate ticket for **20€**. This ticket will only be valid in combination with a camping ticket. Water and electricity are supplied for your campers on the caravan pitch.
+
+Please, think twice about buying a cheap throwaway tent that will only contribute to landfill and use our pre-pitched option :-)
+
+_The campsite will be open from Friday 14.00 to Monday 12.00._
