@@ -2,7 +2,7 @@
 date = 2020-02-03T09:00:19Z
 layout = "blog"
 thumbnail = "/v1580761016/Paradise_Sat_Sil_0029_hvk4zl.jpg"
-title = "Camping"
+title = "Camping at Paradise City"
 
 +++
 For campers, Paradise City is more than a music festival, it is also a camping experience. Along with a rising sunshine and star-lit night skies, the intimate setting welcomes a fantastic crowd of music lovers.
