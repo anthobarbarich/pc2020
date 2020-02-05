@@ -13,4 +13,4 @@ But let’s focus on what happened last year: we’ve decreased our CO2 emission
 
 We know we can do better but there’s **_substantial improvement_**. We promise to continue doing our best efforts to implement more ecologically mindful ways to enjoy Paradise City Festival.
 
-What more can we do? We’ll leave this question open ;-)
+What more can we do? We’ll leave this question open 😉
