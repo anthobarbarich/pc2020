@@ -22,7 +22,7 @@ steps:
     a “Zero single-used plastic” policy & we provide reusable cups for all drinks.
     We are also trying to implement a circular economy in regards with the waste generated
     by the festival.
-  img: "/v1580761009/waste_eke2kr.svg"
+  img: "/v1580991880/3.Waste_4x_ogwvra.png"
 - title: 4. Transport
   img: "/v1580761003/4transport_ueipws.svg"
   description: 'Transport modes have the biggest impact on our carbon footprint. So
