@@ -15,7 +15,7 @@ steps:
     impact, we propose a large range of vegetarian & meat free meals from our food
     providers. Menus are discussed internally in order to offer large & balanced alternatives.
     We also try to adapt food quantity to avoid leftovers.
-  img: "/v1580761005/food_jzhmk2.svg"
+  img: "/v1580991852/2.Food_4x_r6qept.png"
 - title: 3. Waste Management
   description: Waste Management allows us, with our visitors’ participation, to sort,
     recycle and compost our waste. In order to minimize our waste stream, we have
