@@ -24,7 +24,7 @@ steps:
     by the festival.
   img: "/v1580991880/3.Waste_4x_ogwvra.png"
 - title: 4. Transport
-  img: "/v1580761003/4transport_ueipws.svg"
+  img: "/v1580991898/4.Transport_4x_jxlmqu.png"
   description: 'Transport modes have the biggest impact on our carbon footprint. So
     how will you get here? We are providing a parking near the entrance for sustainable
     transport modes with our bicycle point. We promote Carpooling and Public transports:
@@ -34,7 +34,7 @@ steps:
   description: 'Filtered tap water is available to avoid a wave of plastic water bottles
     which usually submerges festivals. Meet our less lucrative but more responsible
     alternative: Paradise City still & sparkling Tap Water.'
-  img: "/v1580761011/water_mldnzy.svg"
+  img: "/v1580991916/5.Water_4x_c8zyfi.png"
 - title: 6. Sustainable Communication
   description: 'Sustainable communication is considered whenever applicable: we use
     only FSC paper for all our communication on paper (flyers, posters …), which we
