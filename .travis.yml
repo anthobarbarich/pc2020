@@ -1,4 +1,7 @@
-if: branch = master
+# safelist
+branches:
+  only:
+  - master
 dist: xenial
 sudo: required
 language: node_js
