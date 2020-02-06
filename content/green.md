@@ -41,7 +41,7 @@ steps:
     try to cut down. And no tokens, it’s a cashless festival. As for our internet
     site, we make sure it is the lightest possible to avoid any negative environmental
     impact.'
-  img: "/v1580761007/com_uagmyl.svg"
+  img: "/v1580991953/6.Communication_4x_y6rx80.png"
 - title: 7. WATER
   img: "/v1580761013/water2_lcputz.svg"
   description: Water is a valuable good of nature that is spread on festival ground
