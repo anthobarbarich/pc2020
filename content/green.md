@@ -54,13 +54,13 @@ steps:
     We are aware that even after all our efforts, there is a remaining climate impact.
     Taking our responsibility, we offset the unavoidable climate impact through the
     support of CO2logic’s climate project.
-  img: "/v1580761005/co2_l41jtz.svg"
+  img: "/v1580992042/8._CO2_4x_uzsmno.png"
 - title: 9. Camping
   description: Camping has always been an ecological issue for festivals, mainly regarding
     all the waste left over. We have been working on the problem since our first edition
     and will implement for the second time in a row our circular camping where each
     camper has the opportunity to rent recycled camping gear, how cool is that?
-  img: "/v1580761003/9_gqjcfg.svg"
+  img: "/v1580992060/9._Camping_4x_sy2wpq.png"
 - title: 10. Awareness
   description: Awareness of the importance of a sustainable way of life is enhanced
     and communicated to our suppliers, partners and sponsors, to assure they share
