@@ -698,6 +698,10 @@ h3.section-intro.nomargin.greenz {
     color: #fff;
     text-align: center;
 }
+.w-nav-overlay{
+    background-color: #fffdf8;
+    top: 90%;
+}
 .overlaydark {
     position: absolute;
     top: 0px;
