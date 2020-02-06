@@ -66,7 +66,7 @@ steps:
     and communicated to our suppliers, partners and sponsors, to assure they share
     our concerns about a greener future. And we give you useful sustainable tips on
     the site of the festival.
-  img: "/v1580761005/awareness_a6yeop.svg"
+  img: "/v1580992078/10._Awareness_4x_dbyaqt.png"
 description: ''
 
 ---
