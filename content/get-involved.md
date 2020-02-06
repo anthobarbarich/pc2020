@@ -4,7 +4,7 @@ title = "Get Involved"
 uniqueid = ""
 
 +++
-Paradise City wasn’t built by itself. It’s the result of hard work by countless volunteers months before the due date, during and even after the festival. Together, we envision what a city of the future can look like with people working hand in hand to create something truly special.
+![](https://res.cloudinary.com/dxswtxauo/image/upload/v1580908987/DSC_193222_eltifh.jpg)Paradise City wasn’t built by itself. It’s the result of hard work by countless volunteers months before the due date, during and even after the festival. Together, we envision what a city of the future can look like with people working hand in hand to create something truly special.
 
 For every citizen on the dancefloor having the time of his life, **there’s someone making it happen behind the curtains**. As a volunteer, you are super precious to us, as you’re on site and you directly represent the festival to our festivalgoers. You can get involved in nearly all the activities needed to make Paradise City run flawlessly, from the build up before the festival to the breakdown after it. During the festival you can get involved at the info booth, the camping, the kitchens or the bar, the activities are countless and that’s why **we need YOU!**
 
@@ -20,4 +20,4 @@ With over **600 dedicated people** working throughout the summer, we definitely 
 
 Got **_free time in June_**, a lot of **_energy and_** **_motivation_** and a desire to **_make something cool_**? We guarantee a great experience!
 
-If you feel like helping us build Paradise City, you can register as a volunteer **right** [**here**](https://www.eventication.com/events/paradise-city-2020)**.** 
+If you feel like helping us build Paradise City, you can register as a volunteer **right** [**here**](https://www.eventication.com/events/paradise-city-2020)**.**
