@@ -8,7 +8,7 @@ steps:
     involved in the festival to be aware of how much energy they use, while measuring,
     monitoring and reporting each year on energy usage. The last 2 editions were powered
     up only by renewable energy & using low consumption lightning on site.
-  img: "/v1580761003/1energy_myyol9.svg"
+  img: "/v1580991835/1.Energy_4x_k96huj.png"
 - title: 2. Future Food
   description: Future food consists of 100 % locally sourced & organically grown food
     and ingredients from fair-trade source. Because of meat’s high climate & environmental
