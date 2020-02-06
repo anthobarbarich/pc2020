@@ -43,7 +43,7 @@ steps:
     impact.'
   img: "/v1580991953/6.Communication_4x_y6rx80.png"
 - title: 7. WATER
-  img: "/v1580761013/water2_lcputz.svg"
+  img: "/v1580991937/7._Water_wastez_4x_olo4c9.png"
   description: Water is a valuable good of nature that is spread on festival ground
     as our visitors must rehydrate, eat and (optionally) shower. For a second year
     in a row, we intent to purify on site the water used in our showers, reducing
