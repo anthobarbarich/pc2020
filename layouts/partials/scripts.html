@@ -4,34 +4,91 @@
 <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
 
 <script>
-    //nav bar on scroll mobile
-    window.onscroll = function() {
-    var currentScrollPos = window.pageYOffset;
-      if (currentScrollPos<150) {
-        document.getElementById("mobilenav").style.display ="none";
-       
-      } else {
-        document.getElementById("mobilenav").style.display ="block";
-        document.getElementById("mobilenav").style.top ="100px";
+  //nav bar on scroll mobile
+  var page = window.location.pathname;
+  var width = window.innerWidth
+    || document.documentElement.clientWidth
+    || document.body.clientWidth;
+
+  if (width <= 800) {
+    if (page === "/") {
+      var navvertical = document.getElementById("w-node-094437952635-feae796a");
+      var navverticalscroll = document.getElementById("navoverlayscroll");
+      navvertical.style.display = "none";
+      navverticalscroll.style.display = "none";
+
+      document.getElementById("mobilenav").style.display = "none";
+
+      var hasscrolled = false;
+      window.onscroll = function (e) {
+        var currentScrollPos = window.pageYOffset;
+        if (currentScrollPos > 150) {
+          document.getElementById("mobilenav").style.display = "block";
+          document.getElementById("mobilenav").style.top = "100px";
+          return hasscrolled = true;
+        }
+        else {
+          document.getElementById("mobilenav").style.display = "none";
+          console.log('test1');
+          return hasscrolled = false;
+
+        }
+      }
+      console.log(hasscrolled);
+      function displaynav() {
+        if (hasscrolled === true) {
+          if (navverticalscroll.style.display === "none") {
+            navvertical.style.display = "none";
+            navverticalscroll.style.display = "block";
+            console.log("test");
+          }
+          else {
+            navvertical.style.display = "none";
+            navverticalscroll.style.display = "none";
+            console.log("test2");
+          }
+        }
+        else {
+          if (navvertical.style.display === "none") {
+            navvertical.style.display = "block";
+            navverticalscroll.style.display = "none";
+            console.log("test3");
+          }
+          else {
+            navverticalscroll.style.display = "none";
+            navvertical.style.display = "none";
+            console.log("test4");
+          }
+        }
+      }
+
+    }
+    else {
+      var navnothome = document.getElementById("navoverlayscrollnothome");
+      console.log(navnothome);
+      function displaynav() {
+        if (navnothome.style.display === "none") {
+          navnothome.style.display = "block";
+          console.log("test");
+
+        }
+        else {
+          navnothome.style.display = "none";
+          console.log("test2");
+        }
       }
     }
-    </script>
 
-<script>
-  var navvertical = document.getElementById("navoverlay");
-  navvertical.style.display="none";
-  function displaynav(){
-    // var burgerIcon = document.getElementsByClassName("icon-2");
-    console.log("test");
-    
-    if(navvertical.style.display==="none"){
-      navvertical.style.display="block";
-    }
-    else{
-      navvertical.style.display="none";
-    }
   }
+
+
 </script>
+<script>
+
+
+</script>
+
+
 <script>
   filterSelection("all")
   function filterSelection(c) {

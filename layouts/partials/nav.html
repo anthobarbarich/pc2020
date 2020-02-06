@@ -25,11 +25,11 @@
         </div>
         <a href="/tickets" target="_blank" class="lastnav w-nav-link">TICKETS</a>
     </div>
-    <div class="w-nav-overlay" id="navoverlay" data-wf-ignore="" style="height: 5920px; display: block;top:90%;">
-        <nav role="navigation" class="navmenu2 w-nav-menu w--nav-menu-open"
+    <div class="w-nav-overlay" id="navoverlayscroll" data-wf-ignore="" style="height: 5920px; display: block;top:90%;">
+        <nav role="navigation" class="w-nav-menu navmenu2 w--nav-menu-open"
             style="transform: translateY(0px) translateX(0px); transition: transform 400ms ease 0s;">
             <a href="/news" class="navlink-black w-nav-link w--nav-link-open">news</a>
-            <a href="/lineup" class="navlink-black w-nav-link w--nav-link-open">LINE-UP</a>
+            <a href="/lineup" class="navlink-black w-nav-link w--nav-link-open">TEST 2 LINE-UP</a>
             <a href="/green" class="navlink-black w-nav-link w--nav-link-open">GREEN</a>
 
             <a href="/practical" class="navlink-black w-nav-link w--nav-link-open">Practical</a>
@@ -43,10 +43,37 @@
     id="w-node-094437952635-feae796a" class="navbar w-nav">
     <div class="container nav">
         <a href="#" class="brand w-nav-brand"></a>
+
+        <div class="menu-button w-nav-button w--open" onclick="displaynav()">
+            <div class="w-icon-nav-menu" id="menu-button"></div>
+        </div>
+    </div>
+
+    <div class="w-nav-overlay" data-wf-ignore="" style="height: 5920px; display: block;">
+        <nav role="navigation" class="nav-menu w-nav-menu w--nav-menu-open"
+            style="transform: translateY(0px); transition: transform 400ms ease 0s;"><a href="/news"
+                class="nav-link w-nav-link w--nav-link-open">news</a><a href="/lineup"
+                class="nav-link w-nav-link w--nav-link-open">LINE-UP</a>
+
+            <a href="/green" class="nav-link w-nav-link w--nav-link-open"> test 3GREEN</a>
+
+            <div class="dropdown">
+                <a onclick="myFunction()" class="dropbtn nav-link w-nav-link w--nav-link-open">Practical ⌄</a>
+                <div id="myDropdown" class="dropdown-content">
+                    <a href="/practical">FAQ</a> </div>
+            </div>
+            <a href="/contact" class="nav-link w-nav-link w--nav-link-open">CONTACT</a>
+        </nav>
+    </div>
+</div>
+<div data-collapse="medium" data-animation="default" data-duration="400" data-doc-height="1"
+    id="w-node-094437952635-feae796a" class="navbar w-nav">
+    <div class="container nav">
+        <a href="#" class="brand w-nav-brand"></a>
         <nav role="navigation" class="nav-menu w-nav-menu"><a href="/news" class="nav-link w-nav-link">news</a><a
                 href="/lineup" class="nav-link w-nav-link">LINE-UP</a>
             <!--            <a href="/timetable" class="nav-link w-nav-link">TIMETABLE</a>-->
-            <a href="/green" class="nav-link w-nav-link">GREEN</a>
+            <a href="/green" class="nav-link w-nav-link"> test 3GREEN</a>
 
             <div class="dropdown">
                 <a onclick="myFunction()" class="dropbtn nav-link w-nav-link">Practical ⌄</a>
@@ -57,9 +84,10 @@
                 class="nav-link w-nav-link">CONTACT</a>
         </nav>
         <div class="menu-button w-nav-button" onclick="displaynav()">
-            <div class="w-icon-nav-menu"></div>
+            <div class="w-icon-nav-menu" id="menu-button"></div>
         </div>
     </div>
+
 </div>
 {{ else}}
 <div data-collapse="medium" data-animation="default" data-duration="400" data-doc-height="1" class="navbarblack w-nav">
@@ -82,8 +110,9 @@
         </div>
         <a href="/tickets" target="_blank" class="lastnav w-nav-link">TICKETS</a>
     </div>
-    <div class="w-nav-overlay" id="navoverlay" data-wf-ignore="" style="height: 5920px; display: block;top:90%;">
-        <nav role="navigation" class="navmenu2 w-nav-menu w--nav-menu-open"
+    <div class="w-nav-overlay" data-wf-ignore="" id="navoverlayscrollnothome"
+        style="height: 5920px; display: none;top:90%;">
+        <nav role="navigation" class="w-nav-menu w--nav-menu-open"
             style="transform: translateY(0px) translateX(0px); transition: transform 400ms ease 0s;">
             <a href="/news" class="navlink-black w-nav-link w--nav-link-open">news</a>
             <a href="/lineup" class="navlink-black w-nav-link w--nav-link-open">LINE-UP</a>
@@ -95,5 +124,55 @@
 
             <a href="/contact" class="navlink-black w-nav-link w--nav-link-open">CONTACT</a></nav>
     </div>
+    <div class="w-nav-overlay" id="navoverlaysmobile" data-wf-ignore="" style="height: 5920px; display: none;top:90%;">
+        <nav role="navigation" class="w-nav-menu navmenu2 w--nav-menu-open"
+            style="transform: translateY(0px) translateX(0px); transition: transform 400ms ease 0s;">
+            <a href="/news" class="navlink-black w-nav-link w--nav-link-open">news</a>
+            <a href="/lineup" class="navlink-black w-nav-link w--nav-link-open">TEST 2 LINE-UP</a>
+            <a href="/green" class="navlink-black w-nav-link w--nav-link-open">GREEN</a>
+
+            <a href="/practical" class="navlink-black w-nav-link w--nav-link-open">Practical</a>
+
+            <a href="/contact" class="navlink-black w-nav-link w--nav-link-open">CONTACT</a></nav>
+    </div>
+    <div data-collapse="medium" data-animation="default" data-duration="400" data-doc-height="1"
+        class="navbarblack w-nav">
+        <div class="container nav">
+            <a href="/" class="bradn2 w-nav-brand"><img src="/images/minilogobrun.svg" width="113" alt=""></a>
+            <nav role="navigation" class="navmenu2 w-nav-menu"> <a href="/news"
+                    class="navlink-black w-nav-link">news</a>
+                <a href="/lineup" class="navlink-black w-nav-link">LINE-UP</a>
+                <!--			<a href="/timetable" class="navlink-black w-nav-link">TIMETABLE</a>-->
+                <a href="/green" class="navlink-black w-nav-link">GREEN</a>
+                <!--		  <a href="/food" class="navlink-black w-nav-link">FOOD</a>-->
+                <div class="dropdown">
+                    <a onclick="myFunction()" class="dropbtn navlink-black w-nav-link">Practical ⌄</a>
+                    <div id="myDropdown" class="dropdown-content">
+                        <!--<a href="/transport">Transport</a>--> <a href="/practical">FAQ</a> </div>
+                </div>
+                <a href="/contact" class="navlink-black w-nav-link">CONTACT</a>
+            </nav>
+            <div class="menu-button w-nav-button" onclick="displaynav()">
+                <div class="icon-2 w-icon-nav-menu"></div>
+            </div>
+            <a href="/tickets" target="_blank" class="lastnav w-nav-link">TICKETS</a>
+        </div>
+        <div class="w-nav-overlay" data-wf-ignore="" style="height: 2699px; display: none;" id="navoverlayscrollnothome">
+            <nav role="navigation" class="navmenu2 w-nav-menu w--nav-menu-open"
+                style="transform: translateY(0px) translateX(0px); transition: transform 400ms ease 0s;"><a href="/news"
+                    class="navlink-black w-nav-link w--current w--nav-link-open">news</a> <a href="/lineup"
+                    class="navlink-black w-nav-link w--nav-link-open">LINE-UP</a> <a href="/green"
+                    class="navlink-black w-nav-link w--nav-link-open">GREEN</a> <a href="/get-involved"
+                    class="navlink-black w-nav-link w--nav-link-open">Get Involved</a> <a href="/camping"
+                    class="navlink-black w-nav-link w--nav-link-open">Camping</a>
+                <div class="dropdown"><a onclick="myFunction()"
+                        class="dropbtn navlink-black w-nav-link w--nav-link-open">Practical ⌄</a>
+                    <div id="myDropdown" class="dropdown-content"><a href="/practical">FAQ</a></div>
+                </div><a href="/contact" class="navlink-black w-nav-link w--nav-link-open">CONTACT</a>
+            </nav>
+        </div>
+
+    </div>
+
 </div>
 {{ end }}

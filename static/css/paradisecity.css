@@ -699,8 +699,10 @@ h3.section-intro.nomargin.greenz {
     text-align: center;
 }
 .w-nav-overlay{
-    background-color: #fffdf8;
     top: 90%;
+}
+.w-nav[data-collapse=medium] .w-nav-menu {
+    background-color: #fffdf8;
 }
 .overlaydark {
     position: absolute;
@@ -1767,6 +1769,18 @@ input.newsletter-submit:hover, input.newsletter-submit:active {
 .container {
     width: auto;
     max-width: 1200px;
+}
+body.news a.navlink-black.w-nav-link[href="/news"], body.green a.navlink-black.w-nav-link[href="/green"], body.food a.navlink-black.w-nav-link[href="/food"], body.practical a.navlink-black.w-nav-link[href="/practical"], body.contact a.navlink-black.w-nav-link[href="/contact"], body.artists a.navlink-black.w-nav-link[href="/lineup"] {
+    color: #fa8d76;
+    TEXT-ALIGN: CENTER;
+}
+.navlink-black {
+    margin-left: 30px;
+    padding-top: 20px;
+    padding-left: 20px;
+    color: #575757;
+    font-size: 18px;
+    TEXT-ALIGN: CENTER;
 }
 .container.split {
     -webkit-box-orient: vertical;
