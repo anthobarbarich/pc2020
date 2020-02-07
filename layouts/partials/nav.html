@@ -48,9 +48,10 @@
 </div>
 {{ else}}
 <div data-collapse="medium" data-animation="default" data-duration="400" data-doc-height="1" class="navbarblack w-nav">
-    <div class="container nav">
+    <div class="container nav" id="menuButton">
         <a href="/" class="bradn2 w-nav-brand"><img src="/images/minilogobrun.svg" width="113" alt=""></a>
-        <nav role="navigation" class="navmenu2 w-nav-menu"> <a href="/news" class="navlink-black w-nav-link">news</a>
+        <nav role="navigation" class="navmenu2 w-nav-menu" id="mobile-nav">
+            <a href="/news" class="navlink-black w-nav-link">news</a>
             <a href="/lineup" class="navlink-black w-nav-link">LINE-UP</a>
             <!-- <a href="/timetable" class="navlink-black w-nav-link">TIMETABLE</a>-->
             <a href="/green" class="navlink-black w-nav-link">GREEN</a>
@@ -64,7 +65,7 @@
             </div>
             <a href="/contact" class="navlink-black w-nav-link">CONTACT</a>
         </nav>
-        <div class="menu-button w-nav-button">
+        <div class="menu-button w-nav-button" id="menu-button-2">
             <div class="icon-2 w-icon-nav-menu"></div>
         </div>
         <a href="/tickets" target="_blank" class="lastnav w-nav-link">TICKETS</a>
