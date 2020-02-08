@@ -9,7 +9,7 @@
 <div class="col4 whitebg" style="box-shadow:none; padding: 0;background-color:transparent"> 
 					<img data-src="images/lefwriting.png" width="400" alt="" class="lozad" style="position: absolute;top: -149px;left: -25px;">
 					
-					{{ range .Pages.ByPublishDate.Reverse }}
+					{{ range .Pages }}
 				<a href="{{.Permalink}}" class="linkblog" style="margin-bottom:20px;">
 				<h3 class="headingblogthumb">
 					<span class="datearticle">{{ .Date.Format "Mon, Jan 2" }}</span><br>

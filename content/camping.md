@@ -1,7 +1,6 @@
 +++
 date = 2020-02-04T13:27:15Z
 image_opengraph = "/v1580761016/Paradise_Sat_Sil_0029_hvk4zl.jpg"
-layout = "blog"
 thumbnail = "/v1580761016/Paradise_Sat_Sil_0029_hvk4zl.jpg"
 title = "Camping"
 uniqueid = ""
