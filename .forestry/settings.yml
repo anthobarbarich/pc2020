@@ -61,7 +61,7 @@ sections:
 - type: heading
   label: OTHER
 upload_dir: ''
-public_path: https://res.cloudinary.com/dxswtxauo/image/upload
+public_path: https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto
 front_matter_path: ''
 use_front_matter_path: true
 file_template: ":filename:"
