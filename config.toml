@@ -4,6 +4,11 @@ DefaultContentLanguage = "en"
 title = "Paradise City Festival 2020"
 sectionPagesMenu = "main"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   author = "Paradise City"
   description = "5, 6 & 7 July in Perk, Belgium"
