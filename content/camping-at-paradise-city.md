@@ -5,7 +5,6 @@ layout = "blog"
 thumbnail = "/v1580761016/Paradise_Sat_Sil_0029_hvk4zl.jpg"
 title = "Camping"
 uniqueid = ""
-type = "camping"
 +++
 **For campers, Paradise City is more than just a music festival, it is also a camping experience. Along with a rising sunshine and star-lit night skies, the intimate setting welcomes a fantastic crowd of music lovers.**
 

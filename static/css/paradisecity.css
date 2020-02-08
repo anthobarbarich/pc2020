@@ -1666,19 +1666,7 @@ button.btcta.rev.form {
   border-radius: 10px;
   background-color: #fff;
   box-shadow: 1px 1px 50px 0 rgba(0, 0, 0, 0.22);
-	z-index: 99999999;
 }
-
-
-	.logotop {
-
-    -webkit-animation:spin 40s linear infinite;
-    -moz-animation:spin 40s linear infinite;
-    animation:spin 40s linear infinite;
-}
-@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
-@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
-@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
 /*.smbuttons:hover {
 		width: 400px;
 }*/
