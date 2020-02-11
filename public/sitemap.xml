@@ -1,31 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/news/ticket-sale-starts-on-february-15th-at-4pm/</loc>
-    <lastmod>2020-02-03T18:16:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-02-05T15:00:23+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/news/ambassador/</loc>
-    <lastmod>2020-02-03T18:08:55+00:00</lastmod>
+    <loc>/news/</loc>
+    <lastmod>2020-02-05T15:00:23+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/news/camping-1/</loc>
-    <lastmod>2020-02-03T18:07:19+00:00</lastmod>
+    <loc>/news/ticket-sale-has-started/</loc>
+    <lastmod>2020-02-05T15:00:23+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/news/1-love-1-planet/</loc>
-    <lastmod>2020-02-03T18:03:09+00:00</lastmod>
+    <lastmod>2020-02-03T10:00:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/news/green/</loc>
+    <lastmod>2020-02-03T09:30:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/news/camping-at-paradise-city/</loc>
+    <lastmod>2020-02-03T09:00:19+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -33,13 +47,6 @@
   <url>
     <loc>/artist/</loc>
     <lastmod>2019-01-12T00:00:00+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-02-03T18:16:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -75,9 +82,15 @@
   </url>
   
   <url>
+    <loc>/campingtest/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <changefreq>daily</changefreq>
-    <priority>0</priority>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -137,18 +150,11 @@
   <url>
     <loc>/stages/</loc>
     <changefreq>daily</changefreq>
-    <priority>0</priority>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/news/</loc>
-    <lastmod>2020-02-03T18:16:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

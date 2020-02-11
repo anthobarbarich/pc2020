@@ -1,7 +1,6 @@
 {
   "name": "pc2020",
   "version": "1.0.0",
-  "description": "",
   "postcss": {
     "plugins": {
       "autoprefixer": {}
@@ -27,5 +26,7 @@
     "gulp-cli": "^2.2.0",
     "gulp-htmlmin": "^5.0.1",
     "postcss-cli": "^7.1.0"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
