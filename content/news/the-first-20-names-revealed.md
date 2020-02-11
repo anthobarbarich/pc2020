@@ -12,4 +12,4 @@ Among the artists we have the captivating duo RY X and Frank Wiedemann with thei
 
 ADRIATIQUE – AXEL BOMAN – BEN UFO – CHARLOTTE ADIGERY – COURTESY – ELI VERVEINE – GIDGE – KERRI CHANDLER – KINK – KRUDER & DORFMEISTER – LEAFAR LEGOV – LOLA HARO – MAX COOPER – MAP.ACHE – MEZIGUE – NOSEDRIP – PAQUITA GORDON – RY X & FRANK WIEDEMANN present HOWLING – S.A.M. – TRIKK
 
-Other names will soon follow until the kick-off of the festival. The 6th edition will take place on 26, 27 and 28 June in Steenokkerzeel. And guess what? You can already get your tickets [**here**]()!
+Other names will follow soon until the kick-off of the festival. The 6th edition will take place on 26, 27 and 28 June in Steenokkerzeel. And guess what? You can already get your tickets [**here**]()!
