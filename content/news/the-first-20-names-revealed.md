@@ -3,7 +3,7 @@ date = 2020-02-11T14:59:52Z
 draft = true
 layout = "blog"
 thumbnail = "/v1581433814/DSC_1494_ippkab.jpg"
-title = "The first 20 names revealed !"
+title = "First 20 names revealed !"
 
 +++
 The first names of the Paradise City festival program have been announced.
