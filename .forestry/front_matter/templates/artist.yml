@@ -75,6 +75,7 @@ fields:
     display_utc: false
 pages:
 - content/artist/adri.md
+- content/artist/benufo.md
 - content/artist/boman.md
 - content/artist/lola.md
 - content/artist/ndrip.md
