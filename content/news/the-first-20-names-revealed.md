@@ -6,7 +6,7 @@ thumbnail = "/v1581433814/DSC_1494_ippkab.jpg"
 title = "First 20 names revealed !"
 
 +++
-The first names of the Paradise City festival have been announced.
+The first names of Paradise City festival have been announced.
 
 Among the artists we have the captivating duo RY X and Frank Wiedemann with their project **Howling**, the excellent house producer **Kerri Chandler** and the amazing selector DJ **Ben UFO**. The **Adriatique** duo will be back after a bewitching set last year and Austrian producers **Kruder & Dorfmeister** will tear the grounds of Ribaucourt Castle apart. As for **Courtesy**, she'll awaken our souls with a legendary performance as she usually does. The French phenomenon **Mézigue** and our resident and rising star **Lola Haro** are also planned in this 2020 line-up. Electronic music aficionados, hold on for dear life, you'll be blown away.
 
