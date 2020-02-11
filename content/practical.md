@@ -53,6 +53,9 @@ tickets:
 - answer: You can buy tickets for someone else. Note that there is a limit of 10 tickets
     per order.
   question: HOW MANY TICKETS CAN I ORDER?
+- answer: 'No sorry, you can’t. The best thing to do is to sell your ticket on Ticketswap
+    and to buy a new one. You can check here : https://fr.ticketswap.be/event/paradise-city-festival-2020/a0d62a69-fb4d-45b0-8ebd-211bb73c08a5'
+  question: CAN I CHANGE THE DAY OF MY TICKET?
 - answer: Yes, you’ll be able to buy ticket at the entrance if Paradise City is not
     sold out. Saturday was sold out last year, so we recommend buying your ticket
     upfront. Also, tickets will be 10euro more expensive at the door. Just so you
