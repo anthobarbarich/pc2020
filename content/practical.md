@@ -55,6 +55,9 @@ tickets:
 - answer: 'No sorry, you can’t. The best thing to do is to sell your ticket on Ticketswap
     and to buy a new one. You can check here : https://fr.ticketswap.be/event/paradise-city-festival-2020/a0d62a69-fb4d-45b0-8ebd-211bb73c08a5'
   question: CAN I CHANGE THE DAY OF MY TICKET?
+- answer: 'You can insert the e-mail address you’ve used to buy your tickets in the
+    following link to receive your tickets again : https://consumer.paylogic.nl/tickets/'
+  question: I'VE LOST MY TICKET, WHAT CAN I DO?
 - answer: Yes, you’ll be able to buy ticket at the entrance if Paradise City is not
     sold out. Saturday was sold out last year, so we recommend buying your ticket
     upfront. Also, tickets will be 10euro more expensive at the door. Just so you
