@@ -42,13 +42,15 @@ transport:
     & Brussels Airport train station**.
   question: SHUTTLES FROM A TRAIN STATION
 tickets:
+- answer: Your ticket can only be refunded if you took the cancellation insurance,
+    otherwise it’s not possible. The best thing to do is sell your ticket on Ticketswap.
+  question: CAN MY TICKET BE REFUNDED?
 - answer: 'Here’s a link to our ticketshop: [www.paradisecity.be/tickets](www.paradisecity.be/tickets)'
   question: WHERE CAN I BUY TICKETS?
-- answer: "Yes of course… if you don’t go. The ticket doesn’t have to be registered
+- answer: 'Yes of course… if you don’t go. The ticket doesn’t have to be registered
     in your name or match your identification. There is only one rule: one ticket
-    = one person. \n\nNote that your Wristband is not transferable (don’t think you
-    can share it with your BF).\n\nIf you want to sell your ticket to a friend, no
-    problem."
+    = one person. Note that your Wristband is not transferable (don’t think you can
+    share it with your BF).If you want to sell your ticket to a friend, no problem.'
   question: CAN I SHARE MY TICKET WITH A FRIEND?
 - answer: You can buy tickets for someone else. Note that there is a limit of 10 tickets
     per order.
