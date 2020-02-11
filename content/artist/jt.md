@@ -1,8 +1,12 @@
 +++
-day = "Saturday"
+day = ["Saturday"]
 draft = true
+end = ""
+facebook = ""
 name = "John Talabot"
 photo = ""
-position = "stages/Love.md"
+position = []
+soundcloud = ""
+start = ""
 
 +++
