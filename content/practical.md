@@ -42,9 +42,6 @@ transport:
     & Brussels Airport train station**.
   question: SHUTTLES FROM A TRAIN STATION
 tickets:
-- answer: Your ticket can only be refunded if you took the cancellation insurance,
-    otherwise it’s not possible. The best thing to do is sell your ticket on Ticketswap.
-  question: CAN MY TICKET BE REFUNDED?
 - answer: 'Here’s a link to our ticketshop: [www.paradisecity.be/tickets](www.paradisecity.be/tickets)'
   question: WHERE CAN I BUY TICKETS?
 - answer: 'Yes of course… if you don’t go. The ticket doesn’t have to be registered
@@ -67,6 +64,9 @@ tickets:
     seperate ticket for it in our shop. Please present yourself at the entrance with
     your festival bracelet otherwise you''ll have to pay an extra 5€.  '
   question: DOES MY TICKET INCLUDE THE NIGHTPROGRAM AT C12?
+- answer: Your ticket can only be refunded if you took the cancellation insurance,
+    otherwise it’s not possible. The best thing to do is sell your ticket on Ticketswap.
+  question: CAN MY TICKET BE REFUNDED?
 - answer: "Nope! Everybody’s welcome at Paradise City Festival and kids below 12 years
     even enter free of charge. However, all kids below 18 have to be accompanied by
     their parents.  \n\nAlcohol will only be sold to people over 18! \n\nPlease mind
