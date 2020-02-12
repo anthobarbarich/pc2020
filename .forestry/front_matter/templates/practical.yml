@@ -124,5 +124,3 @@ fields:
   - type: text
     name: question
     label: question
-pages:
-- content/practical.md

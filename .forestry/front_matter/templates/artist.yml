@@ -74,5 +74,23 @@ fields:
     time_format: 
     display_utc: false
 pages:
-- content/artist/cleveland.md
-- content/artist/jt.md
+- content/artist/adri.md
+- content/artist/benufo.md
+- content/artist/boman.md
+- content/artist/chadigery.md
+- content/artist/chdlr.md
+- content/artist/crtsy.md
+- content/artist/gdg.md
+- content/artist/gdn.md
+- content/artist/hwlg.md
+- content/artist/kink.md
+- content/artist/knd.md
+- content/artist/lgv.md
+- content/artist/lola.md
+- content/artist/mpc.md
+- content/artist/mxcoop.md
+- content/artist/mzg.md
+- content/artist/ndrip.md
+- content/artist/sam.md
+- content/artist/trikk.md
+- content/artist/vrvn.md

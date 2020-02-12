@@ -44,15 +44,20 @@ transport:
 tickets:
 - answer: 'Here’s a link to our ticketshop: [www.paradisecity.be/tickets](www.paradisecity.be/tickets)'
   question: WHERE CAN I BUY TICKETS?
-- answer: "Yes of course… if you don’t go. The ticket doesn’t have to be registered
+- answer: 'Yes of course… if you don’t go. The ticket doesn’t have to be registered
     in your name or match your identification. There is only one rule: one ticket
-    = one person. \n\nNote that your Wristband is not transferable (don’t think you
-    can share it with your BF).\n\nIf you want to sell your ticket to a friend, no
-    problem."
+    = one person. Note that your Wristband is not transferable (don’t think you can
+    share it with your BF).If you want to sell your ticket to a friend, no problem.'
   question: CAN I SHARE MY TICKET WITH A FRIEND?
 - answer: You can buy tickets for someone else. Note that there is a limit of 10 tickets
     per order.
   question: HOW MANY TICKETS CAN I ORDER?
+- answer: 'No sorry, you can’t. The best thing to do is to sell your ticket on Ticketswap
+    and to buy a new one. You can check here : https://fr.ticketswap.be/event/paradise-city-festival-2020/a0d62a69-fb4d-45b0-8ebd-211bb73c08a5'
+  question: CAN I CHANGE THE DAY OF MY TICKET?
+- answer: 'You can insert the e-mail address you’ve used to buy your tickets in the
+    following link to receive your tickets again : https://consumer.paylogic.nl/tickets/'
+  question: I'VE LOST MY TICKET, WHAT CAN I DO?
 - answer: Yes, you’ll be able to buy ticket at the entrance if Paradise City is not
     sold out. Saturday was sold out last year, so we recommend buying your ticket
     upfront. Also, tickets will be 10euro more expensive at the door. Just so you
@@ -62,6 +67,9 @@ tickets:
     seperate ticket for it in our shop. Please present yourself at the entrance with
     your festival bracelet otherwise you''ll have to pay an extra 5€.  '
   question: DOES MY TICKET INCLUDE THE NIGHTPROGRAM AT C12?
+- answer: Your ticket can only be refunded if you took the cancellation insurance,
+    otherwise it’s not possible. The best thing to do is sell your ticket on Ticketswap.
+  question: CAN MY TICKET BE REFUNDED?
 - answer: "Nope! Everybody’s welcome at Paradise City Festival and kids below 12 years
     even enter free of charge. However, all kids below 18 have to be accompanied by
     their parents.  \n\nAlcohol will only be sold to people over 18! \n\nPlease mind
