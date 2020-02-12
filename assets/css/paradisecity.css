@@ -60,7 +60,15 @@ strong {
 .grn {
   color: #8fa768;
 }
-
+.blockArtist{
+  padding: 0 2.5%;
+  width: 65%;
+  font-size: 1em;
+  line-height: 1.5;
+}
+div.flex.margin{
+  margin-top: 2em;
+}
 .body {
   min-height: 1200px;
   background-color: #fffafa;
@@ -68,6 +76,10 @@ strong {
 }
 .body.news.navlink-black.w-nav-link a[href="/news"] {
   color: red;
+}
+h3.heading3{
+  margin-top: 7em;
+  text-align: center;
 }
 
 .leftwriting {
@@ -2279,6 +2291,12 @@ input.newsletter-submit:active {
   .section-intro.col.whitebg img {
     position: relative;
   }
+  .blockArtist{
+    padding: 0em;
+    width: 100%;
+    font-size: 0.8em;
+    LINE-HEIGHT: 2;
+    }
   .container {
     padding-right: 10px;
     padding-left: 10px;
@@ -3170,11 +3188,14 @@ body.sun .link-table[href="/timetable/sunday"] {
   .homefixednav.is-visible #mobile-nav {
     top: 75px;
   }
+  
 }
 @media screen and (min-width: 480px) and (max-width: 991px) {
   #menu-button-2 {
     top: 15px;
   }
+
+    
   body.home.is-opened #mobile-nav {
     top: 170px;
   }
