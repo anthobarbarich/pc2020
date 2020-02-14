@@ -2930,15 +2930,24 @@ body.sun .link-table[href="/timetable/sunday"] {
   color: #fa8d76;
 }
 
+/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
+
 /* NAVBAR */
 
 .navbar-2 {
-  transform-style: preserve-3d;
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+  -webkit-transition: -webkit-transform 200ms ease 0s;
+  transition: -webkit-transform 200ms ease 0s;
+  -o-transition: transform 200ms ease 0s;
   transition: transform 200ms ease 0s;
-  transform: translateX(0px) translateY(-100px) translateZ(0px);
+  transition: transform 200ms ease 0s, -webkit-transform 200ms ease 0s;
+  -webkit-transform: translateX(0px) translateY(-100px) translateZ(0px);
+          transform: translateX(0px) translateY(-100px) translateZ(0px);
 }
 .navbar-2.is-visible {
-  transform: translateX(0px) translateY(0px) translateZ(0px);
+  -webkit-transform: translateX(0px) translateY(0px) translateZ(0px);
+          transform: translateX(0px) translateY(0px) translateZ(0px);
 }
 
 /* MOBILE NAV */
@@ -2950,23 +2959,46 @@ body.sun .link-table[href="/timetable/sunday"] {
   #mobile-nav {
     position: fixed;
     left: 0;
-    transform: translateY(-100vh);
-    flex-direction: column;
+    -webkit-transform: translateY(-100vh);
+        -ms-transform: translateY(-100vh);
+            transform: translateY(-100vh);
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
     width: 100%;
-    justify-content: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     text-align: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
     z-index: 100;
+    -webkit-transition: -webkit-transform 500ms ease;
+    transition: -webkit-transform 500ms ease;
+    -o-transition: transform 500ms ease;
     transition: transform 500ms ease;
+    transition: transform 500ms ease, -webkit-transform 500ms ease;
   }
   body.is-opened #mobile-nav {
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
     display: flex !important;
-    flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
     width: 100%;
-    justify-content: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     text-align: center;
-    transform: translateY(0px);
-    animation: mobilenavOpen 500ms ease forwards;
+    -webkit-transform: translateY(0px);
+        -ms-transform: translateY(0px);
+            transform: translateY(0px);
+    -webkit-animation: mobilenavOpen 500ms ease forwards;
+            animation: mobilenavOpen 500ms ease forwards;
   }
   body.is-opened #mobile-nav {
     top: 73px;
@@ -2987,7 +3019,8 @@ body.sun .link-table[href="/timetable/sunday"] {
     padding: 0;
   }
   #container-nav {
-    flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
     height: 60px;
   }
   #menu-button-2 {
@@ -3019,6 +3052,16 @@ body.sun .link-table[href="/timetable/sunday"] {
     margin-left: 0;
   }
 }
+@-webkit-keyframes mobilenavOpen {
+  0% {
+    transform: translateY(-100vh);
+    -webkit-transform: translateY(-100vh);
+  }
+  100% {
+    transform: translateY(0vh);
+	-webkit-transform: translateY(0vh);
+  }
+}
 @keyframes mobilenavOpen {
   0% {
     transform: translateY(-100vh);
@@ -3027,6 +3070,16 @@ body.sun .link-table[href="/timetable/sunday"] {
   100% {
     transform: translateY(0vh);
 	-webkit-transform: translateY(0vh);
+  }
+}
+@-webkit-keyframes mobilenavClose {
+  0% {
+    transform: translateY(0vh);
+    -webkit-transform: translateY(0vh);
+  }
+  100% {
+    transform: translateY(-100vh);
+    -webkit-transform: translateY(-100vh);
   }
 }
 @keyframes mobilenavClose {
