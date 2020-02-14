@@ -1,0 +1,35 @@
+/*contact form bug*/
+
+@media (max-width: 479px) {
+    form.contactform input {
+        height: 60px;
+        width: 100%;
+    }
+    form.contactform textarea {
+      height: 60px;
+      width: 100%;
+    }
+    .btcta.rev {
+      position: relative;
+      WIDTH: 70%;
+    }
+  }
+  @media (max-width: 1200px) {
+  form.contactform input {
+    height: 60px;
+    width: 100%;
+  }
+  form.contactform textarea {
+    height: 60px;
+    width: 100%;
+  }
+  .textblock {
+    margin-top: 42px;
+    MAX-WIDTH: 600PX;
+    margin: auto;
+  }
+  .btcta.rev {
+    position: relative;
+    WIDTH: 50%;
+  }
+  }
