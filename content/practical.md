@@ -154,8 +154,8 @@ camping:
     dump!\n\nNo worries, we’ve got you covered: meet our circular camping where each
     camper has the opportunity to rent recycled camping gear! How cool is that? \n\nTo
     access the campsite, you must be in possession of a valid camping wristband. You
-    will receive your wristband at the campsite cash register.\n\nMore info on our
-    Camping page!"
+    will receive your wristband at the campsite cash register.\n\n<a href='/camping' target='_self'>More info on our
+    Camping page!</a>"
   question: WHERE TO STAY DURING THE FESTIVAL?
 - answer: Only on Holiday tickets. Not on Day and Weekend tickets. If you forgot to
     order your camping ticket, a camping upgrade is available.
