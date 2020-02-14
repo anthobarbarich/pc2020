@@ -2956,7 +2956,6 @@ body.sun .link-table[href="/timetable/sunday"] {
     justify-content: center;
     text-align: center;
     display: flex;
-    animation: mobilenavClose 500ms ease forwards;
     z-index: 100;
     transition: transform 500ms ease;
   }
