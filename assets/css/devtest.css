@@ -33,3 +33,51 @@
     WIDTH: 50%;
   }
   }
+
+  /* icones widget*/
+button.joinustxt {
+    transform: none;
+    width: 100%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    cursor: pointer;
+    background: 0 0;
+    z-index: 2;
+    outline: 0;
+  }
+  .smbuttons {
+    height: 157px;
+  }
+  #newsletter-form-wrapper input {
+    box-shadow: 0 0 10px 1px #ddd;
+    position: relative;
+    FONT-SIZE: 0.9EM;
+    border: none;
+    margin-bottom: 9px;
+    border-radius: 10px;
+    background-color: #fff;
+    padding: .3em 0.6em;
+    color: #cecece;
+    width: 80%;
+    transition: opacity 50ms ease-out,transform 250ms ease-out,box-shadow 200ms ease-out;
+  }
+  #newsletter-form-wrapper {
+    box-shadow: 1px 1px 50px 0 rgba(0,0,0,.22);
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 10px 10px 10px 60px;
+    width: 290px;
+    height: 100%;
+    opacity: 0;
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: opacity 50ms ease-out,transform 250ms ease-out;
+  }
+  #social-buttons input.newsletter-submit {
+    text-transform: uppercase;
+    line-height: 1;
+    font-size: 0.6EM;
+  
+  }
+  /*end test*/
