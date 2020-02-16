@@ -3,13 +3,15 @@
   color: white;
 }
 
-body {
+html, body {
   color: #333;
   font-size: 14px;
   line-height: 20px;
   overflow-x: hidden;
   font-weight: 200;
   font: sans-serif;
+	max-width: 100vw;
+	
 }
 
 h1 {
@@ -782,14 +784,11 @@ h3.section-intro.nomargin.greenz {
   font-size: 15px;
 }
 .btnlineup {
-  padding: 15px 40px;
+  padding: 15px 60px;
   font-size: 15px;
   text-transform: uppercase;
   position: relative;
-  border-radius: 5px;
-  right: 40px;
   z-index: 99;
-  margin-left: 12px;
   margin-bottom: 30px;
   background-color: #fa8d76;
   box-shadow: 1px 1px 24px 0 rgba(0, 0, 0, 0.12);
@@ -801,6 +800,23 @@ h3.section-intro.nomargin.greenz {
   color: #fff;
   cursor: pointer;
 }
+
+.btnlineup.lastz {
+border-top-right-radius: 50px;
+	border-bottom-right-radius: 50px;
+}
+
+.btnlineup.firstz {
+border-top-left-radius: 50px;
+	border-bottom-left-radius: 50px;
+}
+
+.btnlineup.all {
+border-radius: 50px;
+margin-right: 40px;
+}
+
+
 .btnlineup:focus {
   background-color: #ef5d42;
 }
@@ -828,7 +844,7 @@ svg:not(:root) {
   cursor: pointer;
 }
 .bloxbtn .btn svg {
-  fill: #58465e;
+  fill: #7B4A4B;
 }
 .bloxbtn .btn svg:hover {
   fill: #fa8d76;
@@ -1377,6 +1393,8 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"] {
   background-size: 108px, auto, cover;
   background-repeat: no-repeat, repeat, repeat;
   box-shadow: 1px 1px 29px 0 rgba(0, 0, 0, 0.28);
+	    border-radius: 25px;
+
 }
 .newz {
   position: relative;
@@ -1402,7 +1420,7 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"] {
 }
 .containartist {
   position: relative;
-  width: 30%;
+  width: 22%;
   margin-top: 0;
   margin-bottom: 40px;
   -webkit-transition: -webkit-transform 200ms ease;
@@ -1462,7 +1480,7 @@ iframe {
 }
 .containartist h3 {
   text-transform: uppercase;
-  font-size: 1.5em;
+  font-size: 1.4em;
   display: inline-block;
   font-family: Akrobat;
   font-weight: 100;

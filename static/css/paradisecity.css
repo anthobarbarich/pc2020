@@ -782,12 +782,11 @@ h3.section-intro.nomargin.greenz {
   font-size: 15px;
 }
 .btnlineup {
-  padding: 15px 40px;
+  padding: 15px 60px;
   font-size: 15px;
   text-transform: uppercase;
   position: relative;
   border-radius: 5px;
-  right: 40px;
   z-index: 99;
   margin-left: 12px;
   margin-bottom: 30px;
@@ -828,7 +827,7 @@ svg:not(:root) {
   cursor: pointer;
 }
 .bloxbtn .btn svg {
-  fill: #58465e;
+  fill: #7B4A4B;
 }
 .bloxbtn .btn svg:hover {
   fill: #fa8d76;
