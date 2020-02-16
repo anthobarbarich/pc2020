@@ -1,6 +1,5 @@
 +++
 day = []
-draft = true
 end = ""
 facebook = ""
 name = "Paquita Gordon"
