@@ -1,6 +1,5 @@
 +++
 day = []
-draft = true
 end = ""
 facebook = "https://www.facebook.com/meziguepaname/ "
 name = "Mézigue"
