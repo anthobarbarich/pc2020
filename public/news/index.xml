@@ -1,55 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The writings on the walls on Paradise City Festival 2020</title>
+    <title>The writings on the wall on Paradise City Festival 2020</title>
     <link>/news/</link>
-    <description>Recent content in The writings on the walls on Paradise City Festival 2020</description>
+    <description>Recent content in The writings on the wall on Paradise City Festival 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Feb 2020 18:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2020 15:00:23 +0000</lastBuildDate>
     
 	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Ticket sale starts on February 15th at 4pm</title>
-      <link>/news/ticket-sale-starts-on-february-15th-at-4pm/</link>
-      <pubDate>Mon, 03 Feb 2020 18:16:00 +0000</pubDate>
+      <title>Ticket sale has started</title>
+      <link>/news/ticket-sale-has-started/</link>
+      <pubDate>Wed, 05 Feb 2020 15:00:23 +0000</pubDate>
       
-      <guid>/news/ticket-sale-starts-on-february-15th-at-4pm/</guid>
-      <description>Dear citizens, Ticket sale for our 6th edition has started on Wednesday February 5th. Early Birds and tickets with a Green Card discount are now accessible. Watch out as there’s a very limited amount of tickets available in Wave 1 of Green Card tickets.</description>
+      <guid>/news/ticket-sale-has-started/</guid>
+      <description>Dear citizens, Ticket sale for our 6th edition has started on Wednesday February 5th. The tickets with a Green Card discount are now accessible. Watch out as there’s a very limited amount of tickets available in Wave 1 of Green Card tickets.</description>
     </item>
     
     <item>
-      <title>Become an Ambassador</title>
-      <link>/news/ambassador/</link>
-      <pubDate>Mon, 03 Feb 2020 18:08:55 +0000</pubDate>
-      
-      <guid>/news/ambassador/</guid>
-      <description>Become an official Paradise City ambassador and earn tickets and exclusive experiences by selling tickets to Paradise City Festival 2020!
-Rewards to claim
- Friday ticket Saturday ticket Sunday ticket Weekend ticket Holiday ticket Camping ticket €40 Credit Weekend ticket for you and one of your friend  How does the program work?
-You’ll earn points for every ticket that you sell to your friends. You can then use these points to redeem rewards in a shop within your ambassador dashboard.</description>
-    </item>
-    
-    <item>
-      <title>Camping</title>
-      <link>/news/camping-1/</link>
-      <pubDate>Mon, 03 Feb 2020 18:07:19 +0000</pubDate>
-      
-      <guid>/news/camping-1/</guid>
-      <description>For campers, Paradise City is more than a music festival, it is also a camping experience. Along with a rising sunshine and star-lit night skies, the intimate setting welcomes a fantastic crowd of music lovers.
-Our camping will be your personal chill-out area in the midst of festival insanity. There are different options to stay onsite:
- You can bring your own tent and camping equipment by buying a 3 days-ticket + camping or by buying a basic ticket for the camping for 35€.</description>
-    </item>
-    
-    <item>
-      <title>1 Love, 1 Planet</title>
+      <title>One Love, One Planet</title>
       <link>/news/1-love-1-planet/</link>
-      <pubDate>Mon, 03 Feb 2020 18:03:09 +0000</pubDate>
+      <pubDate>Mon, 03 Feb 2020 10:00:09 +0000</pubDate>
       
       <guid>/news/1-love-1-planet/</guid>
       <description>You know we’ve been working hard since the launch of Paradise City on making it a green event. Sustainability and our ecological impact have always been at the core of Paradise City DNA. It has always demanded a lot of sweat and tears from our team, volunteers and suppliers. Goal achieved this year as we’ve been elected as 1 of the 6 greenest festivals in the world by A Greener Festival.</description>
+    </item>
+    
+    <item>
+      <title>Green</title>
+      <link>/news/green/</link>
+      <pubDate>Mon, 03 Feb 2020 09:30:12 +0000</pubDate>
+      
+      <guid>/news/green/</guid>
+      <description>Global emissions keep beating records every year. The environmental crisis dawning upon us means that we all need to adapt fast and efficiently. The music industry needs to focus on this topic too. Since day one, sustainability sits at the core of Paradise City’s DNA. It implies taking into consideration various aspects regarding its organisation and its process. Paradise City is a meat-free and a no-single-use plastic festival. We not only recycle but we re-use everything we can.</description>
+    </item>
+    
+    <item>
+      <title>Camping at Paradise City</title>
+      <link>/news/camping-at-paradise-city/</link>
+      <pubDate>Mon, 03 Feb 2020 09:00:19 +0000</pubDate>
+      
+      <guid>/news/camping-at-paradise-city/</guid>
+      <description>For campers, Paradise City is more than a music festival, it is also a camping experience. Along with a rising sunshine and star-lit night skies, the intimate setting welcomes a fantastic crowd of music lovers.
+Our camping will be your personal chill-out area in the midst of festival insanity. There are different options to stay onsite:
+ You can bring your own tent and camping equipment by buying a 3 days-ticket + camping or by buying a basic ticket for the camping for 35€.</description>
     </item>
     
   </channel>

@@ -53,7 +53,7 @@ tickets:
     per order.
   question: HOW MANY TICKETS CAN I ORDER?
 - answer: 'No sorry, you can’t. The best thing to do is to sell your ticket on Ticketswap
-    and to buy a new one. You can check here : https://fr.ticketswap.be/event/paradise-city-festival-2020/a0d62a69-fb4d-45b0-8ebd-211bb73c08a5'
+    and to buy a new one. <a href="https://fr.ticketswap.be/event/paradise-city-festival-2020/a0d62a69-fb4d-45b0-8ebd-211bb73c08a5">You can check here</a>. '
   question: CAN I CHANGE THE DAY OF MY TICKET?
 - answer: 'You can insert the e-mail address you’ve used to buy your tickets in the
     following link to receive your tickets again : https://consumer.paylogic.nl/tickets/'
@@ -154,8 +154,8 @@ camping:
     dump!\n\nNo worries, we’ve got you covered: meet our circular camping where each
     camper has the opportunity to rent recycled camping gear! How cool is that? \n\nTo
     access the campsite, you must be in possession of a valid camping wristband. You
-    will receive your wristband at the campsite cash register.\n\nMore info on our
-    Camping page!"
+    will receive your wristband at the campsite cash register.\n\n<a href='/camping' target='_self'>More info on our
+    Camping page!</a>"
   question: WHERE TO STAY DURING THE FESTIVAL?
 - answer: Only on Holiday tickets. Not on Day and Weekend tickets. If you forgot to
     order your camping ticket, a camping upgrade is available.
