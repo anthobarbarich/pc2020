@@ -1,10 +1,10 @@
 +++
-day = []
+day = ["Friday"]
 end = ""
 facebook = "https://www.facebook.com/mapache-152180478156038/ "
 name = "Map.ache"
 photo = ""
-position = []
+position = ["Giegling"]
 soundcloud = "https://soundcloud.com/ache-map"
 start = ""
 
