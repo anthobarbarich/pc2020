@@ -1,10 +1,10 @@
 +++
-day = []
+day = ["Saturday"]
 end = ""
 facebook = "https://www.facebook.com/adriatiqueofficial/ "
 name = "Adriatique"
-photo = "/v1581887888/download_dbhdro.jpg"
-position = []
+photo = ""
+position = ["Love"]
 soundcloud = "https://soundcloud.com/adriatique"
 start = ""
 
