@@ -46,8 +46,8 @@ steps:
   img: "/v1580991937/7._Water_wastez_4x_olo4c9.png"
   description: Water is a valuable good of nature that is spread on festival ground
     as our visitors must rehydrate, eat and (optionally) shower. For a second year
-    in a row, we intent to purify on site the water used in our showers, reducing
-    treatment as much as possible. And with the use of our eco-toilets, we intent
+    in a row, we intend to purify on site the water used in our showers, reducing
+    treatment as much as possible. And with the use of our eco-toilets, we intend
     to reduce any excessive water usage.
 - title: 8. CO2 Neutral
   description: A CO2-Neutral festival is a goal we have achieved year after year.
