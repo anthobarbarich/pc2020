@@ -1,10 +1,10 @@
 +++
-day = []
+day = ["Sunday"]
 end = ""
 facebook = "https://www.facebook.com/CourtesyDK/ "
 name = "Courtesy"
 photo = ""
-position = []
+position = ["Silo"]
 soundcloud = "https://soundcloud.com/courtesy707 "
 start = ""
 
