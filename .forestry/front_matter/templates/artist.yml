@@ -73,6 +73,15 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: embed
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Embed
 pages:
 - content/artist/adriatique.md
 - content/artist/benufo.md
