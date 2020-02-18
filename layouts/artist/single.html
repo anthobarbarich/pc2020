@@ -61,7 +61,7 @@
 			<a href="/artist" class="btnback w-button">back to line-up</a></div>
 	
 					<h1 class="section-intro">Also playing at Paradise City</h1><br>
-	    <div class="container split artistes" id="artsts">{{ $randomArtist := shuffle (where .Site.Pages "Section" "artist") | first 4 }}
+	    <div class="container split artistes" id="artsts">{{ $randomArtist := shuffle (where .Site.RegularPages "Section" "artist") | first 4 }}
 			{{ range $randomArtist }}
       <div onclick="javascript:window.location.href='{{.Permalink}}'" class=" containartist">
         <div class="artiste" style="background-image: url('https://res.cloudinary.com/dxswtxauo/image/upload/w_400/q_auto,f_auto{{ .Params.photo }}'); background-size: cover; background-position: center;" href="{{.Permalink}}" class="w-inline-block">

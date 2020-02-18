@@ -143,12 +143,13 @@ Creation Date: 05/20/2019
             </div>
         </section>
         <div class="lineu lozad">
-            <!--           <img data-src="images/feuille.svg" width="278" alt="" class="feuille lozad"><img data-src="images/brancherouge.svg" width="172" alt="" class="feuille rouge lozad">-->
             <div class="container">
-                <h3 class="section-cta">{{.Params.lineuptitle}}</h3>
+                <h3 class="section-cta">Line-Up announced soon!</h3>
                 <div class="line"></div>
-                <!--<h3 class="section-cta">{{ .Params.lineuptxt | markdownify }}</h3>-->
-                <!--<a href="/lineup" class="btcta rev w-button" style="position: relative; z-index:99999999999;">SEE LINE-UP →</a>-->
+				<!--<br><br>
+				{{ range where .Site.RegularPages "Section" "artist"}}
+                <a class="section-cta home" href="{{.Permalink}}">{{.Params.name}}</a>{{end}}<br>
+               <a href="/lineup" class="btcta rev w-button" style="position: relative; z-index:99999999999;">SEE LINE-UP →</a>-->
             </div>
         </div>
         <div class="section-green">
