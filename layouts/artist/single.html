@@ -36,9 +36,9 @@
   	{{ if eq $daytime "Saturday" }}
 				<h3 class="daytxt" style="background-color:#ff7e9a;">{{ $daytime }}</h3>
 		  {{ else if eq $daytime "Sunday" }}
-		  		<h3 class="daytxt">{{ $daytime  }}</h3>
+		  		<h3 class="daytxt">{{ $daytime }}</h3>
 		  {{ else if eq $daytime "Friday" }}
-		  <h3 class="daytxt" style="background-color:#5dceb4">{{ $daytime  }}</h3>
+		  <h3 class="daytxt" style="background-color:#5dceb4">{{ $daytime }}</h3>
 		  {{ end }}	
 		  		 
  			
@@ -59,6 +59,32 @@
 					</div>
 				</div>
 			<a href="/artist" class="btnback w-button">back to line-up</a></div>
+	
+					<h1 class="section-intro">Also playing at Paradise City</h1><br>
+	    <div class="container split artistes" id="artsts">{{ $randomArtist := shuffle (where .Site.Pages "Section" "artist") | first 4 }}
+			{{ range $randomArtist }}
+      <div onclick="javascript:window.location.href='{{.Permalink}}'" class=" containartist">
+        <div class="artiste" style="background-image: url('https://res.cloudinary.com/dxswtxauo/image/upload/w_400/q_auto,f_auto{{ .Params.photo }}'); background-size: cover; background-position: center;" href="{{.Permalink}}" class="w-inline-block">
+      </div>
+		  <a href="{{.Permalink}}"><h3>{{ .Params.name }}</h3></a>
+		 
+
+
+      	    
+
+		   
+		
+		  
+		  <br>
+		 
+		</div>
+    {{end}}
+	</div> <br>
+	<div class="container" style="text-align: center">
+	<a class="btn" href="/artist">SEE FULL LINE UP</a>
+		
+	</div>
+	</div>
 </div>
 </div>
 {{ partial "footer.html" . }}

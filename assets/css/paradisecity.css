@@ -337,6 +337,16 @@ a svg:hover { stroke: #fa8d76;}
   text-transform: uppercase;
   opacity: 0.6;
 }
+.btn {
+	background-color: #fa8d76;
+    color: white,;
+    color: white;
+    padding: 15px 41px;
+    line-height: 3.5em;
+    font-family: Akrobat;
+    border-radius: 50px;
+    margin-top: 0px;
+}
 .btn-hero {
   position: relative;
   margin-top: 7px;
