@@ -1,6 +1,6 @@
 +++
-description = "Blablalblablla"
-title = "Campingtest"
+description = "For campers, Paradise City is more than just a music festival, it is also a camping experience. Along with a rising sunshine and star-lit night skies, the intimate setting welcomes a fantastic crowd of music lovers."
+title = "Camping"
 type = "camping"
 uniqueid = ""
 [[steps]]
