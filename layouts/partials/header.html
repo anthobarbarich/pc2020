@@ -31,9 +31,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	{{end}}
 	<meta property="og:image:width" content="1200" />
   <meta content="width=device-width, initial-scale=1" name="viewport">
-  {{/*  <link href="/css/normalize.css" rel="stylesheet" type="text/css">
-  <link href="/css/components.css" rel="stylesheet" type="text/css">
-  <link href="/css/paradisecity.css" rel="stylesheet" type="text/css">  */}}
   {{ $style := resources.Match "css/**.css" | resources.Concat "css/main.css" }}
     {{ $styleMinified := $style | resources.PostCSS (dict "config" "postcss.config.js") | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" type="text/css" href="{{ $styleMinified.Permalink | relURL }}" integrity="{{ $styleMinified.Data.Integrity }}">

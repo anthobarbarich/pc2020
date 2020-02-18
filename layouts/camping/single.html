@@ -1,20 +1,319 @@
-{{ partial "header.html" . }}
+<!DOCTYPE html>
+<!--  Last Published: Mon Jan 28 2019 15:39:08 GMT+0000 (UTC)  -->
+<html data-wf-page="5c4cd0d9dfbd6c210a2548e5" data-wf-site="5c34c1d2a3cd45693156a337">
+<head>
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M4CP3V8');</script>
+<!-- End Google Tag Manager -->
+  <meta charset="utf-8">
+	<title>{{.Title}} | Paradise City Festival 2020</title>
+  <meta content="{{.Title}} | Paradise City Festival 2019" property="og:title">
+	<meta name="description" content="{{ .Content | truncate 150 }}" />
+  <meta content="{{ .Content | truncate 150 }}" property="og:description">
+	<meta property="og:url" content="https://paradisecity.be{{ .Permalink }}" />
+	<meta property="og:image" content="{{ if isset .Params "opengraph" }}https://paradisecity.be{{ index .Params "opengraph" }}{{else}}https://paradisecity.be/images/opengraph2020.jpg{{ end }}">
+	<meta property="og:image:width" content="1200" />
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+    <link rel="stylesheet" type="text/css" href="/css/camping.css">
+
+	  {{ $style := resources.Match "css/**.css" | resources.Concat "css/main.css" }}
+    {{ $styleMinified := $style | resources.PostCSS (dict "config" "postcss.config.js") | resources.Minify | resources.Fingerprint }}
+    <link rel="stylesheet" type="text/css" href="{{ $styleMinified.Permalink | relURL }}" integrity="{{ $styleMinified.Data.Integrity }}">
+  <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
+  <script type="text/javascript">
+      ! function(o, c) {
+        var n = c.documentElement,
+          t = " w-mod-";
+        n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
+      }(window, document);
+    </script>
+  <link href="/images/favico.png" rel="shortcut icon" type="image/x-icon">
+		<script type="text/javascript">
+!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"==typeof define&&define.amd?define(e):t.lozad=e()}(this,function(){"use strict";var g=Object.assign||function(t){for(var e=1;e<arguments.length;e++){var r=arguments[e];for(var o in r)Object.prototype.hasOwnProperty.call(r,o)&&(t[o]=r[o])}return t},n="undefined"!=typeof document&&document.documentMode,l={rootMargin:"0px",threshold:0,load:function(t){if("picture"===t.nodeName.toLowerCase()){var e=document.createElement("img");n&&t.getAttribute("data-iesrc")&&(e.src=t.getAttribute("data-iesrc")),t.getAttribute("data-alt")&&(e.alt=t.getAttribute("data-alt")),t.appendChild(e)}if("video"===t.nodeName.toLowerCase()&&!t.getAttribute("data-src")&&t.children){for(var r=t.children,o=void 0,a=0;a<=r.length-1;a++)(o=r[a].getAttribute("data-src"))&&(r[a].src=o);t.load()}t.getAttribute("data-src")&&(t.src=t.getAttribute("data-src")),t.getAttribute("data-srcset")&&t.setAttribute("srcset",t.getAttribute("data-srcset")),t.getAttribute("data-background-image")&&(t.style.backgroundImage="url('"+t.getAttribute("data-background-image")+"')"),t.getAttribute("data-toggle-class")&&t.classList.toggle(t.getAttribute("data-toggle-class"))},loaded:function(){}};
+/**
+   * Detect IE browser
+   * @const {boolean}
+   * @private
+   */function f(t){t.setAttribute("data-loaded",!0)}var b=function(t){return"true"===t.getAttribute("data-loaded")};return function(){var r,o,a=0<arguments.length&&void 0!==arguments[0]?arguments[0]:".lozad",t=1<arguments.length&&void 0!==arguments[1]?arguments[1]:{},e=g({},l,t),n=e.root,i=e.rootMargin,d=e.threshold,c=e.load,u=e.loaded,s=void 0;return window.IntersectionObserver&&(s=new IntersectionObserver((r=c,o=u,function(t,e){t.forEach(function(t){(0<t.intersectionRatio||t.isIntersecting)&&(e.unobserve(t.target),b(t.target)||(r(t.target),f(t.target),o(t.target)))})}),{root:n,rootMargin:i,threshold:d})),{observe:function(){for(var t=function(t){var e=1<arguments.length&&void 0!==arguments[1]?arguments[1]:document;return t instanceof Element?[t]:t instanceof NodeList?t:e.querySelectorAll(t)}(a,n),e=0;e<t.length;e++)b(t[e])||(s?s.observe(t[e]):(c(t[e]),f(t[e]),u(t[e])))},triggerLoad:function(t){b(t)||(c(t),f(t),u(t))},observer:s}}});</script>
+  <link href="https://daks2k3a4ib2z.cloudfront.net/img/webclip.png" rel="apple-touch-icon">
+</head>
+<body class="body {{ .Params.uniqueid }}">
+  <div style="overflow-x:hidden;overflow-y:hidden;">
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4CP3V8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	  <!--
+Start of Floodlight Tag: Please do not remove
+Activity name of this tag: Sitewide
+URL of the webpage where the tag is expected to be placed: https://paradisecity.be/
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+Creation Date: 05/20/2019
+-->
+<script type="text/javascript">
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe src="https://9394108.fls.doubleclick.net/activityi;src=9394108;type=websi0;cat=sitew0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script>
+<noscript>
+<iframe src="https://9394108.fls.doubleclick.net/activityi;src=9394108;type=websi0;cat=sitew0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+<!-- End of Floodlight Tag: Please do not remove -->
+	  <!-- Global site tag (gtag.js) - Google Ads: 807793275 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-807793275"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-807793275');
+</script>
+<img src="/images/pagebgright.png" width="400" alt="" class="uppagebody">
+<img src="/images/pagebgleft.png" width="250" alt="" class="uppagebody-left">
+ {{ partial "nav.html" . }}
+
 
 <div class="section-page line-up">
-    <div class="container default">
-		<h1 class="section-intro">{{.Title}}</h1>
-{{ .Content}}
-		  {{ range .Params.steps }} 
-	<div class="container split margin-bottom">
-		<div class="block50 midalign"><img src="{{ $.Site.Params.cloudinary_url}}/w_500/{{ .img }}" width="350" alt="" class="greenimages"></div>
-        <div class="block50">
-          <h3 class="section-intro nomargin greenz">{{ .title }}</h3>
-          <div class="txtblock green page">{{ .description | markdownify }}</div>
+  <div class="container default camping">
+    <h1 class="section-intro">Camping</h1>
+    <div class="textblock">
+      <img class="showdesktop" style="border-radius: 60px;"
+          src="https://res.cloudinary.com/dxswtxauo/image/upload/v1580820865/f_auto,q_80,h_400,w_940,c_fill/B64I9384_uexrd4.jpg"
+          class="border" alt="">
+        <img style="border-radius: 60px;" class="hiddendesktop" src="https://res.cloudinary.com/dxswtxauo/image/upload/v1580820865/B64I9384_uexrd4.jpg" class="border" alt="">
+		<br><br>
+
+      <p>For campers, Paradise City is more than just a music festival, it is also a camping experience.
+        Along with a rising sunshine and star-lit night skies, the intimate setting welcomes a fantastic crowd of
+        music lovers.</p>
+
+
+      <p>We all know there's nothing better than having a refreshing (hot) shower followed by a good coffee and a
+        delicious breakfast, while listening to that guy who was playing piano â€“ remember last year? â€“ or maybe you
+        were the one that woke up, unlocked his sweet little tent and saw his best mates already drinking an opened
+        Carapils canâ€¦ You took a sip too, kicking off the day. Anyway, you're feeling ready to start another day of
+        carefully selected electronic music. Our campsite is a true slice of Paradise. And after an intense day of
+        music, get a last and final beer at the camping bar.</p>
+
+      <p><strong>The camping will be your personal eco-friendly chill-out area in the midst of festival
+          insanity. There are different options to overnight at Paradise City, from pre-pitched tents or
+          glamping options to caravans. Let's explore them below.</strong> </p>
+
+      <p class="smaller orange">Please, note that you won't be allowed on the campsite without a valid camping ticket
+      </p>
+
+      <h3 class="marginbottom">For those of you who wish to bring their own tent and camping equipment</h3>
+      <p><img
+          src="https://res.cloudinary.com/dxswtxauo/image/upload/v1580821029/paradise249_050719_602A5051_leylahesna_lr__htlmlg.jpg"
+          alt="" class="border"></p>
+
+
+      <p>Here you take your own tent with you. The camping is located next to the festival site, it is<strong>
+          secure</strong> and <strong>serene</strong> with <strong>good
+          facilities</strong> such as food stalls, bars, fresh drinking water and super sanitary services
+        (high-quality WCs and hot showers). Don't forget to bring your own towel! Lockers will be available for
+        rent. No matter what you have forgotten at home, we will help you out of the trouble. At the campsite, you
+        can easily rent camping items such as sleeping bags or air mattresses.</p>
+      <div class="flex">
+        <div class="icones">
+          <img src="/images/FOOD.png" alt="">
+          <p>Food Stalls</p>
+        </div>
+        <div class="icones">
+          <img src="/images/bar.png" alt="">
+          <p>Bars</p>
+        </div>
+        <div class="icones">
+          <img src="/images/water.png" alt="">
+          <p>Fresh Water</p>
+        </div>
+        <div class="icones">
+          <img src="/images/shower.png" alt="">
+          <p>Hot Shower</p>
+        </div>
+        <div class="icones">
+          <img src="/images/wc.png" alt="">
+          <p>High Quality WC</p>
+        </div>
+
+      </div>
+
+      <p>To access the campsite, there are two possibilities:</p>
+
+      <div class="flex">
+        <div class="flexthird">
+          <a href="https://paradisecity.be/tickets" class="button notColored">3 days-ticket + camping
+          </a>
+        </div>
+        <div class="flexthird">
+          <p style="margin: 0px;"><span style="font-weight:900">OR</span>
+            <br><span class="smaller"> One ticket per person</span>
+          </p>
+        </div>
+        <div class="flexthird">
+          <a href="https://paradisecity.be/tickets" class="button colored">Camping 35€
+          </a>
         </div>
       </div>
-		{{end}}
 
-	</div>
+      <p></p>
+
+
+      <p>The camping has a limited capacity and was sold out a couple of weeks before the festival last year so
+        please, be sure to book your ticket in time to avoid any disappointment.</p>
+
+
+
+      <h3 class="marginbottom">Camp2Camp Ready to go</h3>
+      <div class="flex ">
+        <div class="sixty">
+          <img
+            src="https://res.cloudinary.com/dxswtxauo/image/upload/v1580821150/paradise204_050719_602A5058_leylahesna_lr__g58y7h.jpg"
+            alt="" class="border">
+        </div>
+        <div class="padding">
+          <div>
+            <p style="margin-bottom: 0.5em;">Make your festival weekend even easier and buy a package which includes a
+              tent, sleeping bags, mattress
+              and
+              chairs. The Camp2Camp area is built up and ready before you arrive.</p>
+            <div class="flex">
+              <div class="containerwhite">
+                <p class="bold">1 person</p>
+                <p class="textcontain" style="font-size: 0.9em;
+                LINE-HEIGHT: 1.3;margin-bottom: 0.5em;"> 1 tent <br>+ <br>1 mattress <br> + <br>1 sleeping bag <br> +
+                  <br> 1 chair</p>
+                <p class="bold price">75€</p>
+                <a class="button colored stretched" href="">book now</a>
+              </div>
+              <div class="containerwhite">
+                <p class="bold">2 person</p>
+                <p class="textcontain" style="font-size: 0.9em;
+                LINE-HEIGHT: 1.3;margin-bottom: 0.5em;"> 2 tent <br>+ <br>2 mattress <br> + <br>2 sleeping bag <br> +
+                  <br> 2 chair</p>
+                <p class="bold price">120€</p>
+                <a class="button colored stretched" href="">book now</a>
+              </div>
+              <div class="containerwhite">
+                <p class="bold">4 person</p>
+                <p class="textcontain" style="font-size: 0.9em;
+                LINE-HEIGHT: 1.3;margin-bottom: 0.5em;"> 4 tent <br>+ <br>4 mattress <br> + <br>4 sleeping bag <br> +
+                  <br> 4 chair</p>
+                <p class="bold price">220€</p>
+                <a class="button colored stretched" href="">book now</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+
+      <p class="smaller">* Note that a guarantee will be asked for all rented items</p>
+
+
+
+      <h3 class="marginbottom">Glamping options</h3>
+
+      <p>These onsite glamping options are the absolute ultimate in cool and comfort. These shiny tents are 2, 4 or
+        5-person size dome tents and all have cosy beds, electricity and light. Outside it, you can relax in
+        deckchairs and watch the stars at night. These are the perfect options for those who wish something
+        different and want to add some style, comfort and fun to their festival experience.</p>
+
+      <p>These camping packages can be booked along with your festival tickets through our website.</p>
+
+      <h4 class="sub">The Who <span class="smaller">440 x 250 x 240 cm</span> </h4>
+      <div class="flex flexmobile">
+        <div class="block50">
+          <img
+            src="https://res.cloudinary.com/dxswtxauo/image/upload/v1580821466/2019-07-25_Liffin_Gardens_0330_2_HR_zwnf5b.jpg"
+            alt="" class="border">
+          <p style="
+    margin-bottom: 0em;
+">This is a comfortable tent for <strong>two</strong>. It has a big window at the back allowing the sun and
+            the breeze to flow through the tent.</p>
+        </div>
+        <div class="block50 containerwhite containermobile" style="
+    height: auto;
+">
+          <p class="bold">2 people</p>
+          <p id="textcontainerb"> 1 tent <br>+ <br>2 real beds with mattress <br> + <br> duvets <br> + <br> pillows <br> + <br> 2
+            deckchairs <br> + <br> light</p>
+          <p class="bold price">300€</p>
+          <a class="button colored stretched" href="">book now</a>
+        </div>
+      </div>
+
+      <h4 class="sub">The Elvis <span class="smaller">600 x 300 cm</span> </h4>
+      <div class="flex flexmobile">
+        <div class="block50 ">
+             <img class="border"
+      src="https://res.cloudinary.com/dxswtxauo/image/upload/v1580821249/2019-06-27_Liffin_Defqon_0086_WEB_hykdhv.jpg"
+      alt="">
+          <p style="
+    margin-bottom: 0em;
+">The campsite has two different types of Elvis tents. With a diameter of 6 meters and a height of 3 meters,
+the Elvis feels huge and comfortable.</p>
+        </div>
+        <div class="block50 flex" style="
+    height: auto;
+">
+        <div class="containerwhite block50">
+          <p class="bold">4 people</p>
+          <p class="textcontain" style="
+              font-size: 1em;
+              /* LINE-HEIGHT: 1.3; */
+              margin-bottom: 0.5em;
+              ">1 spacious and elegant tent <br> + <br> 4 real beds with mattress <br> + <br> duvets <br> + <br> 2
+            pillows <br> + <br >4 deckchairs <br> + <br> light</p>
+          <p class="bold price">420€</p>
+          <a class="button colored stretched" href="">book now</a>
+        </div>
+        <div class="containerwhite block50">
+          <p class="bold">5 people</p>
+          <p class="textcontain" style="
+              font-size: 1em;
+              /* LINE-HEIGHT: 1.3; */
+              margin-bottom: 0.5em;
+              "> 1 spacious and elegant tent <br> + <br> 5 real beds with mattress <br> + <br> duvets <br> + <br> 2
+            pillows <br> + <br >5 deckchairs <br> + <br> light</p>
+          <p class="bold price">480€</p>
+          <a class="button colored stretched" href="">book now</a>
+        </div>
+        
+
+        </div>
+      </div>
+
+
+      <h3 class="marginbottom">Campers and caravans</h3>
+
+      <p>Campers and caravans can be parked in the Camper area with a separate ticket for <strong>40€</strong>. This
+        ticket will only be valid in combination with a camping ticket. Water and electricity are supplied for your
+        campers on the caravan pitch.</p>
+        <a class="button colored" id="lone" href="">camping + camper area 55€</a>
+
+        <DIV class="flex">
+          <img src="/images/iconv.svg" id="check" alt="">
+          <p style="color: #8fa768;font-weight: 700;">Please, think twice about buying a cheap throwaway tent that will only contribute to landfill and use our
+            pre-pitched option :-)</p>
+        </DIV>
+
+      
+
+        
+
+      <div>
+        <p class="bold">OPENING HOURS</p>
+        <p>The campsite will be open from Friday 14.00 to Monday 12.00.</p>
+      </div>
+        
+      
+    </div>
+  </div>
 </div>
 
 {{ partial "footer.html" . }}
