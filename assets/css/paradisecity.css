@@ -1,4 +1,4 @@
-::selection {
+co::selection {
   background: #ff804b;
   color: white;
 }
@@ -47,7 +47,7 @@ strong {
   color: #456348;
   font-family: "Akrobat-Regular";
 }
-
+a svg:hover { stroke: #fa8d76;}
 .greenhome {
   color: #456348;
   font-family: "Akrobat";
@@ -1427,8 +1427,12 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"] {
   transition: -webkit-transform 200ms ease;
   transition: transform 200ms ease;
   transition: transform 200ms ease, -webkit-transform 200ms ease;
+cursor: pointer;
 }
 
+.artistsolo {
+	border-radius: 25px;
+}
 iframe {
   width: 100%;
 }
@@ -1470,6 +1474,9 @@ iframe {
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
 .show {
   display: block;
+}
+.containartist {
+  text-align: center;
 }
 .containartist a {
   margin-top: 10px;

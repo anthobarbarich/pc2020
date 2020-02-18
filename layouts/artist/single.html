@@ -28,14 +28,35 @@
 
 <div class="section-page line-up">
 		<div class="container default">
-				<h1 class="section-intro">{{ .Params.name }}</h1>
+				<h1 class="section-intro">{{ .Params.name }} <br><p style="font-family:Akrobat-Regular;font-size:0.8em;color:#7B4A4B">{{ delimit .Params.position " "}}</p></h1>
+					
 				<div class="container split">
 						<div class="block50">
-							<img src="https://res.cloudinary.com/dxswtxauo/image/upload/w_500/q_auto,f_auto{{ .Params.photo }}" width="500" alt="{{.Params.name}}"/>
+							      <h3 class="daytxt">{{$daytime := index (.Params.day) 0 }}
+  	{{ if eq $daytime "Saturday" }}
+				<h3 class="daytxt" style="background-color:#ff7e9a;">{{ $daytime | truncate 3 ""}}</h3>
+		  {{ else if eq $daytime "Sunday" }}
+		  		<h3 class="daytxt">{{ $daytime | truncate 3 "" }}</h3>
+		  {{ else if eq $daytime "Friday" }}
+		  <h3 class="daytxt" style="background-color:#5dceb4">{{ $daytime | truncate 3 "" }}</h3>
+		  {{ end }}	
+		  		 
+ 			
+	</h3>
+							<img src="https://res.cloudinary.com/dxswtxauo/image/upload/w_500/q_auto,f_auto{{ .Params.photo }}" width="500" alt="{{.Params.name}}" class="artistsolo"/>
 						</div><br><br>
 						<div class="block50">
-							{{.Content}}
-						</div>
+							{{.Content}}<br>
+							  <a href="{{ .Params.soundcloud }}" target="_blank">
+      <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24" fill="none" stroke="#575757" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+        <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+      </svg>
+		</a>
+		    <a href="{{ .Params.facebook }}" target="_blank">
+ <svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 24 24" fill="none" stroke="#575757" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
+		</a>	
+					</div>
 				</div>
 			<a href="/artist" class="btnback w-button">back to line-up</a></div>
 </div>
