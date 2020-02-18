@@ -880,6 +880,7 @@ svg:not(:root) {
   flex-wrap: wrap;
   justify-content: center;
   align-content: center;
+	margin-top: -50px;
 }
 .btcta.rev {
   z-index: 99;
@@ -2241,6 +2242,7 @@ input.newsletter-submit:active {
   }
   #myBtnContainer {
     text-align: center;
+	  margin: 0;
   }
   .bloxbtn {
     display: none;
