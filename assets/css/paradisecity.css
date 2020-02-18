@@ -3017,14 +3017,11 @@ body.sun .link-table[href="/timetable/sunday"] {
 
 @media screen and (max-width: 991px) {
   body.is-opened {
-    overflow: hidden;
   }
   #mobile-nav {
     position: fixed;
     left: 0;
-    -webkit-transform: translateY(-100vh);
-        -ms-transform: translateY(-100vh);
-            transform: translateY(-100vh);
+
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
@@ -3036,7 +3033,7 @@ body.sun .link-table[href="/timetable/sunday"] {
     text-align: center;
     display: -webkit-box;
     display: -ms-flexbox;
-    display: flex;
+    display: none;
     z-index: 100;
     -webkit-transition: -webkit-transform 500ms ease;
     transition: -webkit-transform 500ms ease;
@@ -3057,11 +3054,7 @@ body.sun .link-table[href="/timetable/sunday"] {
         -ms-flex-pack: center;
             justify-content: center;
     text-align: center;
-    -webkit-transform: translateY(0px);
-        -ms-transform: translateY(0px);
-            transform: translateY(0px);
-    -webkit-animation: mobilenavOpen 500ms ease forwards;
-            animation: mobilenavOpen 500ms ease forwards;
+
   }
   body.is-opened #mobile-nav {
     top: 73px;
