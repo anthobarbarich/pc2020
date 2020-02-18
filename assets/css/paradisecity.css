@@ -1523,6 +1523,24 @@ h3.daytxt {
   position: absolute;
   top: 5px;
   left: 10px;
+	text-transform: uppercase;
+}
+
+.solo .block50 {
+	padding: 10px
+}
+
+.solo .block50:first-child {
+	text-align:center;
+}
+
+.solo h3.daytxt {
+	left: 30px;
+}
+
+.solo p {
+	font-size: 1.1em;
+	line-height: 1.5em;
 }
 .nameartiste {
   -webkit-align-self: center;
@@ -2206,32 +2224,33 @@ input.newsletter-submit:active {
   }
   #myBtnContainer {
     text-align: center;
-    margin-top: -30px;
   }
   .bloxbtn {
     display: none;
   }
   .btnlineup {
-    padding: 16px 33px;
-    font-size: 15px;
+     padding: 11px 23px;
+    font-size: 12px;
     text-transform: uppercase;
     position: relative;
-    border-radius: 5px;
+    border-radius: 0;
     right: 0;
     z-index: 99;
-    margin-left: 12px;
+    margin-left: 0;
     margin-bottom: 16px;
     background-color: #fa8d76;
-    box-shadow: 1px 1px 24px 0 rgba(0, 0, 0, 0.12);
-    -webkit-transition: -webkit-transform 200ms ease;
-    transition: -webkit-transform 200ms ease;
+    box-shadow: 1px 1px 24px 0 rgba(0,0,0,.12);
     transition: transform 200ms ease;
-    transition: transform 200ms ease, -webkit-transform 200ms ease;
     font-family: Akrobat;
     color: #fff;
     cursor: pointer;
-    margin-bottom: 10px;
+    margin-bottom: 10px;;
   }
+	
+	.btnlineup.all {
+    border-radius: 50px;
+    margin-right: 5px;
+}
   .container.split.margin-bottom {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -2562,7 +2581,7 @@ input.newsletter-submit:active {
     margin-top: 1px;
   }
   .section-page.line-up {
-    margin-top: 80px;
+   margin-top: 0;
   }
 }
 .filterDiv {

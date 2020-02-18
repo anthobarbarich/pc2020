@@ -30,15 +30,15 @@
 		<div class="container default">
 				<h1 class="section-intro">{{ .Params.name }} <br><p style="font-family:Akrobat-Regular;font-size:0.8em;color:#7B4A4B">{{ delimit .Params.position " "}}</p></h1>
 					
-				<div class="container split">
-						<div class="block50">
+				<div class="container split solo">
+						<div class="block50 ">
 							      <h3 class="daytxt">{{$daytime := index (.Params.day) 0 }}
   	{{ if eq $daytime "Saturday" }}
-				<h3 class="daytxt" style="background-color:#ff7e9a;">{{ $daytime | truncate 3 ""}}</h3>
+				<h3 class="daytxt" style="background-color:#ff7e9a;">{{ $daytime }}</h3>
 		  {{ else if eq $daytime "Sunday" }}
-		  		<h3 class="daytxt">{{ $daytime | truncate 3 "" }}</h3>
+		  		<h3 class="daytxt">{{ $daytime  }}</h3>
 		  {{ else if eq $daytime "Friday" }}
-		  <h3 class="daytxt" style="background-color:#5dceb4">{{ $daytime | truncate 3 "" }}</h3>
+		  <h3 class="daytxt" style="background-color:#5dceb4">{{ $daytime  }}</h3>
 		  {{ end }}	
 		  		 
  			
