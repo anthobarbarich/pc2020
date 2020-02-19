@@ -6,7 +6,7 @@ facebook = "https://www.facebook.com/KerriChandlerOfficial/"
 name = "Kerri Chandler"
 photo = "/v1582018784/Square-Website_00007_gmamld.jpg"
 position = ["Play Label Records"]
-soundcloud = "https://soundcloud.com/kerri-chandler "
+soundcloud = "https://soundcloud.com/kerri-chandler"
 start = ""
 
 +++
