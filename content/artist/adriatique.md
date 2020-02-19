@@ -2,7 +2,7 @@
 day = ["Saturday"]
 embed = "<iframe width=\"560\" height=\"420\" src=\"https://www.youtube.com/embed/CQZYzGO8QlM\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 end = ""
-facebook = "https://www.facebook.com/adriatiqueofficial/ "
+facebook = "https://www.facebook.com/adriatiqueofficial/"
 name = "Adriatique"
 photo = "/v1582018874/Square-Website_00000_ckxtjv.jpg"
 position = ["Love"]
