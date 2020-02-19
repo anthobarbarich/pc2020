@@ -2,11 +2,11 @@
 day = ["Friday"]
 embed = "<iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/748838065&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe>"
 end = ""
-facebook = "https://www.facebook.com/BenUFO.DJ/ "
+facebook = "https://www.facebook.com/BenUFO.DJ/"
 name = "Ben UFO"
 photo = "/v1582018857/Square-Website_00002_pqxnsy.jpg"
 position = ["Under My Garage"]
-soundcloud = "https://soundcloud.com/benufo "
+soundcloud = "https://soundcloud.com/benufo"
 start = ""
 
 +++
