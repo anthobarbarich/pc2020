@@ -1,6 +1,6 @@
 +++
 day = ["Friday"]
-embed = ""
+embed = "<iframe width=\"560\" height=\"420\" src=\"https://www.youtube.com/embed/Xmxc-fed_Lw\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 end = ""
 facebook = "https://www.facebook.com/kink303/ "
 name = "KiNK"
