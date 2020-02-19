@@ -2,11 +2,11 @@
 day = ["Sunday"]
 embed = "<iframe width=\"560\" height=\"420\" src=\"https://www.youtube.com/embed/hCkTyEsCNL4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 end = ""
-facebook = "https://www.facebook.com/charlotteadigery "
+facebook = "https://www.facebook.com/charlotteadigery"
 name = "Charlotte Adigéry"
 photo = "/v1582018810/Square-Website_00003_ift95z.jpg"
 position = ["Abstrkt"]
-soundcloud = "https://soundcloud.com/charlotteadigery "
+soundcloud = "https://soundcloud.com/charlotteadigery"
 start = ""
 
 +++
