@@ -1,5 +1,6 @@
 +++
 day = ["Sunday"]
+embed = ""
 end = ""
 facebook = "https://www.facebook.com/kruder.dorfmeister/ "
 name = "Kruder & Dorfmeister"
