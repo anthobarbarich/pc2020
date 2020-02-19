@@ -1,5 +1,6 @@
 +++
 day = ["Saturday"]
+embed = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/XLtX8yA-i4s\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 end = ""
 facebook = "https://www.facebook.com/KerriChandlerOfficial/"
 name = "Kerri Chandler"
