@@ -1,8 +1,9 @@
 +++
 day = ["Friday"]
+embed = ""
 end = ""
 facebook = "https://www.facebook.com/howlinghowling/ "
-name = "Howling"
+name = "Ry X & Frank Wiedemann present Howling"
 photo = "/v1582018656/Square-Website_00017_ftkxoa.jpg"
 position = ["Nowhere But Here"]
 soundcloud = "https://soundcloud.com/howlinghowling "
