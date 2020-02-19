@@ -1,5 +1,6 @@
 +++
 day = ["Friday"]
+embed = ""
 end = ""
 facebook = ""
 name = "Paquita Gordon"
