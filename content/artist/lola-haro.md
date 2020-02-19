@@ -1,6 +1,6 @@
 +++
 day = ["Saturday"]
-embed = "[https://www.youtube.com/watch?v=_6lFE40XjmQ&t=1424s](https://www.youtube.com/watch?v=_6lFE40XjmQ&t=1424s \"Boiler Room\")"
+embed = ""
 end = ""
 facebook = "https://www.facebook.com/lolaharomusic/"
 name = "Lola Haro"
