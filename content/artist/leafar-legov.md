@@ -1,5 +1,6 @@
 +++
 day = ["Sunday"]
+embed = "<iframe width=\"560\" height=\"420\" src=\"https://www.youtube.com/embed/FyN1Mee4Jzc\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 end = ""
 facebook = "https://www.facebook.com/giegling/"
 name = "Leafar Legov"
