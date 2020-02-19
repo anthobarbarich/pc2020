@@ -2,7 +2,7 @@
 day = ["Saturday"]
 embed = "<iframe width=\"560\" height=\"420\" src=\"https://www.youtube.com/embed/KOiXQo6MpOg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 end = ""
-facebook = "https://www.facebook.com/meziguepaname/ "
+facebook = "https://www.facebook.com/meziguepaname/"
 name = "Mézigue"
 photo = "/v1582018453/Square-Website_00014_rer4rq.jpg"
 position = ["Play Label Records"]
