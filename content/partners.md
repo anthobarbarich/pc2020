@@ -1,6 +1,9 @@
 ---
 uniqueid: partners
 partner:
+- name: Delhaize
+  photo: "/v1582128093/logo_delhaize_website_gjf9ee.png"
+  position: ''
 - name: Ginette
   photo: "/v1580823273/ginette-knipoog-logo_r3dmr3.png"
   position: https://www.ginettebeer.com/
