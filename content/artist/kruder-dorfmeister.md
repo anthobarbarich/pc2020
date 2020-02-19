@@ -1,6 +1,6 @@
 +++
 day = ["Sunday"]
-embed = ""
+embed = "<iframe width=\"560\" height=\"420\" src=\"https://www.youtube.com/embed/bPc8Y7dq5xQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 end = ""
 facebook = "https://www.facebook.com/kruder.dorfmeister/ "
 name = "Kruder & Dorfmeister"
