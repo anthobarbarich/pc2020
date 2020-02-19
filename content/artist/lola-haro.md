@@ -6,7 +6,7 @@ facebook = "https://www.facebook.com/lolaharomusic/"
 name = "Lola Haro"
 photo = "/v1582018559/Square-Website_00011_qqh3tn.jpg"
 position = ["Love"]
-soundcloud = "https://soundcloud.com/lola-haro "
+soundcloud = "https://soundcloud.com/lola-haro"
 start = ""
 
 +++

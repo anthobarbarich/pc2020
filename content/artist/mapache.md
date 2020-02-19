@@ -2,7 +2,7 @@
 day = ["Friday"]
 embed = "<iframe width=\"560\" height=\"420\" src=\"https://www.youtube.com/embed/0rdDiFODYag\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 end = ""
-facebook = "https://www.facebook.com/mapache-152180478156038/ "
+facebook = "https://www.facebook.com/mapache-152180478156038/"
 name = "Map.ache"
 photo = "/v1582018474/Square-Website_00012_pdnk9b.jpg"
 position = ["Giegling"]
