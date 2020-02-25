@@ -10,6 +10,9 @@ partner:
 - name: Brussels Airport
   photo: "/v1580823273/brussels-airport_baseline_rgb-copie_rgi1ql.png"
   position: https://www.brusselsairport.be
+- name: Delhaize
+  photo: "/v1582128093/logo_delhaize_website_gjf9ee.png"
+  position: ''
 - name: Metro_B
   photo: "/v1580823273/metro-logo_frrvb_mvf8ob.jpg"
   position: http://www.metrotime.be/

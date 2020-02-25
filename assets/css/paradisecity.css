@@ -1,16 +1,17 @@
-::selection {
+co::selection {
   background: #ff804b;
   color: white;
 }
 
-
-body {
+html, body {
   color: #333;
   font-size: 14px;
   line-height: 20px;
   overflow-x: hidden;
   font-weight: 200;
   font: sans-serif;
+	max-width: 100vw;
+	
 }
 
 h1 {
@@ -46,7 +47,7 @@ strong {
   color: #456348;
   font-family: "Akrobat-Regular";
 }
-
+a svg:hover { stroke: #fa8d76;}
 .greenhome {
   color: #456348;
   font-family: "Akrobat";
@@ -467,6 +468,16 @@ div.icones>p{
   text-transform: uppercase;
   opacity: 0.6;
 }
+.btn {
+	background-color: #fa8d76;
+    color: white,;
+    color: white;
+    padding: 15px 41px;
+    line-height: 3.5em;
+    font-family: Akrobat;
+    border-radius: 50px;
+    margin-top: 0px;
+}
 .btn-hero {
   position: relative;
   margin-top: 7px;
@@ -486,6 +497,12 @@ div.icones>p{
   -webkit-transform: scale(1.06);
   -ms-transform: scale(1.06);
   transform: scale(1.06);
+}
+
+.section-cta.home {
+	color: white;
+	margin: 0 20px;
+	font-family: Akrobat-Regular;
 }
 .btn-hero.reverse {
   margin-left: 12px;
@@ -842,8 +859,8 @@ h3.section-intro.nomargin.greenz {
 .lineu {
   position: relative;
   z-index: 99999;
-  padding-top: 200px;
-  padding-bottom: 125px;
+  padding-top: 125px;
+  padding-bottom: 75px;
   background-position: 50% 50%;
   background-size: cover;
   color: #fff;
@@ -914,14 +931,11 @@ h3.section-intro.nomargin.greenz {
   font-size: 15px;
 }
 .btnlineup {
-  padding: 15px 40px;
+  padding: 15px 60px;
   font-size: 15px;
   text-transform: uppercase;
   position: relative;
-  border-radius: 5px;
-  right: 40px;
   z-index: 99;
-  margin-left: 12px;
   margin-bottom: 30px;
   background-color: #fa8d76;
   box-shadow: 1px 1px 24px 0 rgba(0, 0, 0, 0.12);
@@ -933,6 +947,23 @@ h3.section-intro.nomargin.greenz {
   color: #fff;
   cursor: pointer;
 }
+
+.btnlineup.lastz {
+border-top-right-radius: 50px;
+	border-bottom-right-radius: 50px;
+}
+
+.btnlineup.firstz {
+border-top-left-radius: 50px;
+	border-bottom-left-radius: 50px;
+}
+
+.btnlineup.all {
+border-radius: 50px;
+margin-right: 40px;
+}
+
+
 .btnlineup:focus {
   background-color: #ef5d42;
 }
@@ -960,7 +991,7 @@ svg:not(:root) {
   cursor: pointer;
 }
 .bloxbtn .btn svg {
-  fill: #58465e;
+  fill: #7B4A4B;
 }
 .bloxbtn .btn svg:hover {
   fill: #fa8d76;
@@ -980,6 +1011,7 @@ svg:not(:root) {
   flex-wrap: wrap;
   justify-content: center;
   align-content: center;
+	margin-top: -50px;
 }
 .btcta.rev {
   z-index: 99;
@@ -1509,6 +1541,8 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"] {
   background-size: 108px, auto, cover;
   background-repeat: no-repeat, repeat, repeat;
   box-shadow: 1px 1px 29px 0 rgba(0, 0, 0, 0.28);
+	    border-radius: 25px;
+
 }
 .newz {
   position: relative;
@@ -1534,17 +1568,22 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"] {
 }
 .containartist {
   position: relative;
-  width: 30%;
+  width: 22%;
   margin-top: 0;
   margin-bottom: 40px;
   -webkit-transition: -webkit-transform 200ms ease;
   transition: -webkit-transform 200ms ease;
   transition: transform 200ms ease;
   transition: transform 200ms ease, -webkit-transform 200ms ease;
+cursor: pointer;
 }
 
+.artistsolo {
+	border-radius: 25px;
+}
 iframe {
   width: 100%;
+	margin: 40px 0;
 }
 
 /* Dropdown Button */
@@ -1585,6 +1624,9 @@ iframe {
 .show {
   display: block;
 }
+.containartist {
+  text-align: center;
+}
 .containartist a {
   margin-top: 10px;
   margin-left: 8px;
@@ -1594,7 +1636,7 @@ iframe {
 }
 .containartist h3 {
   text-transform: uppercase;
-  font-size: 1.5em;
+  font-size: 1.4em;
   display: inline-block;
   font-family: Akrobat;
   font-weight: 100;
@@ -1630,6 +1672,24 @@ h3.daytxt {
   position: absolute;
   top: 5px;
   left: 10px;
+	text-transform: uppercase;
+}
+
+.solo .block50 {
+	padding: 10px
+}
+
+.solo .block50:first-child {
+	text-align:center;
+}
+
+.solo h3.daytxt {
+	left: 30px;
+}
+
+.solo p {
+	font-size: 1.1em;
+	line-height: 1.5em;
 }
 .nameartiste {
   -webkit-align-self: center;
@@ -2363,33 +2423,35 @@ width: 100%;
   }
   #myBtnContainer {
     text-align: center;
-    margin-top: -30px;
+	  margin: 0;
   }
   .bloxbtn {
     display: none;
   }
   
   .btnlineup {
-    padding: 16px 33px;
-    font-size: 15px;
+     padding: 11px 23px;
+    font-size: 12px;
     text-transform: uppercase;
     position: relative;
-    border-radius: 5px;
+    border-radius: 0;
     right: 0;
     z-index: 99;
-    margin-left: 12px;
+    margin-left: 0;
     margin-bottom: 16px;
     background-color: #fa8d76;
-    box-shadow: 1px 1px 24px 0 rgba(0, 0, 0, 0.12);
-    -webkit-transition: -webkit-transform 200ms ease;
-    transition: -webkit-transform 200ms ease;
+    box-shadow: 1px 1px 24px 0 rgba(0,0,0,.12);
     transition: transform 200ms ease;
-    transition: transform 200ms ease, -webkit-transform 200ms ease;
     font-family: Akrobat;
     color: #fff;
     cursor: pointer;
-    margin-bottom: 10px;
+    margin-bottom: 10px;;
   }
+	
+	.btnlineup.all {
+    border-radius: 50px;
+    margin-right: 5px;
+}
   .container.split.margin-bottom {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -2720,7 +2782,7 @@ width: 100%;
     margin-top: 1px;
   }
   .section-page.line-up {
-    margin-top: 80px;
+   margin-top: 0;
   }
 }
 .filterDiv {
@@ -3137,14 +3199,11 @@ body.sun .link-table[href="/timetable/sunday"] {
 
 @media screen and (max-width: 991px) {
   body.is-opened {
-    overflow: hidden;
   }
   #mobile-nav {
     position: fixed;
     left: 0;
-    -webkit-transform: translateY(-100vh);
-        -ms-transform: translateY(-100vh);
-            transform: translateY(-100vh);
+
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
@@ -3156,7 +3215,7 @@ body.sun .link-table[href="/timetable/sunday"] {
     text-align: center;
     display: -webkit-box;
     display: -ms-flexbox;
-    display: flex;
+    display: none;
     z-index: 100;
     -webkit-transition: -webkit-transform 500ms ease;
     transition: -webkit-transform 500ms ease;
@@ -3177,11 +3236,7 @@ body.sun .link-table[href="/timetable/sunday"] {
         -ms-flex-pack: center;
             justify-content: center;
     text-align: center;
-    -webkit-transform: translateY(0px);
-        -ms-transform: translateY(0px);
-            transform: translateY(0px);
-    -webkit-animation: mobilenavOpen 500ms ease forwards;
-            animation: mobilenavOpen 500ms ease forwards;
+
   }
   body.is-opened #mobile-nav {
     top: 73px;

@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!--  Last Published: Mon Jan 28 2019 15:39:08 GMT+0000 (UTC)  -->
 <html data-wf-page="5c4cd0d9dfbd6c210a2548e5" data-wf-site="5c34c1d2a3cd45693156a337">
 <head>
 	<!-- Google Tag Manager -->
@@ -10,17 +9,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-M4CP3V8');</script>
 <!-- End Google Tag Manager -->
   <meta charset="utf-8">
-	<title>{{.Title}} | Paradise City Festival 2019</title>
-  <meta content="{{.Title}} | Paradise City Festival 2019" property="og:title">
+	{{ if eq .Page.Section "artist"}}
+		<title>{{.Params.name}} | Paradise City Festival 2020</title>
+	{{else}}
+		<title>{{.Title}} | Paradise City Festival 2020</title>
+	{{end}}
+		{{ if eq .Page.Section "artist"}}
+
+  <meta content="{{.Params.name}} | Paradise City Festival 2020" property="og:title">
+	{{else}}
+  <meta content="{{.Title}} | Paradise City Festival 2020" property="og:title">
+	{{end}}
 	<meta name="description" content="{{ .Content | truncate 150 }}" />
   <meta content="{{ .Content | truncate 150 }}" property="og:description">
 	<meta property="og:url" content="https://paradisecity.be{{ .Permalink }}" />
+	{{ if eq .Page.Section "artist"}}
+	<meta property="og:image" content="https://res.cloudinary.com/dxswtxauo/image/upload/w_1200{{ .Params.photo }}">
+	{{else}}
 	<meta property="og:image" content="{{ if isset .Params "opengraph" }}https://paradisecity.be{{ index .Params "opengraph" }}{{else}}https://paradisecity.be/images/opengraph2020.jpg{{ end }}">
+	{{end}}
 	<meta property="og:image:width" content="1200" />
   <meta content="width=device-width, initial-scale=1" name="viewport">
-  {{/*  <link href="/css/normalize.css" rel="stylesheet" type="text/css">
-  <link href="/css/components.css" rel="stylesheet" type="text/css">
-  <link href="/css/paradisecity.css" rel="stylesheet" type="text/css">  */}}
   {{ $style := resources.Match "css/**.css" | resources.Concat "css/main.css" }}
     {{ $styleMinified := $style | resources.PostCSS (dict "config" "postcss.config.js") | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" type="text/css" href="{{ $styleMinified.Permalink | relURL }}" integrity="{{ $styleMinified.Data.Integrity }}">

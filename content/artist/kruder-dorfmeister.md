@@ -1,12 +1,12 @@
 +++
-day = []
-draft = true
+day = ["Sunday"]
+embed = "<iframe width=\"560\" height=\"420\" src=\"https://www.youtube.com/embed/bPc8Y7dq5xQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 end = ""
-facebook = "https://www.facebook.com/kruder.dorfmeister/ "
+facebook = "https://www.facebook.com/kruder.dorfmeister/"
 name = "Kruder & Dorfmeister"
-photo = ""
-position = []
-soundcloud = "https://soundcloud.com/user-144868551 "
+photo = "/v1582018602/Square-Website_00009_cumhny.jpg"
+position = ["Abstrkt"]
+soundcloud = "https://soundcloud.com/user-144868551"
 start = ""
 
 +++

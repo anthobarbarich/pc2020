@@ -1,12 +1,12 @@
 +++
-day = []
-draft = true
+day = ["Saturday"]
+embed = "<iframe width=\"560\" height=\"420\" src=\"https://www.youtube.com/embed/_6lFE40XjmQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 end = ""
 facebook = "https://www.facebook.com/lolaharomusic/"
 name = "Lola Haro"
-photo = ""
-position = []
-soundcloud = "https://soundcloud.com/lola-haro "
+photo = "/v1582018559/Square-Website_00011_qqh3tn.jpg"
+position = ["Love"]
+soundcloud = "https://soundcloud.com/lola-haro"
 start = ""
 
 +++

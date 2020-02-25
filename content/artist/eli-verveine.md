@@ -1,12 +1,12 @@
 +++
-day = []
-draft = true
+day = ["Friday"]
+embed = "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/743288938&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe>"
 end = ""
-facebook = "https://www.facebook.com/eli-verveine-386344770109/ "
+facebook = "https://www.facebook.com/eli-verveine-386344770109/"
 name = "Eli Verveine"
-photo = ""
-position = []
-soundcloud = "https://soundcloud.com/eli-verveine "
+photo = "/v1582016946/Square-Website_00005_wmc3di.jpg"
+position = ["Giegling"]
+soundcloud = "https://soundcloud.com/eli-verveine"
 start = ""
 
 +++

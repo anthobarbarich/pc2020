@@ -1,12 +1,12 @@
 +++
-day = []
-draft = true
+day = ["Sunday"]
+embed = "<iframe width=\"560\" height=\"420\" src=\"https://www.youtube.com/embed/qModBSR6lqI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 end = ""
-facebook = "https://www.facebook.com/CourtesyDK/ "
+facebook = "https://www.facebook.com/CourtesyDK/"
 name = "Courtesy"
-photo = ""
-position = []
-soundcloud = "https://soundcloud.com/courtesy707 "
+photo = "/v1582018758/Square-Website_00004_askxwb.jpg"
+position = ["Silo"]
+soundcloud = "https://soundcloud.com/courtesy707"
 start = ""
 
 +++

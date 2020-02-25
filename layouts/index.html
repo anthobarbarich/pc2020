@@ -8,7 +8,7 @@
     <meta charset="utf-8">
     <title>Paradise City Festival 2020 | 26, 27 & 28 June Perk, Belgium</title>
     <meta name="description" content="{{ .Content | truncate 150 }}" />
-    <meta content="Paradise City Festival 2020 | 25, 26 & 27 June Perk, Belgium" property="og:title">
+    <meta content="Paradise City Festival 2020 | 26, 27 & 28 June Perk, Belgium" property="og:title">
     <meta content="{{ .Content | truncate 150 }}" property="og:description">
     <meta property="og:url" content="https://paradisecity.be" />
     <meta property="og:image" content="https://paradisecity.be/images/opengraph2020.jpg">
@@ -50,7 +50,6 @@ Activity name of this tag: Sitewide
 URL of the webpage where the tag is expected to be placed: https://paradisecity.be/
 This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
 Creation Date: 05/20/2019
-
         <script type="text/javascript">
             var axel = Math.random() + "";
             var a = axel * 10000000000000;
@@ -64,12 +63,10 @@ Creation Date: 05/20/2019
         <!--        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-807793275"></script>
         <script>
             window.dataLayer = window.dataLayer || [];
-
             function gtag() {
                 dataLayer.push(arguments);
             }
             gtag('js', new Date());
-
             gtag('config', 'AW-807793275');
         </script>-->
         {{ partial "nav.html" . }}
@@ -146,12 +143,13 @@ Creation Date: 05/20/2019
             </div>
         </section>
         <div class="lineu lozad">
-            <!--           <img data-src="images/feuille.svg" width="278" alt="" class="feuille lozad"><img data-src="images/brancherouge.svg" width="172" alt="" class="feuille rouge lozad">-->
             <div class="container">
-                <h3 class="section-cta">{{.Params.lineuptitle}}</h3>
+                <h3 class="section-cta">Line-Up announced soon!</h3>
                 <div class="line"></div>
-                <!--<h3 class="section-cta">{{ .Params.lineuptxt | markdownify }}</h3>-->
-                <!--<a href="/lineup" class="btcta rev w-button" style="position: relative; z-index:99999999999;">SEE LINE-UP →</a>-->
+				<!--<br><br>
+				{{ range where .Site.RegularPages "Section" "artist"}}
+                <a class="section-cta home" href="{{.Permalink}}">{{.Params.name}}</a>{{end}}<br>
+               <a href="/lineup" class="btcta rev w-button" style="position: relative; z-index:99999999999;">SEE LINE-UP →</a>-->
             </div>
         </div>
         <div class="section-green">
@@ -166,10 +164,9 @@ Creation Date: 05/20/2019
                         <img data-src="images/ctaleaves.png" width="100" alt="" class="lozad"
                             style="position: absolute;right: -77px;top: 10px;z-index: 9;">
                     </picture>
-                    <picture>
-                        <source data-srcset="images/green.webp" type="image/webp">
-                        <img data-src="images/green.jpg" width="626" alt="" class="img-green lozad">
-                    </picture>
+                   
+                        <img data-src="https://res.cloudinary.com/dxswtxauo/image/upload/w_626/q_auto,f_auto/v1581919375/green_k9caro.jpg" width="626" alt="" class="img-green lozad">
+                   
                 </div>
                 <div id="w-node-48d598a7fe19-feae796a" class="block50 bgwhite">
                     <h3 class="section-heading">green</h3>

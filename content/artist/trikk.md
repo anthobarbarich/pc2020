@@ -1,12 +1,12 @@
 +++
-day = []
-draft = true
+day = ["Sunday"]
+embed = "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/617038299&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe>"
 end = ""
-facebook = "https://www.facebook.com/musictrikk/ "
+facebook = "https://www.facebook.com/musictrikk/"
 name = "Trikk"
-photo = ""
-position = []
-soundcloud = "https://soundcloud.com/trikksound "
+photo = "/v1582016976/Square-Website_00019_to6cjg.jpg"
+position = [" Nico Morano & Friends"]
+soundcloud = "https://soundcloud.com/trikksound"
 start = ""
 
 +++
