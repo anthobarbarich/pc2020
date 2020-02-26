@@ -226,6 +226,9 @@ press:
 - answer: 'Send an email to ann@pravdapressroom.com and/or tom@pravdapressroom.com
     (Object: Paradise City Festival)'
   question: HOW CAN I CONTACT YOU FOR PRESS-RELATED QUESTIONS?
+greencard:
+  question: ''
+  answer: ''
 
 ---
 Looking for info about the festival, tickets, access? You're at the right place!
