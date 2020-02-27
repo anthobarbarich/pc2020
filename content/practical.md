@@ -245,8 +245,11 @@ green_card:
     year.
 - question: 'HOW LONG CAN I USE MY GREEN CARD CODE? '
   answer: You can use your Green Card code until Wednesday 22th of April at 23:59.
-- question: ''
-  answer: ''
+- question: WHAT CAN I DO IF MY GREEN CARD CODE DOESN’T WORK?
+  answer: Be sure you copy the code without any space before or after the code. Be
+    aware to not confuse a 0 (figure) and O (letter). If you return to a previous
+    page after entering your code, an error message can appear. No worries, after
+    30 minutes your code will work again!
 - question: ''
   answer: ''
 - question: ''
