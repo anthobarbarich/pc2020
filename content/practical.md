@@ -227,11 +227,8 @@ press:
     (Object: Paradise City Festival)'
   question: HOW CAN I CONTACT YOU FOR PRESS-RELATED QUESTIONS?
 greencard:
-  question: What's a green card?
-  answer: If you’re a loyal citizen and you came already to one of the previous editions
-    of Paradise City festival, you received a Green card. A Green Card is a leaflet
-    with a code inside. This code gives you a reduction on your ticket. Inside, there
-    are also other surprises!
+  question: ''
+  answer: ''
 green_card:
 - question: What's a green card?
   answer: If you’re a loyal citizen and you came already to one of the previous editions
