@@ -243,6 +243,14 @@ green_card:
     editions of Paradise City Festival. After buying a ticket, you’ll be registered
     in our database and from then on you’ll receive your personal Green Card each
     year.
+- question: 'HOW LONG CAN I USE MY GREEN CARD CODE? '
+  answer: You can use your Green Card code until Wednesday 22th of April at 23:59.
+- question: ''
+  answer: ''
+- question: ''
+  answer: ''
+- question: ''
+  answer: ''
 
 ---
 Looking for info about the festival, tickets, access? You're at the right place!
