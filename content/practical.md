@@ -232,6 +232,9 @@ greencard:
     of Paradise City festival, you received a Green card. A Green Card is a leaflet
     with a code inside. This code gives you a reduction on your ticket. Inside, there
     are also other surprises!
+green_card:
+- question: What's a green card?
+  answer: ''
 
 ---
 Looking for info about the festival, tickets, access? You're at the right place!
