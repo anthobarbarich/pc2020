@@ -252,7 +252,7 @@ green_card:
     30 minutes your code will work again!
 - question: UNTIL WHEN ARE THE EARLY BIRD TICKETS AVAILABLE?
   answer: Early bird tickets are available until Wednesday 22th of April at 23:59.
-    After that time, the ticket price will be the final price, so without any reduction.
+    After that time, the ticket price will be the final price, so no more reduction.
 - question: ''
   answer: ''
 
