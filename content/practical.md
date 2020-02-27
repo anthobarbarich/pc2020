@@ -238,6 +238,11 @@ green_card:
     of Paradise City festival, you received a Green card. A Green Card is a leaflet
     with a code inside. This code gives you a reduction on your ticket. Inside, there
     are also other surprises!
+- question: How can I receive a green card?
+  answer: You only receive a Green Card if you already came to one of the previous
+    editions of Paradise City Festival. After buying a ticket, you’ll be registered
+    in our database and from then on you’ll receive your personal Green Card each
+    year.
 
 ---
 Looking for info about the festival, tickets, access? You're at the right place!
