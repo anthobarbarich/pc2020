@@ -253,8 +253,10 @@ green_card:
 - question: UNTIL WHEN ARE THE EARLY BIRD TICKETS AVAILABLE?
   answer: Early bird tickets are available until Wednesday 22th of April at 23:59.
     After that time, the ticket price will be the final price, so no more reduction.
-- question: ''
-  answer: ''
+- question: WHAT' S THE DIFFERENCE BETWEEN A GREEN CARD AND AN EARLY BIRD TICKET?
+  answer: A Green Card gives you a reduction because you already came to a previous
+    edition of the festival. An Early Bird ticket also gives you a reduction but only
+    because you buy it earlier.
 
 ---
 Looking for info about the festival, tickets, access? You're at the right place!
