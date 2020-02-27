@@ -1,4 +1,4 @@
-{{ partial "header.html" . }} 
+{{ partial "header.html" . }}
 <!--  <div class="container articles">
     <h1>{{ .Params.name }}</h1>
     <p class="daytxt" style="text-align: center;">Love</p>
@@ -9,21 +9,6 @@
           style="background-image: url('{{.Params.photo}}'); background-size: cover; background-position: center;"
           class="w-inline-block">
         </div>
-<<<<<<< HEAD
-      </div>
-      <div class="blockArtist">
-        {{.Content}}
-
-      </div>
-
-    </div>
-    <iframe width="90%" height="166" scrolling="no" frameborder="no"
-      src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/34019569&amp;color=0066cc"></iframe>
-
-  </div>
-
-  {{ partial "footer.html" . }}
-=======
       </div>
 		  <div class="block50">
       <div class="blockArtist">
@@ -42,69 +27,82 @@
 	  -->
 
 <div class="section-page line-up">
-		<div class="container default">
-				<h1 class="section-intro">{{ .Params.name }} <br><p style="font-family:Akrobat-Regular;font-size:0.8em;color:#7B4A4B">{{ delimit .Params.position " "}}</p></h1>
-					
-				<div class="container split solo">
-						<div class="block50 ">
-							      <h3 class="daytxt">{{$daytime := index (.Params.day) 0 }}
-  	{{ if eq $daytime "Saturday" }}
-				<h3 class="daytxt" style="background-color:#ff7e9a;">{{ $daytime }}</h3>
-		  {{ else if eq $daytime "Sunday" }}
-		  		<h3 class="daytxt">{{ $daytime }}</h3>
-		  {{ else if eq $daytime "Friday" }}
-		  <h3 class="daytxt" style="background-color:#5dceb4">{{ $daytime }}</h3>
-		  {{ end }}	
-		  		 
- 			
-	</h3>
-							<img src="https://res.cloudinary.com/dxswtxauo/image/upload/w_500/q_auto,f_auto{{ .Params.photo }}" width="500" alt="{{.Params.name}}" class="artistsolo"/>
-						</div><br><br>
-						<div class="block50">
-							{{.Content}}<br>
-							  <a href="{{ .Params.soundcloud }}" target="_blank">
-      <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24" fill="none" stroke="#575757" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
-        <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
-      </svg>
-		</a>
-		    <a href="{{ .Params.facebook }}" target="_blank">
- <svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 24 24" fill="none" stroke="#575757" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
-		</a>	
-					</div>
-					
-				</div>
-			<div class="container"><br>
-			{{.Params.embed | markdownify }}
+	<div class="container default">
+		<h1 class="section-intro">{{ .Params.name }} <br>
+			<p style="font-family:Akrobat-Regular;font-size:0.8em;color:#7B4A4B">{{ delimit .Params.position " "}}</p>
+		</h1>
+
+		<div class="container split solo">
+			<div class="block50 ">
+				<h3 class="daytxt">{{$daytime := index (.Params.day) 0 }}
+					{{ if eq $daytime "Saturday" }}
+					<h3 class="daytxt" style="background-color:#ff7e9a;">{{ $daytime }}</h3>
+					{{ else if eq $daytime "Sunday" }}
+					<h3 class="daytxt">{{ $daytime }}</h3>
+					{{ else if eq $daytime "Friday" }}
+					<h3 class="daytxt" style="background-color:#5dceb4">{{ $daytime }}</h3>
+					{{ end }}
+
+
+				</h3>
+				<img src="https://res.cloudinary.com/dxswtxauo/image/upload/w_500/q_auto,f_auto{{ .Params.photo }}"
+					width="500" alt="{{.Params.name}}" class="artistsolo" />
+			</div><br><br>
+			<div class="block50">
+				{{.Content}}ceci est un test<br>
+				<a href="{{ .Params.soundcloud }}" target="_blank">
+					<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24" fill="none"
+						stroke="#575757" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+						<polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+						<path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+					</svg>
+				</a>
+				<a href="{{ .Params.facebook }}" target="_blank">
+					<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 24 24" fill="none"
+						stroke="#575757" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+						<path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
+						<path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+					</svg>
+				</a>
 			</div>
-			<a href="/lineup" class="btnback w-button">back to line-up</a></div>
-	
-					<h1 class="section-intro">Also playing at Paradise City</h1><br>
-	    <div class="container split artistes" id="artsts">{{ $randomArtist := shuffle (where .Site.RegularPages "Section" "artist") | first 4 }}
-			{{ range $randomArtist }}
-      <div onclick="javascript:window.location.href='{{.Permalink}}'" class=" containartist">
-        <div class="artiste" style="background-image: url('https://res.cloudinary.com/dxswtxauo/image/upload/w_400/q_auto,f_auto{{ .Params.photo }}'); background-size: cover; background-position: center;" href="{{.Permalink}}" class="w-inline-block">
-      </div>
-		  <a href="{{.Permalink}}"><h3>{{ .Params.name }}</h3></a>
-		 
 
-
-      	    
-
-		   
-		
-		  
-		  <br>
-		 
 		</div>
-    {{end}}
+		<div class="container"><br>
+			{{.Params.embed | markdownify }}
+		</div>
+		<a href="/lineup" class="btnback w-button">back to line-up</a>
+	</div>
+
+	<h1 class="section-intro">Also playing at Paradise City</h1><br>
+	<div class="container split artistes" id="artsts">
+		{{ $randomArtist := shuffle (where .Site.RegularPages "Section" "artist") | first 4 }}
+		{{ range $randomArtist }}
+		<div onclick="javascript:window.location.href='{{.Permalink}}'" class=" containartist">
+			<div class="artiste"
+				style="background-image: url('https://res.cloudinary.com/dxswtxauo/image/upload/w_400/q_auto,f_auto{{ .Params.photo }}'); background-size: cover; background-position: center;"
+				href="{{.Permalink}}" class="w-inline-block">
+			</div>
+			<a href="{{.Permalink}}">
+				<h3>{{ .Params.name }}</h3>
+			</a>
+
+
+
+
+
+
+
+
+			<br>
+
+		</div>
+		{{end}}
 	</div> <br>
 	<div class="container" style="text-align: center">
-	<a class="btn" href="/lineup">SEE FULL LINE UP</a>
-		
+		<a class="btn" href="/lineup">SEE FULL LINE UP</a>
+
 	</div>
-	</div>
+</div>
 </div>
 </div>
 {{ partial "footer.html" . }}
->>>>>>> master

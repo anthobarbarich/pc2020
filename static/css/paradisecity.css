@@ -40,6 +40,7 @@ strong {
   font-family: "Akrobat";
 }
 
+
 /* COLORS */
 .green {
   color: #456348;
@@ -2559,6 +2560,7 @@ TIMETABLE
 *::before {
   box-sizing: border-box;
 }
+
 html {
   font-size: 62.5%;
 }

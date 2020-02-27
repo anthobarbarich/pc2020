@@ -1,20 +1,12 @@
 {{ partial "header.html" . }}
 <div class="section-page line-up">
-<div class="container">
+<div class="container" s >
   <h3 class="section-intro writing">{{ .Title }}</h3>
-  <select onchange="location = this.options[this.selectedIndex].value;">
-    <option value="/timetable/friday">Friday</option>
-    <option value="/timetable/saturday">Saturday</option>
-    <option value="/timetable/sunday">Sunday</option>
-	</select>
-	{{ $v1 := where .Site.Data.artists.team "position" "Love" }}
-	{{ $v2 := where .Site.Data.artists.team "day" "Friday" }}
-	
-	{{ range sort $v1 "time" "asc"}}
-
-	{{ .name }}
-	
-	{{end}}
+  <div style="text-align: center;">
+    <a class="link-table" href="http://localhost:1313//timetable/friday">Friday</a>
+    <a class="link-table" href="http://localhost:1313//timetable/saturday">Saturday</a>
+    <a class="link-table" href="http://localhost:1313//timetable/Sunday">Sunday</a>
+  </div> 
   {{ .Content }} 
 
   <script src="/js/modernizr.js"></script> 

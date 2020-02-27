@@ -1,13 +1,13 @@
 +++
-day = ["Sunday"]
+day = ["Friday"]
 embed = "<iframe width=\"560\" height=\"420\" src=\"https://www.youtube.com/embed/hCkTyEsCNL4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-end = ""
+end = "18:00"
 facebook = "https://www.facebook.com/charlotteadigery"
 name = "Charlotte Adigéry"
 photo = "/v1582018810/Square-Website_00003_ift95z.jpg"
-position = ["Abstrkt"]
+position = ["Giegling"]
 soundcloud = "https://soundcloud.com/charlotteadigery"
-start = ""
+start = "16:00"
 
 +++
 Having been taught the ropes by her mother, from rhythm over musicality to a sense of humour and not taking herself too seriously, Charlotte Adigéry got into music from an early age. Through mutual friends (after all Belgium is a tiny country) she was asked by the Soulwax brothers to lip-sync a song of theirs for the 'Belgica' soundtrack they were producing at the time. As soon as they heard her voice, the acting job quickly turned into a studio session... and another... and another.
