@@ -1,6 +1,5 @@
 +++
 date = 2020-03-04T14:30:10Z
-draft = true
 layout = "blog"
 thumbnail = "/v1583332444/Paradise_Sat_Sil_0150_ist4nw.jpg"
 title = "35 new artists ! "
@@ -19,3 +18,5 @@ Paradise City likes to bring young and fresh acts to their green grass
 like the Irish DJ **Or:la** and wants to contribute to the comeback of live music with the one-man-band, piano phenomenon **Mezerg**. 
 
 The full line-up will be announced on March 25th!
+
+<a class="btn" href="https://paradisecity.be/tickets"> Get your tickets </a>
