@@ -83,6 +83,7 @@ fields:
       format: markdown
   label: Embed
 pages:
+- content/artist/2manydjs.md
 - content/artist/adriatique.md
 - content/artist/axel-boman.md
 - content/artist/ben-ufo.md
