@@ -17,17 +17,15 @@ fields:
     schema:
       format: markdown
   label: Green Text
-- name: featured
-  type: list
+- name: lineuptxt
+  type: textarea
+  default: ''
   config:
-    use_select: false
-    min: 
-    max: 
-    source:
-      type: documents
-      section: ''
-      file: 
-  label: Featured
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Featured Line-Up
 pages:
 - content/_index.md
 - content/_index.md
