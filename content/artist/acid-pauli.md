@@ -1,6 +1,5 @@
 +++
 day = ["Sunday"]
-draft = true
 embed = ""
 end = ""
 facebook = "https://www.facebook.com/therealacidpauli/"
