@@ -13,4 +13,6 @@ This is the first grasp of a total of **85 acts**.
 For us, it represents an **eclectic mix of original artists and** **heavyweights** that will perform at Paradise City 2020.  
 It's just the beginning…
 
-Other names will follow soon until the kick-off of the festival. The 6th edition will take place on **_26, 27 and 28 June_** in Steenokkerzeel. You can already get your tickets [**here**]()!
+Other names will follow soon until the kick-off of the festival. The 6th edition will take place on **_26, 27 and 28 June_** in Steenokkerzeel. 
+
+<a class="btn" href="https://paradisecity.be/tickets"> Get your tickets </a>
