@@ -2,7 +2,7 @@
 imgvideo: ''
 lineuptitle: 'LINE-UP : Already announced'
 lineuptxt: |-
-  2manydjs - Acid Pauli - Adriatique - Âme Live - Axel Boman - Ben UFO - Ceephax Acid Crew - Charlotte Adigéry - Courtesy - Dan Shake - Edward - Hunee - Innellea - Jaguar Jaguar - Kalabrese & Rumpelorchester - Kerri Chandler - KiNK - Kruder & Dorfmeister - Leafar Legov Live - Levon Vincent - Lola Haro - Map.ache Live - Max Cooper Live - Mézigue - Move D - Mr. G - Nico Morano - Or:la - Ry X & Frank Wiedemann present Howling - Trikk - Vril
+  2manydjs - Acid Pauli - Adriatique - Âme Live - Axel Boman - Ben UFO - Ceephax Acid Crew Live - Charlotte Adigéry - Courtesy - Dan Shake - Edward - Hunee - Innellea Live - Jaguar Jaguar - Kalabrese & Rumpelorchester - Kerri Chandler - KiNK Live - Kruder & Dorfmeister - Leafar Legov Live - Levon Vincent - Lola Haro - Map.ache Live - Max Cooper Live - Mézigue - Move D - Mr. G Live - Nico Morano - Or:la - Ry X & Frank Wiedemann present Howling - Trikk - Vril Live
 
   & many more
 greentext: Any gathering of a large number of people can have a potential negative
