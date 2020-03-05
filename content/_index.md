@@ -2,7 +2,7 @@
 imgvideo: ''
 lineuptitle: LINE-UP ANNOUNCED SOON, STAY TUNED!
 lineuptxt: |-
-  2manydjs - &ME - Adriatique - BLOND:ISH - Carista - Daphni - Dixon - DJ Koze - Edward - Egyptian Lover - Folamour - Gerd Janson - Jan Blomqvist & Band - John Talabot - Jungle By Night - map.ache live - Mind Against - Motor City Drum Ensemble - Nu Guinea (Live band) - Polo & Pan (Dj set) - SKATEBÅRD - Todd Terje (Dj set)
+  2manydjs - Acid Pauli - Adriatique - Âme Live - Axel Boman - Ben UFO - Ceephax Acid Crew - Charlotte Adigéry - Courtesy - Dan Shake - Edward - Hunee - Innellea - Jaguar Jaguar - Kalabrese & Rumpelorchester - Kerri Chandler - KiNK - Kruder & Dorfmeister - Leafar Legov Live - Levon Vincent - Lola Haro - Map.ache Live - Max Cooper Live - Mézigue - Move D - Mr. G - Nico Morano - Or:la - Ry X & Frank Wiedemann present Howling - Trikk - Vril
 
   & many more
 greentext: Any gathering of a large number of people can have a potential negative
