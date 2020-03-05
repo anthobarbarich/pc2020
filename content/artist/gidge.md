@@ -3,7 +3,7 @@ day = ["Saturday"]
 embed = "<iframe width=\"560\" height=\"420\" src=\"https://www.youtube.com/embed/aP3uaKVI8Fg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 end = 2020-06-27T14:50:00Z
 facebook = "https://www.facebook.com/GidgeOfficial/"
-name = "Gidge"
+name = "Gidge Live"
 photo = "/v1582018733/Square-Website_00006_poonsd.jpg"
 position = ["Paradise City Live"]
 soundcloud = "https://soundcloud.com/gidgeofficial"
