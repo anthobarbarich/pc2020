@@ -144,12 +144,13 @@ Creation Date: 05/20/2019
         </section>
         <div class="lineu lozad">
             <div class="container">
-                <h3 class="section-cta">Line-Up announced soon!</h3>
+                <h3 class="section-cta">{{.Params.lineuptitle}}</h3>
                 <div class="line"></div>
-				<!--<br><br>
-				{{ range where .Site.RegularPages "Section" "artist"}}
-                <a class="section-cta home" href="{{.Permalink}}">{{.Params.name}}</a>{{end}}<br>
-               <a href="/lineup" class="btcta rev w-button" style="position: relative; z-index:99999999999;">SEE LINE-UP →</a>-->
+				<br><br>
+				<span class="section-cta home">{{.Params.lineuptxt}}</span>
+				<!--{{ range where .Site.RegularPages "Section" "artist"}}
+                <a class="section-cta home" href="{{.Permalink}}">{{.Params.name}}</a>{{end}}<br>-->
+               <a href="/lineup" class="btcta rev w-button" style="position: relative; z-index:99999999999;">SEE LINE-UP →</a>
             </div>
         </div>
         <div class="section-green">
