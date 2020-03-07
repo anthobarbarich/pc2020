@@ -1,10 +1,10 @@
 <div class="cd-schedule">
 	<div class="timeline">
-		
+
 		{{ $daytime := (.Get 0) }}
-			
+
 		{{ if eq $daytime "Friday" }}
-		<ul style="min-height:1090px;"> 
+		<ul style="min-height:1090px;">
 			<li><span>14:00</span></li>
 			<li><span>14:30</span></li>
 			<li><span>15:00</span></li>
@@ -13,7 +13,7 @@
 			<li><span>16:30</span></li>
 			<li><span>17:00</span></li>
 			<li><span>17:30</span></li>
-			<li><span>18:00</span></li>		
+			<li><span>18:00</span></li>
 			<li><span>18:30</span></li>
 			<li><span>19:00</span></li>
 			<li><span>19:30</span></li>
@@ -26,10 +26,12 @@
 			<li><span>23:00</span></li>
 			<li><span>00:00</span></li>
 			<li><span>00:30</span></li>
-			<li><span>01:00</span></li>	
+			<li><span>01:00</span></li>
 		</ul>
 		{{ else if eq $daytime "Saturday" }}
 		<ul>
+			<li><span>11:00</span></li>
+			<li><span>11:30</span></li>
 			<li><span>12:00</span></li>
 			<li><span>12:30</span></li>
 			<li><span>13:00</span></li>
@@ -42,7 +44,7 @@
 			<li><span>16:30</span></li>
 			<li><span>17:00</span></li>
 			<li><span>17:30</span></li>
-			<li><span>18:00</span></li>		
+			<li><span>18:00</span></li>
 			<li><span>18:30</span></li>
 			<li><span>19:00</span></li>
 			<li><span>19:30</span></li>
@@ -55,10 +57,13 @@
 			<li><span>23:00</span></li>
 			<li><span>00:00</span></li>
 			<li><span>00:30</span></li>
-			<li><span>01:00</span></li>	
+			<li><span>01:00</span></li>
 		</ul>
-				{{ else if eq $daytime "Sunday" }}
+		{{ else if eq $daytime "Sunday" }}
 		<ul>
+			<li><span>10:30</span></li>
+			<li><span>11:00</span></li>
+			<li><span>11:30</span></li>
 			<li><span>12:00</span></li>
 			<li><span>12:30</span></li>
 			<li><span>13:00</span></li>
@@ -71,7 +76,7 @@
 			<li><span>16:30</span></li>
 			<li><span>17:00</span></li>
 			<li><span>17:30</span></li>
-			<li><span>18:00</span></li>		
+			<li><span>18:00</span></li>
 			<li><span>18:30</span></li>
 			<li><span>19:00</span></li>
 			<li><span>19:30</span></li>
@@ -83,188 +88,363 @@
 			<li><span>22:30</span></li>
 			<li><span>23:00</span></li>
 
-				</ul>
+		</ul>
 		{{ end }}
 
-		
+
 	</div> <!-- .timeline -->
+	<div>
 
-{{ if eq $daytime "Friday" }}
-	<div class="events">
-		
-		<ul style="list-style-type:none;">
-			<li class="events-group 01">
-				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#5dceb4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle></svg>{{ .Get 1 }}</span></div>
-
-				<ul class="list">{{ $daytime := (.Get 0) }}
-					{{ $stage1 := (.Get 1) }}
-					{{ $v1 := where .Site.Data.artists.team "position" $stage1 }}
-					{{ $v2 := where $v1 "day" "=" $daytime }}
-					{{ range sort $v2 "time" "asc" }}
-					<li class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
-					25:00
-					{{ else }}
-					{{ .end }}
-					{{end}}" data-content="event-abs-circuit" data-event="event-1" style="border-left: 3px solid #5dceb4;">
-						<a>
-							<span class="event-date1">{{ .time }} - {{ .end }}</span>
-							<em class="event-name">	{{.name}}</em>
-						</a>
-					</li>
-{{end}}
-				</ul>
-			</li>			
-			<li class="events-group">
-				<div class="top-info">
-<span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#ff7e9a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle></svg>{{ .Get 2 }}</span></div>
-
-				<ul>{{ $stage2 := (.Get 2) }}
-					{{ $v1 := where .Site.Data.artists.team "position" $stage2 }}
-					{{ $v2 := where $v1 "day" "=" $daytime }}
-					{{ range sort $v2 "time" "asc" }}
-
-
-					<li id="{{.name}}" class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
-					25:00
-					{{ else }}
-					{{ .end }}
-					{{end}}" data-content="event-abs-circuit" data-event="event-2" style="border-left: 3px solid #ff7e9a">
-						<a>
-							<span class="event-date1">{{ .time }} - {{ .end }}</span>
-							<em class="event-name">	{{.name}}</em>
-						</a>
-					</li>
-{{end}}
-				</ul>
-			</li>			
-			<li class="events-group">
-				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fa8d76" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle></svg>
-					{{ .Get 3 }}</span></div>
-
-				<ul>{{ $stage3 := (.Get 3) }}
-					{{ $v1 := where .Site.Data.artists.team "position" $stage3 }}
-					{{ $v2 := where $v1 "day" "=" $daytime }}
-					{{ range sort $v2 "time" "asc" }}
-
-
-					<li id="{{.name}}" class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
-					25:00
-					{{ else }}
-					{{ .end }}
-					{{end}}" data-content="event-abs-circuit" data-event="event-3" style="border-left: 3px solid #fa8d76;">
-						<a>
-							<span class="event-date1">{{ .time }} - {{ .end }}</span>
-							<em class="event-name">	{{.name}}</em>
-						</a>
-					</li>
-{{end}}
-				</ul>
-			</li>			
-
-			
-		</ul>
 	</div>
-	{{ else }}
-		<div class="events">
-		
+
+	{{ if eq $daytime "Friday" }}
+	<div class="events">
 		<ul style="list-style-type:none;">
 			<li class="events-group 01">
-				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#5dceb4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle></svg>{{ .Get 1 }}</span></div>
-
-				<ul class="list">{{ $daytime := (.Get 0) }}
+				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+							viewBox="0 0 24 24" fill="none" stroke="#5dceb4" stroke-width="3" stroke-linecap="round"
+							stroke-linejoin="round">
+							<circle cx="12" cy="12" r="10"></circle>
+						</svg>{{ .Get 1 }}</span></div>
+				<ul class="list">
+					{{ $daytime := (.Get 0) }}
 					{{ $stage1 := (.Get 1) }}
-					{{ $v1 := where .Site.Data.artists.team "position" $stage1 }}
-					{{ $v2 := where $v1 "day" "=" $daytime }}
-					{{ range sort $v2 "time" "asc" }}
-
-					<li class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
+					{{range sort .Site.Pages ".Params.start" "asc" }}
+					{{if and (in .Params.day $daytime)}}
+					{{if and (in .Params.position $stage1)}}
+					<li class="single-event" data-start="{{ dateFormat "15:04" .Params.start }}" data-end="
+					{{ $endtime := dateFormat "15:04" .Params.end }}
+					{{ if eq $endtime "01:00" }}
 					25:00
-					{{ else }}
-					{{ .end }}
+					{{ else }}{{ dateFormat "15:04" .Params.end }}
 					{{end}}" data-content="event-abs-circuit" data-event="event-1" style="border-left: 3px solid #5dceb4;">
+
 						<a>
-							<span class="event-date1">{{ .time }} - {{ .end }}</span>
-							<em class="event-name">	{{.name}}</em>
+
+							<span class="event-date1"> {{ dateFormat "15:04" .Params.start }} - {{ dateFormat "15:04" .Params.end }}</span>
+							<em class="event-name"> {{.Params.name}} </em>
 						</a>
 					</li>
-{{end}}
+					{{ else }}{{end}}{{ else }}
+					{{end}}{{end}}
 				</ul>
-			</li>			
-			<li class="events-group">
+			</li>
+			<li class="events-group" style="list-style-type:none;">
 				<div class="top-info">
-<span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#ff7e9a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle></svg>{{ .Get 2 }}</span></div>
+					<span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+							stroke="#ff7e9a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+							<circle cx="12" cy="12" r="10"></circle>
+						</svg>{{ .Get 2 }}</span></div>
 
 				<ul>{{ $stage2 := (.Get 2) }}
-					{{ $v1 := where .Site.Data.artists.team "position" $stage2 }}
-					{{ $v2 := where $v1 "day" "=" $daytime }}
-					{{ range sort $v2 "time" "asc" }}
+					{{range sort .Site.Pages ".Params.start" "asc" }}
+					{{if and (in .Params.day $daytime)}}
+					{{if and (in .Params.position $stage2)}}
 
 
-					<li id="{{.name}}" class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
+					<li id="{{.Params.name}}" class="single-event" data-start="{{ dateFormat "15:04" .Params.start }}" data-end="{{ $endtime := dateFormat "15:04" .Params.end }}
+					{{ if eq $endtime "01:00" }}
 					25:00
-					{{ else }}
-					{{ .end }}
+					{{ else }}{{ $endtime }}
 					{{end}}" data-content="event-abs-circuit" data-event="event-2" style="border-left: 3px solid #ff7e9a">
 						<a>
-							<span class="event-date1">{{ .time }} - {{ .end }}</span>
-							<em class="event-name">	{{.name}}</em>
+							<span class="event-date1">{{ dateFormat "15:04" .Params.start }} - {{ dateFormat "15:04" .Params.end }}</span>
+							<em class="event-name"> {{.Params.name}}</em>
 						</a>
 					</li>
-{{end}}
+					{{ else }}{{end}}{{ else }}
+					{{end}}{{end}}
 				</ul>
-			</li>			
-			<li class="events-group">
-				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fa8d76" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle></svg>
-					{{ $stage3 := (.Get 3) }}
-					{{ if eq $stage3 "Play Label" }}
-					{{ .Get 3 }} Records
-					{{ else }}
-					{{ .Get 3 }}
-					{{ end }}</span></div>
+			</li>
+			<li class="events-group" style="list-style-type:none;">
+				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+							viewBox="0 0 24 24" fill="none" stroke="#fa8d76" stroke-width="3" stroke-linecap="round"
+							stroke-linejoin="round">
+							<circle cx="12" cy="12" r="10"></circle>
+						</svg>
+						{{ .Get 3 }}</span></div>
 
 				<ul>{{ $stage3 := (.Get 3) }}
-					{{ $v1 := where .Site.Data.artists.team "position" $stage3 }}
-					{{ $v2 := where $v1 "day" "=" $daytime }}
-					{{ range sort $v2 "time" "asc" }}
+					{{range sort .Site.Pages ".Params.start" "asc" }}
+					{{if and (in .Params.day $daytime)}}
+					{{if and (in .Params.position $stage3)}}
 
 
-					<li id="{{.name}}" class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
+					<li id="{{.Params.name}}" class="single-event" data-start="{{ dateFormat "15:04" .Params.start }}" data-end="{{ $endtime := dateFormat "15:04" .Params.end }}
+					{{ if eq $endtime "01:00" }}
 					25:00
-					{{ else }}
-					{{ .end }}
+					{{ else }}{{ dateFormat "15:04" .Params.end }}
 					{{end}}" data-content="event-abs-circuit" data-event="event-3" style="border-left: 3px solid #fa8d76;">
 						<a>
-							<span class="event-date1">{{ .time }} - {{ .end }}</span>
-							<em class="event-name">	{{.name}}</em>
+							<span class="event-date1">{{ dateFormat "15:04" .Params.start }} - {{ dateFormat "15:04" .Params.end }}</span>
+							<em class="event-name"> {{.Params.name}}</em>
 						</a>
 					</li>
-{{end}}
+					{{ else }}{{end}}{{ else }}
+					{{end}}{{end}}
 				</ul>
-			</li>			
-			<li class="events-group">
-				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#83d1e2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle></svg>{{ .Get 4 }}</span></div>
+			</li>
+			<li class="events-group" style="list-style-type:none;">
+				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+							viewBox="0 0 24 24" fill="none" stroke="#83d1e2" stroke-width="3" stroke-linecap="round"
+							stroke-linejoin="round">
+							<circle cx="12" cy="12" r="10"></circle>
+						</svg>
+						{{ .Get 4 }}</span></div>
 
 				<ul>{{ $stage4 := (.Get 4) }}
-					{{ $v1 := where .Site.Data.artists.team "position" $stage4 }}
-					{{ $v2 := where $v1 "day" "=" $daytime }}
-					{{ range sort $v2 "time" "asc" }}
+					{{range sort .Site.Pages ".Params.start" "asc" }}
+					{{if and (in .Params.day $daytime)}}
+					{{if and (in .Params.position $stage4)}}
 
 
-					<li id="{{.name}}" class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
+					<li id="{{.Params.name}}" class="single-event" data-start="{{ dateFormat "15:04" .Params.start }}" data-end="{{ $endtime := dateFormat "15:04" .Params.end }}
+					{{ if eq $endtime "01:00" }}
 					25:00
-					{{ else }}
-					{{ .end }}
-					{{end}}" data-content="event-abs-circuit" data-event="event-4" style="background-image:url({{.photo}}); background-size:cover; background-position: center;">
+					{{ else }}{{ $endtime }}
+					{{end}}" data-content="event-abs-circuit" data-event="event-4" style="border-left: 3px solid #83d1e2;">
 						<a>
-							<span class="event-date1">{{ .time }} - {{ .end }}</span>
-							<em class="event-name">	{{.name}}</em>
+							<span class="event-date1">{{ dateFormat "15:04" .Params.start }} - {{ dateFormat "15:04" .Params.end }}</span>
+							<em class="event-name"> {{.Params.name}}</em>
 						</a>
 					</li>
-{{end}}
+					{{ else }}{{end}}{{ else }}
+					{{end}}{{end}}
 				</ul>
 			</li>
 
-			
+
+		</ul>
+	</div>
+	{{ else if eq $daytime "Saturday"}}
+	<div class="events">
+		<ul style="list-style-type:none;">
+			<li class="events-group 01">
+				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+							viewBox="0 0 24 24" fill="none" stroke="#5dceb4" stroke-width="3" stroke-linecap="round"
+							stroke-linejoin="round">
+							<circle cx="12" cy="12" r="10"></circle>
+						</svg>{{ .Get 1 }}</span></div>
+
+				<ul class="list">{{ $stage1 := (.Get 1) }}
+					{{range sort .Site.Pages ".Params.start" "asc" }}
+					{{if and (in .Params.day $daytime)}}
+					{{if and (in .Params.position $stage1)}}
+
+					<li class="single-event" data-start="{{ dateFormat "15:04" .Params.start }}" data-end="{{ if eq .Params.end "01:00" }}
+					25:00
+					{{ else }}{{ dateFormat "15:04" .Params.end }}
+					{{end}}" data-content="event-abs-circuit" data-event="event-1" style="border-left: 3px solid #5dceb4;">
+						<a>
+							<span class="event-date1">{{ dateFormat "15:04" .Params.start }} - {{ dateFormat "15:04" .Params.end }}</span>
+							<em class="event-name"> {{.Params.name}}</em>
+						</a>
+					</li>
+					{{ else }}{{end}}{{ else }}
+					{{end}}{{end}}
+				</ul>
+			</li>
+			<li class="events-group">
+				<div class="top-info">
+					<span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+							stroke="#ff7e9a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+							<circle cx="12" cy="12" r="10"></circle>
+						</svg>{{ .Get 2 }}</span></div>
+
+				<ul>{{ $stage2 := (.Get 2) }}
+					{{range sort .Site.Pages ".Params.start" "asc" }}
+					{{if and (in .Params.day $daytime)}}
+					{{if and (in .Params.position $stage2)}}
+
+
+					<li id="{{.Params.name}}" class="single-event" data-start="{{ dateFormat "15:04" .Params.start }}" data-end="{{ $endtime := dateFormat "15:04" .Params.end }}
+					{{ if eq $endtime "01:00" }}
+					25:00
+					{{ else }}{{ dateFormat "15:04" .Params.end }}
+					{{end}}" data-content="event-abs-circuit" data-event="event-2" style="border-left: 3px solid #ff7e9a">
+						<a>
+							<span class="event-date1">{{ dateFormat "15:04" .Params.start }} - {{ dateFormat "15:04" .Params.end }}</span>
+							<em class="event-name"> {{.Params.name}}</em>
+						</a>
+					</li>
+					{{ else }}{{end}}{{ else }}
+					{{end}}{{end}}
+				</ul>
+			</li>
+			<li class="events-group">
+				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+							viewBox="0 0 24 24" fill="none" stroke="#fa8d76" stroke-width="3" stroke-linecap="round"
+							stroke-linejoin="round">
+							<circle cx="12" cy="12" r="10"></circle>
+						</svg>{{ .Get 3 }}
+					</span></div>
+
+				<ul>{{ $stage3 := (.Get 3) }}
+					{{range sort .Site.Pages ".Params.start" "asc" }}
+					{{if and (in .Params.day $daytime)}}
+					{{if and (in .Params.position $stage3)}}
+
+
+					<li id="{{.Params.name}}" class="single-event" data-start="{{ dateFormat "15:04" .Params.start }}" data-end="{{ $endtime := dateFormat "15:04" .Params.end }}
+					{{ if eq $endtime "01:00" }}
+					25:00
+					{{ else }}{{ dateFormat "15:04" .Params.end }}
+					{{end}}" data-content="event-abs-circuit" data-event="event-3" style="border-left: 3px solid #fa8d76;">
+						<a>
+							<span class="event-date1">{{ dateFormat "15:04" .Params.start }} - {{ dateFormat "15:04" .Params.end }}</span>
+							<em class="event-name"> {{.Params.name}}</em>
+						</a>
+					</li>
+					{{ else }}{{end}}{{ else }}
+					{{end}}{{end}}
+				</ul>
+			</li>			
+			<li class="events-group">
+				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+							viewBox="0 0 24 24" fill="none" stroke="#fa8d76" stroke-width="3" stroke-linecap="round"
+							stroke-linejoin="round">
+							<circle cx="12" cy="12" r="10"></circle>
+						</svg>{{ .Get 4 }}
+					</span></div>
+
+				<ul>{{ $stage4 := (.Get 4) }}
+					{{range sort .Site.Pages ".Params.start" "asc" }}
+					{{if and (in .Params.day $daytime)}}
+					{{if and (in .Params.position $stage4)}}
+
+
+					<li id="{{.Params.name}}" class="single-event" data-start="{{ dateFormat "15:04" .Params.start }}" data-end="{{ $endtime := dateFormat "15:04" .Params.end }}
+					{{ if eq $endtime "01:00" }}
+					25:00
+					{{ else }}{{ dateFormat "15:04" .Params.end }}
+					{{end}}" data-content="event-abs-circuit" data-event="event-3" style="border-left: 3px solid #fa8d76;">
+						<a>
+							<span class="event-date1">{{ dateFormat "15:04" .Params.start }} - {{ dateFormat "15:04" .Params.end }}</span>
+							<em class="event-name"> {{.Params.name}}</em>
+						</a>
+					</li>
+					{{ else }}{{end}}{{ else }}
+					{{end}}{{end}}
+				</ul>
+			</li>
+		</ul>
+	</div>
+	{{ else if eq $daytime "Sunday" }}
+	<DIV>
+
+	</DIV>
+	<div class="events">
+		<ul style="list-style-type:none;">
+			<li class="events-group 01">
+				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+							viewBox="0 0 24 24" fill="none" stroke="#5dceb4" stroke-width="3" stroke-linecap="round"
+							stroke-linejoin="round">
+							<circle cx="12" cy="12" r="10"></circle>
+						</svg>{{ .Get 1 }}</span></div>
+				<ul class="list">
+					{{ $daytime := (.Get 0) }}
+					{{ $stage1 := (.Get 1) }}
+					{{range sort .Site.Pages ".Params.start" "asc" }}
+					{{if and (in .Params.day $daytime)}}
+					{{if and (in .Params.position $stage1)}}
+
+					<li class="single-event" data-start="{{ dateFormat "15:04" .Params.start }}" data-end="{{ if eq .Params.end "01:00" }}
+					25:00
+					{{ else }}{{ dateFormat "15:04" .Params.end }}
+					{{end}}" data-content="event-abs-circuit" data-event="event-1" style="border-left: 3px solid #5dceb4;">
+
+						<a>
+
+							<span class="event-date1">{{ dateFormat "15:04" .Params.start }} - {{ dateFormat "15:04" .Params.end }}</span>
+							<em class="event-name"> {{.Params.name}}</em>
+						</a>
+					</li>
+					{{ else }}{{end}}{{ else }}
+					{{end}}{{end}}
+				</ul>
+			</li>
+			<li class="events-group" style="list-style-type:none;">
+				<div class="top-info">
+					<span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+							stroke="#ff7e9a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+							<circle cx="12" cy="12" r="10"></circle>
+						</svg>{{ .Get 2 }}</span></div>
+
+				<ul>{{ $stage2 := (.Get 2) }}
+					{{range sort .Site.Pages ".Params.start" "asc" }}
+					{{if and (in .Params.day $daytime)}}
+					{{if and (in .Params.position $stage2)}}
+
+
+					<li id="{{.Params.name}}" class="single-event" data-start="{{ dateFormat "15:04" .Params.start }}" data-end="{{ $endtime := dateFormat "15:04" .Params.end }}
+					{{ if eq $endtime "01:00" }}
+					25:00
+					{{ else }}{{ dateFormat "15:04" .Params.end }}
+					{{end}}" data-content="event-abs-circuit" data-event="event-2" style="border-left: 3px solid #ff7e9a">
+						<a>
+							<span class="event-date1">{{ dateFormat "15:04" .Params.start }} - {{ dateFormat "15:04" .Params.end }}</span>
+							<em class="event-name"> {{.Params.name}}</em>
+						</a>
+					</li>
+					{{ else }}{{end}}{{ else }}
+					{{end}}{{end}}
+				</ul>
+			</li>
+			<li class="events-group" style="list-style-type:none;">
+				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+							viewBox="0 0 24 24" fill="none" stroke="#fa8d76" stroke-width="3" stroke-linecap="round"
+							stroke-linejoin="round">
+							<circle cx="12" cy="12" r="10"></circle>
+						</svg>
+						{{ .Get 3 }}</span></div>
+
+				<ul>{{ $stage3 := (.Get 3) }}
+					{{range sort .Site.Pages ".Params.start" "asc" }}
+					{{if and (in .Params.position $stage3)}}
+					<li id="{{.Params.name}}" class="single-event" data-start="{{ dateFormat "15:04" .Params.start }}" data-end="{{ $endtime := dateFormat "15:04" .Params.end }}
+					{{ if eq $endtime "01:00" }}
+					25:00
+					{{ else }}{{ $endtime }}
+					{{end}}" data-content="event-abs-circuit" data-event="event-3" style="border-left: 3px solid #fa8d76;">
+						<a>
+							<span class="event-date1">{{ dateFormat "15:04" .Params.start }} - {{ dateFormat "15:04" .Params.end }}</span>
+							<em class="event-name" > {{.Params.name}}</em>
+						</a>
+					</li>
+					{{ else }}{{end}}
+					{{end}}
+				</ul>
+			</li>
+			<li class="events-group" style="list-style-type:none;">
+				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+							viewBox="0 0 24 24" fill="none" stroke="#83d1e2" stroke-width="3" stroke-linecap="round"
+							stroke-linejoin="round">
+							<circle cx="12" cy="12" r="10"></circle>
+						</svg>
+						{{ .Get 4 }}</span></div>
+
+				<ul>{{ $stage4 := (.Get 4) }}
+					{{range sort .Site.Pages ".Params.start" "asc" }}
+					{{if and (in .Params.day $daytime)}}
+					{{if and (in .Params.position $stage4)}}
+
+
+					<li id="{{.Params.name}}" class="single-event" data-start="{{ dateFormat "15:04" .Params.start }}" data-end="{{ $endtime := dateFormat "15:04" .Params.end }}
+					{{ if eq $endtime "01:00" }}
+					25:00
+					{{ else }}{{ dateFormat "15:04" .Params.end }}
+					{{end}}" data-content="event-abs-circuit" data-event="event-4" style="border-left: 3px solid #83d1e2;">
+						<a>
+							<span class="event-date1">{{ dateFormat "15:04" .Params.start }} - {{ dateFormat "15:04" .Params.end }}</span>
+							<em class="event-name"> {{.Params.name}}</em>
+						</a>
+					</li>
+					{{ else }}{{end}}{{ else }}
+					{{end}}{{end}}
+				</ul>
+			</li>
+
+
 		</ul>
 	</div>
 	{{ end }}

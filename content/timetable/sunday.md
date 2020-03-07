@@ -1,9 +1,9 @@
 ---
 uniqueid: sun
 type: timetable
-title: Timetable 2019
+title: Timetable
 ---
 
-{{< daylineup "Sunday" "Silo" "Abstrkt" "Nico Morano & Friends" "Giegling" >}}
+{{< daylineup "Sunday" "Abstrkt" "Giegling" "Silo" " Nico Morano & Friends" >}}
 
 

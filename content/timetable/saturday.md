@@ -1,9 +1,9 @@
 ---
 uniqueid: sat
 type: timetable
-title: Timetable 2019
+title: Timetable
 ---
 
-{{< daylineup "Saturday" "Love" "Paradise City Live" "Play Label" "Giegling" >}}
+{{< daylineup "Saturday" "Love" "Giegling" "Paradise City Live" "Play Label Records">}}
 
 
