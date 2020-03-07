@@ -4,8 +4,8 @@ type: timetable
 title: Timetable
 ---
 
-{{< daylineup "Friday" "Under My Garag" "Giegling" "Hangar" "Nowhere But Here" >}}
-{{< daylineup "Saturday" "Love" "Paradise City Live" "Play Label Records">}}
-{{< daylineup "Sunday" "Abstrkt" "Silo" "Nico Morano & Friends" "Giegling" >}}
+{{< daylineup "Friday" "Under My Garage" "Giegling" "Hangar" "Nowhere But Here" >}}
+{{< daylineup "Saturday" "Love" "Giegling" "Paradise City Live" "Play Label Records">}}
+{{< daylineup "Sunday" "Abstrkt" "Giegling" "Silo" "Nico Morano & Friends" >}}
 
 

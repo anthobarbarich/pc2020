@@ -4,6 +4,6 @@ type: timetable
 title: Timetable
 ---
 
-{{< daylineup "Saturday" "Love" "Paradise City Live" "Play Label Records">}}
+{{< daylineup "Saturday" "Love" "Giegling" "Paradise City Live" "Play Label Records">}}
 
 
