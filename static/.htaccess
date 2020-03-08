@@ -59,4 +59,6 @@
 
 ErrorDocument 404 /404/index.html
 
-RedirectPermanent /greencard https://frontoffice.paylogic.nl/?event_id=124808&point_of_sale_id=17428
+RedirectPermanent /greencard https://frontoffice.paylogic.nl/?point_of_sale_id=17428&event_id=133545
+RedirectPermanent /timetable https://paradisecity.be/timetable/friday
+RedirectPermanent /legal https://paradisecity.be/docs/ALGEMENE-VOORWAARDEN-PCF-2020.pdf
