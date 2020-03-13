@@ -23,7 +23,7 @@ partner:
   photo: "/v1580823503/knack_72_rgb-2_a27m8e.png"
   position: https://focus.levif.be/culture/
 - name: Focus VIF
-  photo: "/v1580823273/focusvif_zw_jcde9p.png"
+  photo: "/v1584108081/LE_VIF_2019_CMYK_bf5ae4.jpg"
   position: https://focus.levif.be/culture/?cookie_check=1558687574
 - name: Somersby
   photo: "/v1580823321/somersby-logo-1_lqcz82.png"
