@@ -26,6 +26,4 @@ To be honest this is a very tough blow for our organization, partners and volunt
 
 Paradise City has always been and will always be about hope for a better and sustainable future. As a society we need to come better out of this. It is clear, we are all connected, and solidarity will be essential to tackle Covid-19 and other future challenges. Also, the crucial role of culture is at risk, so don’t forget to support your cultural spaces. Let’s ensure there is this joyful and rich life to go back to when this is all over.
 
-Of course, all tickets will stay valid for next year and you can find all the info & possibilities regarding your ticket [**here**](https://paradisecity.be/covid-19-update/).
-
 Dear friends, in these difficult times, keep your head up and your heart strong. We will miss you this year, but don’t forget there will be an end to this, and we will dance together again.
