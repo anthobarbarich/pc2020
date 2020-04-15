@@ -18,14 +18,18 @@ featured: []
 ---
 ### DEAREST CITIZENS,
 
-**People make the party, and what a party it was in 2019. Of course, with an increase of popularity comes the challenge of respecting the vibe and comfort of the early days, but rest assured, the vibe & energy remain our primary focus, not the numbers.**
+**Paradise City will not take place in 2020 and will be postponed to June 25, 26 & 27 2021. Although this decision was to be expected, we are heartbroken! We had so many beautiful surprises prepared for you, but sadly the Covid-19 crisis does not allow for Paradise City to take place. Our society is confronted with one of the greatest challenges of our lifetime, and public health is now the priority.**
 
-We build our festival for you, to create intense moments, memories for life, like the goosebumps when hearing your favorite tune for the first time, the rush when feeling connected with the rest of the crowd, or the utter joy that comes along with the camaraderie between likeminded spirits.
+Since the start of the crisis, we have been looking at other dates later this year, but we’ve concluded that we cannot make any compromises on Paradise City. That’s why we prefer to focus all our efforts on 2021 in order to give you the best festival experience possible while maintaining our commitment to limit our environmental footprint.
 
-We are very proud of this year’s line-up: we will take you on a musical trip that was made for your hearts, not the charts.
+To be honest this is a very tough blow for our organization, partners and volunteers. It will be a difficult year, as our income will simply evaporate. We realize this crisis will also take its financial toll on many citizens. But our community is strong, and we hope we can rely on your support.
 
-Paradise City aims to be part of the transition towards environmental responsibility in our society. Sustainability sits at the core of the Paradise City DNA and like each year we will take additional steps to lower our ecological footprint.
+Paradise City has always been and will always be about hope for a better and sustainable future. As a society we need to come better out of this. It is clear, we are all connected, and solidarity will be essential to tackle Covid-19 and other future challenges. Also, the crucial role of culture is at risk, so don’t forget to support your cultural spaces. Let’s ensure there is this joyful and rich life to go back to when this is all over.
 
-The countdown has begun. Let’s come together again at the end of June for 3 days in Paradise.
+Of course, all tickets will stay valid for next year and you can find all the info & possibilities regarding your ticket [**here**](https://paradisecity.be/covid-19-update/).
+
+Dear friends, in these difficult times, keep your head up and your heart strong. We will miss you this year, but don’t forget there will be an end to this, and we will dance together again.
 
 **One Love**
+
+**Paradise City Team**
