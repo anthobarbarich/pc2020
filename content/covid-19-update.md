@@ -1,7 +1,6 @@
 +++
 application = []
 camping = []
-draft = true
 festival = []
 lostfound = []
 money = []
