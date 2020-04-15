@@ -18,7 +18,7 @@ volunteers = []
 +++
 We are extremely sad that Paradise City will not be taking place this June. We are very disappointed about this but it’s for the best. In the meantime, we’re already focussed on 2021 in order to give you the best possible festival experience while maintaining our commitment to limit our environmental footprint. This is a severe blow for our organisation and we hope we can count on your support for the future. Of course, all tickets will be valid for next year.
 
-Here are some FAQ about your purchased tickets :
+**Here are some FAQ about your purchased tickets :**
 
 **When will Paradise City take place in 2021?**
 
