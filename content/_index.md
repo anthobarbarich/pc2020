@@ -16,9 +16,9 @@ greentext: Any gathering of a large number of people can have a potential negati
 featured: []
 
 ---
-### DEAREST CITIZENS,
+**Dearest Citizens,**
 
-**Paradise City will not take place in 2020 and will be postponed to June 25, 26 & 27 2021. Although this decision was to be expected, we are heartbroken! We had so many beautiful surprises prepared for you, but sadly the Covid-19 crisis does not allow for Paradise City to take place. Our society is confronted with one of the greatest challenges of our lifetime, and public health is now the priority.**
+Paradise City will not take place in 2020 and will be postponed to June 25, 26 & 27 2021. Although this decision was to be expected, we are heartbroken! We had so many beautiful surprises prepared for you, but sadly the Covid-19 crisis does not allow for Paradise City to take place. Our society is confronted with one of the greatest challenges of our lifetime, and public health is now the priority.
 
 Since the start of the crisis, we have been looking at other dates later this year, but we’ve concluded that we cannot make any compromises on Paradise City. That’s why we prefer to focus all our efforts on 2021 in order to give you the best festival experience possible while maintaining our commitment to limit our environmental footprint.
 
@@ -29,7 +29,3 @@ Paradise City has always been and will always be about hope for a better and sus
 Of course, all tickets will stay valid for next year and you can find all the info & possibilities regarding your ticket [**here**](https://paradisecity.be/covid-19-update/).
 
 Dear friends, in these difficult times, keep your head up and your heart strong. We will miss you this year, but don’t forget there will be an end to this, and we will dance together again.
-
-**One Love**
-
-**Paradise City Team**
