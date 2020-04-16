@@ -287,8 +287,9 @@ covid:
     on our Hall of Fame that will be visible at the entrance of Paradise City 2021.
     The option to donate will be featured in the voucher system that’s coming end
     of April.
-- question: ''
-  answer: ''
+- question: What do I need to do about personalizing my ticket?
+  answer: This is not necessary at the moment. We will keep you updated about this
+    later on.
 - question: ''
   answer: ''
 - question: ''
