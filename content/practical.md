@@ -254,6 +254,33 @@ green_card:
   answer: A Green Card gives you a reduction because you already came to a previous
     edition of the festival. An Early Bird ticket also gives you a reduction but only
     because you buy it earlier.
+covid:
+- question: When will Paradise City take place in 2021?
+  answer: Dates for 2021 are 25, 26 & 27th of June.
+- question: ''
+  answer: ''
+- question: ''
+  answer: ''
+- question: ''
+  answer: ''
+- question: ''
+  answer: ''
+- question: ''
+  answer: ''
+- question: ''
+  answer: ''
+- question: ''
+  answer: ''
+- question: ''
+  answer: ''
+- question: ''
+  answer: ''
+- question: ''
+  answer: ''
+- question: ''
+  answer: ''
+- question: ''
+  answer: ''
 
 ---
 Looking for info about the festival, tickets, access? You're at the right place!
