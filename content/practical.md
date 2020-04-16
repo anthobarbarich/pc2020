@@ -296,8 +296,11 @@ covid:
   answer: If you won a ticket through our channels no worries, you will get a free
     ticket for next year’s edition. If you won a ticket through another channel, please
     contact them directly.
-- question: ''
-  answer: ''
+- question: I purchased an accommodation for this edition, what do I need to do?
+  answer: |-
+    Of course the accommodations you purchased will be valid for next year, you don’t need to do anything about it.
+
+    If you’re not sure you’ll need the same accommodation next year you can request a voucher and use it to shop on our webshop next year! The system to request vouchers is in the making by our partner Paylogic, more info on this in the coming weeks.
 - question: ''
   answer: ''
 - question: ''
