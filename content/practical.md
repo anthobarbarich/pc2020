@@ -273,8 +273,9 @@ covid:
   answer: Our ticket partner Paylogic is currently working on this solution and it
     should be ready in about 2 weeks. Once the interface is ready, you’ll be able
     to request your voucher and you’ll receive it in June.
-- question: ''
-  answer: ''
+- question: Can I choose the voucher option for each ticket, or will it be applied
+    to all the tickets I purchased?
+  answer: No worries, you can choose the voucher option per ticket.
 - question: ''
   answer: ''
 - question: ''
