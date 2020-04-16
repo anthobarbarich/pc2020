@@ -292,8 +292,10 @@ covid:
     later on.
 - question: I bought an e-ticket via Ticketswap
   answer: Tickets purchased via Ticketswap also remain valid for next year.
-- question: ''
-  answer: ''
+- question: I won a ticket through a contest or a giveaway
+  answer: If you won a ticket through our channels no worries, you will get a free
+    ticket for next year’s edition. If you won a ticket through another channel, please
+    contact them directly.
 - question: ''
   answer: ''
 - question: ''
