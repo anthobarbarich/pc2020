@@ -257,6 +257,9 @@ green_card:
 covid:
 - question: When will Paradise City take place in 2021?
   answer: Dates for 2021 are 25, 26 & 27th of June.
+- question: What do I need to do if I have a ticket and want to come in 2021?
+  answer: All tickets purchased will automatically be valid for next year, you don’t
+    need to do anything, just keep your tickets in your mailbox.
 - question: ''
   answer: ''
 - question: ''
@@ -279,8 +282,7 @@ covid:
   answer: ''
 - question: ''
   answer: ''
-- question: ''
-  answer: ''
+draft: true
 
 ---
 Looking for info about the festival, tickets, access? You're at the right place!
