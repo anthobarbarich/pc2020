@@ -317,6 +317,11 @@ covid:
   answer: This voucher will only be valid for Paradise City 2021 and Paradise City
     2022. Of course, the voucher is only valid for tickets that are not sold out so
     don’t hesitate to use it as soon as possible to avoid disappointment.
+- answer: When requested you’ll receive a unique code by email that you’ll be able
+    to enter in our webshop when ticket sale starts.
+  question: What does this voucher look like?
+- question: ''
+  answer: ''
 
 ---
 Looking for info about the festival, tickets, access? You're at the right place!
