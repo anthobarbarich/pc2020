@@ -5,8 +5,6 @@ thumbnail = "/v1586968709/WhatsApp_Image_2020-04-15_at_17.33.33_fxvw6p.jpg"
 title = "Covid 19 update"
 
 +++
-![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1586968709/WhatsApp_Image_2020-04-15_at_17.33.33_fxvw6p.jpg)
-
 Dearest Citizens,
 
 Paradise City will not take place in 2020 and will be postponed to June 25, 26 & 27 2021. Although this decision was to be expected, we are heartbroken! We had so many beautiful surprises prepared for you, but sadly the Covid-19 crisis does not allow for Paradise City to take place. Our society is confronted with one of the greatest challenges of our lifetime, and public health is now the priority.
@@ -21,7 +19,6 @@ Of course, all tickets will stay valid for next year and you can find all the in
 
 Dear friends, in these difficult times, keep your head up and your heart strong. We will miss you this year, but don’t forget there will be an end to this, and we will dance together again.
 
-  
 One love,
 
 Paradise City Team
