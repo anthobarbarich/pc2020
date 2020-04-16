@@ -313,8 +313,10 @@ covid:
     be able to use that voucher to choose products in our webshop for Paradise City
     2021. For example, you can ask a voucher for your Saturday ticket and use it to
     buy a weekend ticket You’ll have to add the difference in value of course.
-- question: ''
-  answer: ''
+- question: Until when can I use this voucher?
+  answer: This voucher will only be valid for Paradise City 2021 and Paradise City
+    2022. Of course, the voucher is only valid for tickets that are not sold out so
+    don’t hesitate to use it as soon as possible to avoid disappointment.
 
 ---
 Looking for info about the festival, tickets, access? You're at the right place!
