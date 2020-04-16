@@ -260,10 +260,19 @@ covid:
 - question: What do I need to do if I have a ticket and want to come in 2021?
   answer: All tickets purchased will automatically be valid for next year, you don’t
     need to do anything, just keep your tickets in your mailbox.
-- question: ''
-  answer: ''
-- question: ''
-  answer: ''
+- question: I want to come next year but I’m not sure I can come on the same day(s),
+    how can I do that?
+  answer: If you want to come next year but you are not sure which day or if you want
+    to switch to the full journey, you will be able to request a voucher. That voucher
+    will have the same value as your ticket and you’ll be able to buy a ticket on
+    our 2021 ticket shop with it. Our ticket partner Paylogic is currently developing
+    the voucher functionality. They are attempting to handle this as quickly and properly
+    as possible. We will keep you updated on this in the coming weeks when the system
+    will be ready.
+- question: 'When will this voucher option be available? '
+  answer: Our ticket partner Paylogic is currently working on this solution and it
+    should be ready in about 2 weeks. Once the interface is ready, you’ll be able
+    to request your voucher and you’ll receive it in June.
 - question: ''
   answer: ''
 - question: ''
