@@ -290,8 +290,8 @@ covid:
 - question: What do I need to do about personalizing my ticket?
   answer: This is not necessary at the moment. We will keep you updated about this
     later on.
-- question: ''
-  answer: ''
+- question: I bought an e-ticket via Ticketswap
+  answer: Tickets purchased via Ticketswap also remain valid for next year.
 - question: ''
   answer: ''
 - question: ''
