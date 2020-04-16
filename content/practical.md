@@ -301,10 +301,18 @@ covid:
     Of course the accommodations you purchased will be valid for next year, you don’t need to do anything about it.
 
     If you’re not sure you’ll need the same accommodation next year you can request a voucher and use it to shop on our webshop next year! The system to request vouchers is in the making by our partner Paylogic, more info on this in the coming weeks.
-- question: ''
-  answer: ''
-- question: ''
-  answer: ''
+- question: I’m a Paradise City Ambassador (Verve) and want to know what will happen
+    with my rewards?
+  answer: First of all, we want to thank you for your enthusiasm so far! We’re still
+    working on a solution together with Verve but your points will be valid for next
+    year’s program, prices and rewards will keep the same value. More info will be
+    shared on the right channels, keep an eye on the Facebook group!
+- question: What’s the voucher worth?
+  answer: The voucher you request has the same value as your previous order, that
+    means the price of the ticket, the service costs and the transaction costs. You’ll
+    be able to use that voucher to choose products in our webshop for Paradise City
+    2021. For example, you can ask a voucher for your Saturday ticket and use it to
+    buy a weekend ticket You’ll have to add the difference in value of course.
 - question: ''
   answer: ''
 
