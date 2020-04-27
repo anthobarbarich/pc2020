@@ -1,10 +1,7 @@
 ---
 imgvideo: ''
-lineuptitle: 'LINE-UP : Already announced'
-lineuptxt: |-
-  2manydjs - Acid Pauli - Adriatique - Âme Live - Axel Boman - Ben UFO - Ceephax Acid Crew Live - Charlotte Adigéry - Courtesy - Dan Shake - Edward - Hunee - Innellea Live - Jaguar Jaguar - Kalabrese & Rumpelorchester - Kerri Chandler - KiNK Live - Kruder & Dorfmeister - Leafar Legov Live - Levon Vincent - Lola Haro - Map.ache Live - Max Cooper Live - Mézigue - Move D - Mr. G Live - Nico Morano - Or:la - Ry X & Frank Wiedemann present Howling - Trikk - Vril Live
-
-  & many more
+lineuptitle: ''
+lineuptxt: ''
 greentext: Any gathering of a large number of people can have a potential negative
   impact on air, soil, water, resources and people. This includes not only the location
   where the event takes place but also the impacts beyond. We are conscious about
