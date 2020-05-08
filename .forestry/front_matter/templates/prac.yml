@@ -15,6 +15,16 @@ fields:
   name: opengraph
   label: opengraph
 - type: field_group_list
+  name: covid
+  label: covid
+  fields:
+  - type: text
+    name: question
+    label: question
+  - type: text
+    name: answer
+    label: answer
+- type: field_group_list
   name: festival
   label: festival
   fields:
@@ -142,15 +152,5 @@ fields:
     name: question
     label: question
   - type: textarea
-    name: answer
-    label: answer
-- type: field_group_list
-  name: covid
-  label: covid
-  fields:
-  - type: text
-    name: question
-    label: question
-  - type: text
     name: answer
     label: answer
