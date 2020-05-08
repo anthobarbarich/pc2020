@@ -317,10 +317,12 @@ covid:
     to enter in our webshop when ticket sale starts.
   question: What does this voucher look like?
 - question: I really can’t make it to Paradise City 2021, what can I do?
-  answer: |-
-    That’s too bad but we understand. You can always sell your ticket to a friend or on Ticketswap. That way you’re helping us ensure Paradise City will exist next year. You bought the ticket at green card or early bird value, so it should be fairly easy to sell your ticket on Ticketswap. If you really need your money back you can ask for a refund (also possible per ticket). Our ticket partner, Paylogic, will have a form allowing you to request a refund, more info on this in the coming weeks. Please, consider using this option only if you have no other way – any support is welcome and will help us get through these tough times together.
-
-    For any additional questions you can contact us at info@paradisecity.be
+  answer: That’s too bad but we understand. You can always sell your ticket to a friend
+    or on Ticketswap. That way you’re helping us ensure Paradise City will exist next
+    year. You bought the ticket at green card or early bird value, so it should be
+    fairly easy to sell your ticket on Ticketswap. If you really need your money back
+    please contact us at info@paradisecity.be before the 28th of June 2020 (also possible
+    per ticket)
 
 ---
 Looking for info about the festival, tickets, access? You're at the right place!
