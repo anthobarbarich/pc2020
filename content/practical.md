@@ -273,16 +273,15 @@ covid:
     to all the tickets I purchased?
   answer: No worries, you can choose the voucher option per ticket.
 - question: 'I would like to give (a part of) my ticket value to the festival! '
-  answer: We know many of your will also be financially affected by this crisis. But
-    if you have the means to support our project and donate to Paradise City that
+  answer: 'We know many of your will also be financially affected by this crisis.
+    But if you have the means to support our project and donate to Paradise City that
     would be highly appreciated. The reality is that our organisation will be in a
     severe financial turmoil, all our income will evaporate and already many costs
     for organising the 2020 edition have been made. Also there is no insurance to
     cover this pandemic. Those donations will be exclusively used for green initiatives
     at the festival in 2021. As a token of appreciation, we will list all our supporters
     on our Hall of Fame that will be visible at the entrance of Paradise City 2021.
-    The option to donate will be featured in the voucher system that’s coming end
-    of April.
+    The option to donate is featured in the voucher system: https://consumer.paylogic.nl/request-order-access/'
 - question: What do I need to do about personalizing my ticket?
   answer: This is not necessary at the moment. We will keep you updated about this
     later on.
