@@ -30,15 +30,15 @@ All tickets purchased will automatically be valid for next year, you don’t nee
 
 **I want to come next year but I’m not sure I can come on the same day(s), how can I do that?**
 
-If you want to come next year but you are not sure which day or if you want to switch to the full journey, you will be able to request a voucher. That voucher will have the same value as your ticket and you’ll be able to buy a ticket on our 2021 ticket shop with it. Our ticket partner Paylogic is currently developing the voucher functionality. They are attempting to handle this as quickly and properly as possible. We will keep you updated on this in the coming weeks when the system will be ready.
+If you want to come next year but you are not sure which day or if you want to switch to the full journey, you can now request a voucher [here](https://consumer.paylogic.nl/request-order-access/). That voucher will have the same value as your ticket and you’ll be able to buy a ticket on our 2021 or 2022 ticket shop with it.
 
 **When will this voucher option be available?**
 
-Our ticket partner Paylogic is currently working on this solution and it should be ready in about 2 weeks. Once the interface is ready, you’ll be able to request your voucher and you’ll receive it in June.
+The interface is now ready and you can request your voucher [here](https://consumer.paylogic.nl/request-order-access/). 
 
 **I would like to give (a part of) my ticket value to the festival!**
 
-We know many of your will also be financially affected by this crisis. But if you have the means to support our project and donate to Paradise City that would be highly appreciated. The reality is that our organisation will be in a severe financial turmoil, all our income will evaporate and already many costs for organising the 2020 edition have been made. Also there is no insurance to cover this pandemic. Those donations will be exclusively used for green initiatives at the festival in 2021. As a token of appreciation, we will list all our supporters on our Hall of Fame that will be visible at the entrance of Paradise City 2021. The option to donate will be featured in the voucher system that’s coming end of April.
+We know many of your will also be financially affected by this crisis. But if you have the means to support our project and donate to Paradise City that would be highly appreciated. The reality is that our organisation will be in a severe financial turmoil, all our income will evaporate and already many costs for organising the 2020 edition have been made. Also there is no insurance to cover this pandemic. Those donations will be exclusively used for green initiatives at the festival in 2021. As a token of appreciation, we will list all our supporters on our Hall of Fame that will be visible at the entrance of Paradise City 2021. The option to donate is featured in the voucher system.
 
 **What do I need to do about personalizing my ticket?**
 
@@ -56,7 +56,7 @@ If you won a ticket through our channels no worries, you will get a free ticket 
 
 Of course the accommodations you purchased will be valid for next year, you don’t need to do anything about it.
 
-If you’re not sure you’ll need the same accommodation next year you can request a voucher and use it to shop on our webshop next year! The system to request vouchers is in the making by our partner Paylogic, more info on this in the coming weeks.
+If you’re not sure you’ll need the same accommodation next year you can request a voucher and use it to shop on our webshop next year! You can access the system to request your voucher [here](https://consumer.paylogic.nl/request-order-access/). 
 
 **I’m a Paradise City Ambassador (Verve) and want to know what will happen with my rewards?**
 
@@ -64,7 +64,9 @@ First of all, we want to thank you for your enthusiasm so far! We’re still wor
 
 **What’s the voucher worth?**
 
-The voucher you request has the same value as your previous order, that means the price of the ticket, the service costs and the transaction costs. You’ll be able to use that voucher to choose products in our webshop for Paradise City 2021. For example, you can ask a voucher for your Saturday ticket and use it to buy a weekend ticket You’ll have to add the difference in value of course.
+The voucher you request has the same value as your previous order, that means the price of the ticket, the service costs and the transaction costs. You can use that voucher to choose products in our webshop for Paradise City 2021 or 2022 and for all the merchandising we’ll release soon. 
+
+For example, you can ask a voucher for your Saturday ticket and use it to buy a weekend ticket. You’ll have to add the difference in value of course.
 
 **Until when can I use this voucher?**
 
@@ -76,6 +78,6 @@ When requested you’ll receive a unique code by email that you’ll be able to 
 
 **I really can’t make it to Paradise City 2021, what can I do?**
 
-That’s too bad but we understand. You can always sell your ticket to a friend or on Ticketswap. That way you’re helping us ensure Paradise City will exist next year. You bought the ticket at green card or early bird value, so it should be fairly easy to sell your ticket on Ticketswap. If you really need your money back you can ask for a refund (also possible per ticket). Our ticket partner, Paylogic, will have a form allowing you to request a refund, more info on this in the coming weeks. Please, consider using this option only if you have no other way – any support is welcome and will help us get through these tough times together.
+That’s too bad but we understand. You can always sell your ticket to a friend or on Ticketswap. That way you’re helping us ensure Paradise City will exist next year. You bought the ticket at green card or early bird value, so it should be fairly easy to sell your ticket on Ticketswap. If you really need your money back you can ask for a refund before the 28th of June (also possible per ticket). 
 
 For any additional questions you can contact us at info@paradisecity.be
