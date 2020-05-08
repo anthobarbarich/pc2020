@@ -268,9 +268,7 @@ covid:
     it in our ticket shop on all the products and for all the merchandising we’ll
     release soon.'
 - question: 'When will this voucher option be available? '
-  answer: Our ticket partner Paylogic is currently working on this solution and it
-    should be ready in about 2 weeks. Once the interface is ready, you’ll be able
-    to request your voucher and you’ll receive it in June.
+  answer: 'The interface is now ready and you can request your voucher here: https://consumer.paylogic.nl/request-order-access/'
 - question: Can I choose the voucher option for each ticket, or will it be applied
     to all the tickets I purchased?
   answer: No worries, you can choose the voucher option per ticket.
