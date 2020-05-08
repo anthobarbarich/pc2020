@@ -1,0 +1,156 @@
+---
+label: Prac
+hide_body: false
+fields:
+- type: text
+  name: uniqueid
+  label: uniqueid
+- type: text
+  name: type
+  label: type
+- type: text
+  name: title
+  label: title
+- type: file
+  name: opengraph
+  label: opengraph
+- type: field_group_list
+  name: festival
+  label: festival
+  fields:
+  - type: textarea
+    name: answer
+    label: answer
+  - type: text
+    name: question
+    label: question
+- type: field_group_list
+  name: transport
+  label: transport
+  fields:
+  - type: textarea
+    name: answer
+    label: answer
+  - type: text
+    name: question
+    label: question
+- type: field_group_list
+  name: tickets
+  label: tickets
+  fields:
+  - type: text
+    name: answer
+    label: answer
+  - type: text
+    name: question
+    label: question
+- type: field_group_list
+  name: money
+  label: money
+  fields:
+  - type: textarea
+    name: answer
+    label: answer
+  - type: text
+    name: question
+    label: question
+- type: field_group_list
+  name: safety
+  label: safety
+  fields:
+  - type: textarea
+    name: answer
+    label: answer
+  - type: text
+    name: question
+    label: question
+- type: field_group_list
+  name: camping
+  label: camping
+  fields:
+  - type: textarea
+    name: answer
+    label: answer
+  - type: text
+    name: question
+    label: question
+- type: field_group_list
+  name: others
+  label: others
+  fields:
+  - type: textarea
+    name: answer
+    label: answer
+  - type: text
+    name: question
+    label: question
+- type: field_group_list
+  name: application
+  label: application
+  fields:
+  - type: text
+    name: answer
+    label: answer
+  - type: text
+    name: question
+    label: question
+- type: field_group_list
+  name: lostfound
+  label: lostfound
+  fields:
+  - type: textarea
+    name: answer
+    label: answer
+  - type: text
+    name: question
+    label: question
+- type: field_group_list
+  name: volunteers
+  label: volunteers
+  fields:
+  - type: textarea
+    name: answer
+    label: answer
+  - type: text
+    name: question
+    label: question
+- type: field_group_list
+  name: press
+  label: press
+  fields:
+  - type: textarea
+    name: answer
+    label: answer
+  - type: text
+    name: question
+    label: question
+- type: field_group
+  name: greencard
+  label: greencard
+  fields:
+  - type: text
+    name: question
+    label: question
+  - type: text
+    name: answer
+    label: answer
+- type: field_group_list
+  name: green_card
+  label: green_card
+  fields:
+  - type: text
+    name: question
+    label: question
+  - type: textarea
+    name: answer
+    label: answer
+- type: field_group_list
+  name: covid
+  label: covid
+  fields:
+  - type: text
+    name: question
+    label: question
+  - type: text
+    name: answer
+    label: answer
