@@ -78,4 +78,4 @@ When requested you’ll receive a unique code by email that you’ll be able to 
 
 **I really can’t make it to Paradise City 2021, what can I do?**
 
-If you really need your money back please contact us at info@paradisecity.be before the 28th of June 2020 (also possible per ticket).
+That’s too bad but we understand. You can always sell your ticket to a friend or on Ticketswap. That way you’re helping us ensure Paradise City will exist next year. You bought the ticket at green card or early bird value, so it should be fairly easy to sell your ticket on Ticketswap. If you really need your money back please contact us at info@paradisecity.be before the 28th of June 2020 (also possible per ticket)
