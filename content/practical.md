@@ -321,7 +321,7 @@ covid:
     or on Ticketswap. That way you’re helping us ensure Paradise City will exist next
     year. You bought the ticket at green card or early bird value, so it should be
     fairly easy to sell your ticket on Ticketswap. If you really need your money back
-    please contact us at info@paradisecity.be before the 28th of June 2020 (also possible
+    please contact us at info@paradisecity.be before the 8th of June 2020 (also possible
     per ticket)
 
 ---
