@@ -16,5 +16,6 @@ fields:
   label: Image Opengraph
   description: 1080x1080 or 1200x650
 pages:
+- content/boats-live-stream.md
 - content/get-involved.md
 - content/steenokkerzeel.md
