@@ -18,7 +18,11 @@ On this special occasion, **_200 lucky citizens_** will be able to attend the ev
 
 Winners will be able to choose 7 people that will join them on the boat - only from their restricted 10-person bubble (family, roommates, close friends).
 
-#### **IMPORTANT INFO**
+Grab your chance to win a boat for you and your friends!
+
+<a class="btn" href="www.paradisecity.be/boatsregistration"> Participate Here </a>
+
+### **IMPORTANT INFO**
 
 ▩ The event takes place on 2 days. Each winner can join us on 1 day.  
 ▩ Opening time : 18:00 - 22:00.  
@@ -33,11 +37,7 @@ Winners will be able to choose 7 people that will join them on the boat - only f
 ▩ The Steenokkerzeel police insists that only people with an invitation should show up at the venue.  
 ▩ Winners of the contest will get additional guidelines in their mailbox.
 
-####   
+###   
 **LIVE STREAM**
 
 Because of the very limited capacity we wanted to push the barriers and be able to connect with as many citizens as possible. That’s why we will live stream the event via a dedicated platform created by Accenture interactive, in which friends can hop on virtual boats, invite friends and chat with them while enjoying the stream.
-
-Grab your chance to win a boat for you and your friends!
-
-<a class="btn" href="www.paradisecity.be/boatsregistration"> Participate Here </a>
