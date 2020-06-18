@@ -20,15 +20,15 @@ Winners will be able to choose 7 of their friends to share their boat with (only
 
 **Wednesday July 1st**
 
-* Âme (live)
-* DTM Funk
-* Leafar Legov (Giegling)
+Âme (live)  
+DTM Funk  
+Leafar Legov (Giegling)
 
 **Thursday July 2nd**
 
-* Beraadgeslagen
-* Charlotte Adigéry
-* Lola Haro
+Beraadgeslagen  
+Charlotte Adigéry  
+Lola Haro
 
 Grab your chance to win a boat for you and your friends! Winners will be contacted by e-mail next week!
 
