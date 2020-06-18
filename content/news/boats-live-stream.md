@@ -12,7 +12,7 @@ Even though we won't be able to meet end of June as planned, we feel the need to
 
 Winners will be able to choose 7 people to share their boat with (only from their restricted 10-person bubble). These boats will allow people to participate in the event in a corona proof way.
 
-##### **FULL LINE UP**
+#### **FULL LINE UP**
 
 ![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1592482849/artistsboats_qwzc0k.jpg)
 
