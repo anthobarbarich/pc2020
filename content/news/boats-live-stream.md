@@ -1,6 +1,5 @@
 +++
 date = 2020-06-18T14:25:00Z
-draft = true
 layout = "blog"
 thumbnail = "/v1592490459/Paradise_City_2019_-_Photo_by_Fille_Roelants-206_ixitfe.jpg"
 title = "Boats Live Stream"
