@@ -8,18 +8,36 @@ uniqueid = ""
 
 Dear citizens,
 
-We've been working on something that will give us a chance to reconnect. On July 1st and 2nd, we’ll be livestreaming from the beautiful domain of Ribaucourt with some carefully selected artists in presence of 400 lucky citizens. A kind of small festival **_on boats_**.
+We've missed you... But we've been working on something that will give us a chance to reconnect. On July 1st and 2nd, we’ll be live streaming from the beautiful domain of Ribaucourt with some carefully selected artists and in presence of 200 lucky citizens each day. A kind of intimate edition of Paradise City.
 
-Line-up: 
+Line-up:
 
 **ÂME (Live) - BERAADGESLAGEN - CHARLOTTE ADIGÉRY - DTM FUNK - LEAFAR LEGOV - LOLA HARO**
 
-On this special occasion, **_400 contest winners_** will be able to attend for free and live concerts and DJ-sets, from a boat. These boats will allow people to participate in the event in a corona proof way.
+On this special occasion, **_200 lucky citizens_** will be able to attend the event for free and enjoy live concerts and DJ-sets, from boats. These boats will allow people to participate in the event in a corona proof way.
 
 Winners will be able to choose the 7 people who will join them on the boat - only from their restricted 10-person lockdown bubble (family, roommates, close friends).
 
-The event will be streamed online from 6 to 10pm via a dedicated platform created by Accenture interactive, in which you and your friends can hop on virtual boats and chat while enjoying the stream.
+#### **IMPORTANT INFO**
 
-Grab your chance to win a place on the boat!
+▩ The event takes place on 2 days. Each winner can join us on 1 day.  
+▩ Opening time : 18:00 - 22:00.  
+▩ There will be drinks and food available, no orders at bars.  
+▩ No dancing allowed on the boats. You can stand or sit.  
+▩ No more than 8 people per boat. Be sure to meet up with your whole bubble before getting on your boat.  
+▩ All personnel and crew will wear masks.  
+▩ Wash and disinfect your hands whenever possible.  
+▩ Keep 1,5m distance from each other at all times.  
+▩ Please stay home if you feel sick or unwell.  
+▩ Bring your face mask with you, it will only serve in case of emergency.  
+▩ The Steenokkerzeel police insists that only people with an invitation should show up at the venue.  
+▩ Winners of the contest will get additional guidelines in their mailbox.
 
-<a class="btn" href="www.paradisecity.be/boatsregistration"> Register here </a>
+####   
+**LIVE STREAM**
+
+Because of the very limited capacity we wanted to push the barriers and be able to connect with as many citizens as possible. That’s why we will live stream the event via a dedicated platform created by Accenture interactive, in which friends can hop on virtual boats, invite friends and chat with them while enjoying the stream.
+
+Grab your chance to win a boat for you and your friends!
+
+<a class="btn" href="www.paradisecity.be/boatsregistration"> Participate Here </a>
