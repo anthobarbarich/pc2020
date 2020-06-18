@@ -43,7 +43,7 @@ Grab your chance to win a boat for you and your friends! Winners will be contact
 ▩ No more than 8 people per boat. Be sure to meet up with your whole bubble before getting on your boat.  
 ▩ All personnel and crew will wear masks.  
 ▩ Wash and disinfect your hands whenever possible.  
-▩ Respect social distancing. Keep 1,5m distance from each when queueing.  
+▩ Respect social distancing. Keep 1,5m distance from each other when queueing.  
 ▩ Please stay home if you feel sick or unwell.  
 ▩ Bring your mask with you, it will only serve in case of emergency.  
 ▩ The Steenokkerzeel police insists that only people with an invitation should show up at the venue.  
