@@ -13,6 +13,6 @@ Winners will be able to choose 7 people to share their boat with (only from thei
 
 #### **FULL LINE UP**
 
-![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1592482849/artistsboats_qwzc0k.jpg)
+![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1592493996/artistsboats_2_wbp1ss.jpg)
 
 More info right [**here**](https://paradisecity.be/boats-live-stream/) !
