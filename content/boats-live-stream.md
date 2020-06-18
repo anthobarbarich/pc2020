@@ -8,7 +8,7 @@ uniqueid = ""
 
 Dear citizens,
 
-We've missed you... But these past months we've been working on something that will give us a chance to reconnect. On July 1st and 2nd, we’ll be live streaming from the beautiful domain of Ribaucourt with some carefully selected artists and in presence of 200 lucky citizens each day. A kind of intimate edition of Paradise City.
+We've missed you... But in the past few months, we've been working on something that will give us a chance to reconnect. On July 1st and 2nd, we’ll be live streaming from the beautiful domain of Ribaucourt with some carefully selected artists and in presence of 200 lucky citizens each day. A kind of intimate edition of Paradise City.
 
 Line-up:
 
@@ -24,20 +24,21 @@ Grab your chance to win a boat for you and your friends! Winners will be contact
 
 ### **IMPORTANT INFO**
 
-▩ The event takes place on 2 days. Each winner can join us on 1 day.  
+▩ The event will take place on 2 days. Each winner can join us on 1 day.  
 ▩ Opening time : 18:00 - 22:00.  
 ▩ There will be drinks and food available, no orders at bars.  
 ▩ No dancing allowed on the boats. You can stand or sit.  
 ▩ No more than 8 people per boat. Be sure to meet up with your whole bubble before getting on your boat.  
 ▩ All personnel and crew will wear masks.  
 ▩ Wash and disinfect your hands whenever possible.  
-▩ Keep 1,5m distance from each other at all times.  
+▩ Respect social distancing. Keep 1,5m distance from each when queueing.  
 ▩ Please stay home if you feel sick or unwell.  
-▩ Bring your face mask with you, it will only serve in case of emergency.  
+▩ Bring your mask with you, it will only serve in case of emergency.  
 ▩ The Steenokkerzeel police insists that only people with an invitation should show up at the venue.  
 ▩ Winners of the contest will get additional guidelines in their mailbox.
 
-###   
+### 
+
 **LIVE STREAM**
 
-Because of the very limited capacity we wanted to push the barriers and be able to connect with as many citizens as possible. That’s why we will live stream the event via a dedicated platform created by Accenture interactive, in which friends can hop on virtual boats, invite friends and chat with them while enjoying the stream. More info on this next week!
+Because of the very limited capacity, we wanted to push the barriers and be able to connect with as many citizens as possible. That’s why we will live stream the event via a dedicated platform created by Accenture interactive, in which friends can hop on virtual boats, invite friends and chat with them while enjoying the stream. More info on this next week!
