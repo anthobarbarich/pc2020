@@ -16,7 +16,7 @@ Winners will be able to choose 7 of their friends to share their boat with (only
 
 ### LINE UP
 
-![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1592482849/artistsboats_qwzc0k.jpg)
+![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1592493996/artistsboats_2_wbp1ss.jpg)
 
 **Wednesday July 1st**
 
