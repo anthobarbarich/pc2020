@@ -18,7 +18,7 @@ On this special occasion, **_200 lucky citizens_** will be able to attend the ev
 
 Winners will be able to choose 7 people that will join them on the boat - only from their restricted 10-person bubble (family, roommates, close friends).
 
-Grab your chance to win a boat for you and your friends!
+Grab your chance to win a boat for you and your friends! Winners will be contacted by mail next week!
 
 <a class="btn" href="www.paradisecity.be/boatsregistration"> Participate Here </a>
 
