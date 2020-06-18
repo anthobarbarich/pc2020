@@ -1,6 +1,9 @@
 ---
 uniqueid: partners
 partner:
+- name: Audi
+  photo: "/v1592486414/audiwebsite_rdwqtp.png"
+  position: ''
 - name: Ginette
   photo: "/v1580823273/ginette-knipoog-logo_r3dmr3.png"
   position: https://www.ginettebeer.com/
