@@ -8,15 +8,23 @@ uniqueid = ""
 
 Dear citizens,
 
-We've missed you... But in the past few months, we've been working on something that will give us a chance to reconnect. On July 1st and 2nd, we’ll be live streaming from the beautiful domain of Ribaucourt with some carefully selected artists and in presence of 200 lucky citizens each day. A kind of intimate edition of Paradise City.
+We've missed you... But in the past few months, we've been working on something that will give us a chance to reconnect. On July 1st and 2nd, we’ll be live streaming from the beautiful domain of Ribaucourt with some carefully selected artists and in presence of 200 lucky citizens per day. A kind of intimate edition of Paradise City.
 
-Line-up:
+On this special occasion, **_200 lucky citizens_** per day will be able to attend the event for free and enjoy live concerts and DJ-sets, from boats. These boats will allow people to participate in the event in a corona proof way.
 
-**ÂME (Live) - BERAADGESLAGEN - CHARLOTTE ADIGÉRY - DTM FUNK - LEAFAR LEGOV - LOLA HARO**
+Winners will be able to choose 7 of their friends to share their boat with (only from your restricted 10-person bubble)! They will be contacted by e-mail next week!
 
-On this special occasion, **_200 lucky citizens_** will be able to attend the event for free and enjoy live concerts and DJ-sets, from boats. These boats will allow people to participate in the event in a corona proof way.
+**Wednesday July 1st**
 
-Winners will be able to choose 7 people that will join them on the boat - only from their restricted 10-person bubble (family, roommates, close friends).
+* Âme (live)
+* DTM Funk
+* Leafar Legov (Giegling)
+
+**Thursday July 2nd**
+
+* Beraadgeslagen
+* Charlotte Adigéry
+* Lola Haro
 
 Grab your chance to win a boat for you and your friends! Winners will be contacted by e-mail next week!
 
