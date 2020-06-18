@@ -33,7 +33,7 @@ Lola Haro
 
 Grab your chance to win a boat for you and your friends! Winners will be contacted by e-mail next week!
 
-<a class="btn" href="/boatsregistration"> Participate Here </a>
+<a class="btn" href="https://paradisecity.be/boats-live-stream/"> Participate Here </a>
 
 ### **IMPORTANT INFO**
 
