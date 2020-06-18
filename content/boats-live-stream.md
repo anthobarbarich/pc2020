@@ -14,6 +14,10 @@ On this special occasion, **_200 lucky citizens_** per day will be able to atten
 
 Winners will be able to choose 7 of their friends to share their boat with (only from your restricted 10-person bubble)! They will be contacted by e-mail next week!
 
+### LINE UP
+
+![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1592482849/artistsboats_qwzc0k.jpg)
+
 **Wednesday July 1st**
 
 * Âme (live)
