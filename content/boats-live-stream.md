@@ -12,24 +12,14 @@ We've been working on something that will give us a chance to reconnect. On July
 
 Line-up: 
 
-**ÂME (Live)**
-
-**BERAADGESLAGEN**
-
-**CHARLOTTE ADIGÉRY**
-
-**DTM FUNK**
-
-**LEAFAR LEGOV**
-
-**LOLA HARO**
+**ÂME (Live) - BERAADGESLAGEN - CHARLOTTE ADIGÉRY - DTM FUNK - LEAFAR LEGOV - LOLA HARO**
 
 On this special occasion, **_400 contest winners_** will be able to attend for free and live concerts and DJ-sets, from a boat. These boats will allow people to participate in the event in a corona proof way.
 
-Winners will be able to choose the 7 people who will join them on the boat - only from their restricted 10-person lockdown bubble (family, roommates, close friends). We will ask the lucky winners to share their guests’ names in advance so we can verify.
+Winners will be able to choose the 7 people who will join them on the boat - only from their restricted 10-person lockdown bubble (family, roommates, close friends).
 
 The event will be streamed online from 6 to 10pm via a dedicated platform created by Accenture interactive, in which you and your friends can hop on virtual boats and chat while enjoying the stream.
 
-Grab your chance to win a place on the boat by subscribing **here**.
+Grab your chance to win a place on the boat!
 
 <a class="btn" href="www.paradisecity.be/boatsregistration"> Register here </a>
