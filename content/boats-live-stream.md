@@ -18,15 +18,13 @@ Winners will be able to choose 7 of their friends to share their boat with (only
 
 ![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1592482849/artistsboats_qwzc0k.jpg)
 
-**Wednesday July 1st**
-
-Âme (live)  
+**Wednesday July 1st  
+**Âme (live)  
 DTM Funk  
 Leafar Legov (Giegling)
 
-**Thursday July 2nd**
-
-Beraadgeslagen  
+**Thursday July 2nd  
+**Beraadgeslagen  
 Charlotte Adigéry  
 Lola Haro
 
