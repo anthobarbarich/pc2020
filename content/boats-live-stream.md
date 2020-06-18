@@ -8,7 +8,7 @@ uniqueid = ""
 
 Dear citizens,
 
-We've missed you... But we've been working on something that will give us a chance to reconnect. On July 1st and 2nd, we’ll be live streaming from the beautiful domain of Ribaucourt with some carefully selected artists and in presence of 200 lucky citizens each day. A kind of intimate edition of Paradise City.
+We've missed you... But these past months we've been working on something that will give us a chance to reconnect. On July 1st and 2nd, we’ll be live streaming from the beautiful domain of Ribaucourt with some carefully selected artists and in presence of 200 lucky citizens each day. A kind of intimate edition of Paradise City.
 
 Line-up:
 
@@ -16,7 +16,7 @@ Line-up:
 
 On this special occasion, **_200 lucky citizens_** will be able to attend the event for free and enjoy live concerts and DJ-sets, from boats. These boats will allow people to participate in the event in a corona proof way.
 
-Winners will be able to choose the 7 people who will join them on the boat - only from their restricted 10-person lockdown bubble (family, roommates, close friends).
+Winners will be able to choose 7 people that will join them on the boat - only from their restricted 10-person bubble (family, roommates, close friends).
 
 #### **IMPORTANT INFO**
 
