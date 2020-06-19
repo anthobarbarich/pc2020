@@ -53,7 +53,7 @@ Grab your chance to win a boat for you and your friends! Winners will be contact
 
 **LIVE STREAM**
 
-Because of the very limited capacity, we wanted to push the barriers and be able to connect with as many citizens as possible. That’s why we will live stream the event via a dedicated platform created by Accenture interactive, in which friends can hop on virtual boats, invite friends and chat with them while enjoying the stream. More info on this next week!
+Due to the very limited capacity of the live event, we have worked with Accenture Interactive to push barriers and connect with as many citizens as possible. This year’s festival will also take place as an **interactive livestream event** that everyone can experience together on virtual boats. Create a boat and invite your friends to a private viewing party! More information available soon!
 
 This event was made possible thanks to our partners :
 
