@@ -13,7 +13,7 @@ Sadly, they have all been affected by the coronavirus crisis in the past months.
 
 To support them, **HERE** (lien URL)
 
-Some words :
+**![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1592822202/PC_20_Stagehosts_1_ikuujs.jpg)**
 
 **NICO MORANO**
 
