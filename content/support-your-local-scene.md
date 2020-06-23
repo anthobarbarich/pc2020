@@ -13,11 +13,23 @@ Sadly, they have all been affected by the coronavirus crisis in the past months.
 
 To support them, **HERE** (lien URL)
 
-**![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1592822202/PC_20_Stagehosts_1_ikuujs.jpg)**
+**PLAY LABEL RECORDS**
+
+The lockdown hit us hard as we were preparing for the summer season. While preparing for our biggest summer season since the launch of Play Label, we obviously had to cancel all our open air projects and put everyone out of work. At the very same time we also had to close our club (La Cabane) just before its first anniversary, which was quite tough and the prolonged closure of the area is becoming very hard to manage financially.
+
+We are on hold, we understand of course that it is impossible to open the clubs for health reasons but we deplore the lack of help from the federal government and support during these months of closures. It is also hard to understand that there are no new measures planned to enable outdoor events, given the rate at which the virus is spreading outdoors. 
+
+Beyond all that, this weekend we should be dancing all together! We are sad not to see the Paradise City family again and we wish courage to the whole team!
+
+**LOVE**
+
+13th March 2020, lockdown started... At first, I was feeling positive, I thought that really focusing on the times we're living in could be interesting, excluding any health risks of course. I quickly realised that nothing was going to be easy, that's when events started to get cancelled one after the other and I saw my horizon fall apart. Then came the dreaded news: Paradise City won't happen, summer will be DJ-free, no parties, no meetings, no adrenaline...
+
+How do I feel today? Empty, a feeling of uselessness in everything I do, because I don't know when or how we'll be able to let our passions be expressed once again. Being patient while keeping cool, thinking about tomorrow, producing music and believing that better times will come, this is what occupies my mind and my days.
+
+And my nights? I do something insane: I sleep. Hope to see you again soon...
 
 **NICO MORANO & Friends**
-
-![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1592826310/NicoMorano_ud2wwn.png)
 
 "The lockdown... Honestly, it has 2 sides for me: + and - . On the minus side, I sometimes felt a bit lonely and didn't know how to handle my 'empty weekends' a the beginning of the lockdown. But this changed after a few weeks and the plus side gained over the downside. I started to valuate even more friendship and appreciate more 'normal day to day conversations' with friends. I guess I even have more contact now with them than before. As I have more time on my hands during the time my friends are 'off' from work, I'm able to spend more time with them... so, this opens my eyes towards the future. On music level, I also only see positive sides, cause it made me explore other aspects in music, more downtempo, out of the box things. The result will be soon/heard released and I think it summarizes perfectly what the lockdown means to be. Another final plus is the fact that I'm definitely craving to be in front of a fully packed dance floor. The fact that I miss this sooooo much, means that I'm really loving my job. So I appreciate and valuate my 'job' even more than before.
 
@@ -25,13 +37,9 @@ Can only just hope everything goes into the right direction and we can all dance
 
 **SILO**
 
-![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1592826329/Silo_opupqy.png)
-
 "We do stand and applaud unity & solidarity"
 
 **ABSTRKT**
-
-![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1592826345/Abstrkt_lppha7.png)
 
 "Like all of us, the uncertainty of the situation for our sector was enormous. Suddenly there was time in abundance, I immediately realised that nature was screaming to slow down, to change our approach, that this pace and especially the way was not the right way.  With the time granted, I rediscovered my record collection and gave my usb playlist a huge upgrade, so it's bursting with new tunes...!
 
