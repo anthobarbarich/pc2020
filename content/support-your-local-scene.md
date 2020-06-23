@@ -13,21 +13,23 @@ Sadly, they have all been affected by the coronavirus crisis in the past months.
 
 To support them, **HERE** (lien URL)
 
+![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1592926188/supportyourlocalscene_iwpq2f.jpg)
+
 **PLAY LABEL RECORDS**
 
-The lockdown hit us hard as we were preparing for the summer season. While preparing for our biggest summer season since the launch of Play Label, we obviously had to cancel all our open air projects and put everyone out of work. At the very same time we also had to close our club (La Cabane) just before its first anniversary, which was quite tough and the prolonged closure of the area is becoming very hard to manage financially.
+"The lockdown hit us hard as we were preparing for the summer season. While preparing for our biggest summer season since the launch of Play Label, we obviously had to cancel all our open air projects and put everyone out of work. At the very same time we also had to close our club (La Cabane) just before its first anniversary, which was quite tough and the prolonged closure of the area is becoming very hard to manage financially.
 
-We are on hold, we understand of course that it is impossible to open the clubs for health reasons but we deplore the lack of help from the federal government and support during these months of closures. It is also hard to understand that there are no new measures planned to enable outdoor events, given the rate at which the virus is spreading outdoors. 
+We are on hold, we understand of course that it is impossible to open the clubs for health reasons but we deplore the lack of help from the federal government and support during these months of closures. It is also hard to understand that there are no new measures planned to enable outdoor events, given the rate at which the virus is spreading outdoors.
 
-Beyond all that, this weekend we should be dancing all together! We are sad not to see the Paradise City family again and we wish courage to the whole team!
+Beyond all that, this weekend we should be dancing all together! We are sad not to see the Paradise City family again and we wish courage to the whole team!"
 
 **LOVE**
 
-13th March 2020, lockdown started... At first, I was feeling positive, I thought that really focusing on the times we're living in could be interesting, excluding any health risks of course. I quickly realised that nothing was going to be easy, that's when events started to get cancelled one after the other and I saw my horizon fall apart. Then came the dreaded news: Paradise City won't happen, summer will be DJ-free, no parties, no meetings, no adrenaline...
+"13th March 2020, lockdown started... At first, I was feeling positive, I thought that really focusing on the times we're living in could be interesting, excluding any health risks of course. I quickly realised that nothing was going to be easy, that's when events started to get cancelled one after the other and I saw my horizon fall apart. Then came the dreaded news: Paradise City won't happen, summer will be DJ-free, no parties, no meetings, no adrenaline...
 
 How do I feel today? Empty, a feeling of uselessness in everything I do, because I don't know when or how we'll be able to let our passions be expressed once again. Being patient while keeping cool, thinking about tomorrow, producing music and believing that better times will come, this is what occupies my mind and my days.
 
-And my nights? I do something insane: I sleep. Hope to see you again soon...
+And my nights? I do something insane: I sleep. Hope to see you again soon..."
 
 **NICO MORANO & Friends**
 
@@ -48,3 +50,11 @@ The clearer it became that the virus has such an impact on health and the econom
 We are all creative and supportive, hands have been handed out from unexpected angles to work together. Personally, this gave me a lot of courage not to let myself be caught by shouting that we are in trouble and are the victims. Yes, we're in the middle of it, but it doesn't help us if we keep getting caught.
 
 So there are some challenges ahead: the biggest challenge I'm going to take on is as sound director for Sonhouse (sound agency located in Brussels) which will focus on the fashion and lifestyle world.  Furthermore, there are some ideas bubbling up, so I can't say anything about that yet..."
+
+**C12**
+
+"When we first started C12 in February 2018, we had no clue what was about to happen. Not in our wildest dream we had expected such a rollercoaster of energizing nights, outstanding DJ or live acts, new friendships, emerging connections and theatre, dance or art performances, tattoo days, audio-visual nights, ...
+
+Neither had we envisioned a worldwide health crisis that would keep our doors shut for months, leading us to unprecedented financial challenges. But we aren't finished yet. We wish to keep offering our safe space and the convening power of culture and music to our eclectic audience. We wish to maintain the freedom we experience in and around C12, which we see as a shared good between you and us.
+
+With our doors closed since March 8th and no prospect of reopening yet, the financial impact of the crisis weighs significantly. C12 team wishes to express eternal gratitude to everyone for the support. We will never be able to thank you enough."
