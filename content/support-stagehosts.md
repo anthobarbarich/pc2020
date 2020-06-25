@@ -12,8 +12,6 @@ Sadly, they have all been affected by the coronavirus crisis in the past months.
 
 Scan with your smartphone and support with Payconiq by Bancontact:
 
-![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593080875/qr-code-2-FINAL_shqety.jpg)
-
 ![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1592926188/supportyourlocalscene_iwpq2f.jpg)
 
 **PLAY LABEL RECORDS**
