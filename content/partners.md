@@ -15,7 +15,7 @@ partner:
   position: https://www.audi.be/
 - name: Accenture
   photo: "/v1592998683/accentureweblogo_ytubyq.png"
-  position: ''
+  position: https://www.accenture.com/be-en
 - name: FOCUS Knack
   photo: "/v1580823503/knack_72_rgb-2_a27m8e.png"
   position: https://focus.levif.be/culture/
