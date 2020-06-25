@@ -4,6 +4,8 @@ title = "Support your local scene"
 uniqueid = ""
 
 +++
+![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1592821874/ParadiseCity2019-PhotobyFilleRoelants-272_vjbr6l.jpg)
+
 Every year, we partner up with stage hosts to select the line up and create a memorable experience for you. They represent part of the local scene and are the ones that make you dance week after week.
 
 Sadly, they have all been affected by the coronavirus crisis in the past months. Many beautiful projects on which they have been working for months had to be cancelled and now they need our support.
