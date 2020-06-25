@@ -14,7 +14,7 @@ Scan with your smartphone and support with Payconiq by Bancontact:
 
 ![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593081314/qr-code-2-FINAL-website_kqxq59.png)
 
-![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1592926188/supportyourlocalscene_iwpq2f.jpg)
+![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593082169/supportyourlocalscene-website_h2jwic.png)
 
 **PLAY LABEL RECORDS**
 
