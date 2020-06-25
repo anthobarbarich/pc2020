@@ -10,7 +10,9 @@ Every year, we partner up with stage hosts to select the line up and create a me
 
 Sadly, they have all been affected by the coronavirus crisis in the past months. Many beautiful projects on which they have been working for months had to be cancelled and now they need our support.
 
-To support them, **HERE** (lien URL)
+Scan with your smartphone and support with Payconiq by Bancontact:
+
+![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593080875/qr-code-2-FINAL_shqety.jpg)
 
 ![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1592926188/supportyourlocalscene_iwpq2f.jpg)
 
