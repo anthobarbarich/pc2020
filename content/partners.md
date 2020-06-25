@@ -12,7 +12,7 @@ partner:
   position: https://www.payconiq.be/en
 - name: Audi
   photo: "/v1592486414/audiwebsite_rdwqtp.png"
-  position: ''
+  position: https://www.audi.be/
 - name: Accenture
   photo: "/v1592998683/accentureweblogo_ytubyq.png"
   position: ''
