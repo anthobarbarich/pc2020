@@ -2,7 +2,7 @@
 date = 2020-06-25T13:53:24Z
 layout = "blog"
 thumbnail = "/v1592821874/ParadiseCity2019-PhotobyFilleRoelants-272_vjbr6l.jpg"
-title = ""
+title = "Support your local scene"
 
 +++
 Every year, we partner up with stage hosts to select the line up and create a memorable experience for you. They represent part of the local scene and are the ones that make you dance week after week.
