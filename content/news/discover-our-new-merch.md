@@ -6,10 +6,8 @@ title = "Discover our new merch"
 
 +++
 We have produced a new range of Paradise City-inspired t-shirts and  
-hoodies. We're super excited to present our new 2020 merchandising !
-
-Make your pick from our eco-friendly and unisex collection [**here**](https://paradisecitystore.be/).
-
+hoodies. We're super excited to present our new 2020 merchandising !  
+Make your pick from our eco-friendly and unisex collection [**here**](https://paradisecitystore.be/).  
 All clothes are made from 100% recycled materials. Get on board and freshen up your summer wardrobe while supporting your favourite festival.
 
 <a class="btn" href="https://paradisecitystore.be/"> GO TO MERCH </a>
