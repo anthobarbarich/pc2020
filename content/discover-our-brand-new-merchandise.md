@@ -13,6 +13,8 @@ Make your pick from our eco-friendly and unisex collection [**here**](https://pa
 
 All clothes are made from 100% recycled materials. Get on board and freshen up your summer wardrobe while supporting your favourite festival.
 
+<a class="btn" href="https://paradisecitystore.be/"> Go to merch </a>
+
 ![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593077943/DSC02634-Edit-Edit-2_kopie_yqdhca.jpg)
 
 ![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593077993/DSC02755-Edit-Edit_kopie_hpd7pa.jpg)
