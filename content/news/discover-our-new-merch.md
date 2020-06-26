@@ -5,8 +5,6 @@ thumbnail = "/v1593071600/DSC02596_kopie_u5msbi.jpg"
 title = "Discover our new merch"
 
 +++
-![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593071600/DSC02596_kopie_u5msbi.jpg)
-
 We have produced a new range of Paradise City-inspired t-shirts and  
 hoodies. We're super excited to present our new 2020 merchandising !
 
