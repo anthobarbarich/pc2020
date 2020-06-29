@@ -54,7 +54,7 @@ We are all creative and supportive, hands have been handed out from unexpected a
 
 So there are some challenges ahead: the biggest challenge I'm going to take on is as sound director for Sonhouse (sound agency located in Brussels) which will focus on the fashion and lifestyle world.  Furthermore, there are some ideas bubbling up, so I can't say anything about that yet..."
 
-> ![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593443465/104626277_1338270899839279_6644396475340731462_n_y2csug.jpg "© ABSTRKT")
+![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593443465/104626277_1338270899839279_6644396475340731462_n_y2csug.jpg "© ABSTRKT")
 
 **C12**
 
