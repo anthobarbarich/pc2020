@@ -24,7 +24,7 @@ We are on hold, we understand of course that it is impossible to open the clubs 
 
 Beyond all that, this weekend we should be dancing all together! We are sad not to see the Paradise City family again and we wish courage to the whole team!"
 
-![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593443471/105407229_268198727836978_5416773379609777482_n_hoblo1.jpg "© La Cabane")
+![© La Cabane](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593551022/A_ymifen.png)
 
 **LOVE**
 
@@ -34,11 +34,15 @@ How do I feel today? Empty, a feeling of uselessness in everything I do, because
 
 And my nights? I do something insane: I sleep. Hope to see you again soon..."
 
+![© LOVE](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593551052/E_dquvoh.png)
+
 **NICO MORANO & FRIENDS**
 
 "The lockdown... Honestly, it has 2 sides for me: + and - . On the minus side, I sometimes felt a bit lonely and didn't know how to handle my 'empty weekends' a the beginning of the lockdown. But this changed after a few weeks and the plus side gained over the downside. I started to valuate even more friendship and appreciate more 'normal day to day conversations' with friends. I guess I even have more contact now with them than before. As I have more time on my hands during the time my friends are 'off' from work, I'm able to spend more time with them... so, this opens my eyes towards the future. On music level, I also only see positive sides, cause it made me explore other aspects in music, more downtempo, out of the box things. The result will be soon/heard released and I think it summarizes perfectly what the lockdown means to be. Another final plus is the fact that I'm definitely craving to be in front of a fully packed dance floor. The fact that I miss this sooooo much, means that I'm really loving my job. So I appreciate and valuate my 'job' even more than before.
 
 Can only just hope everything goes into the right direction and we can all dance together again. Was mega looking forward to host the beautiful 'golden sunset' stage on Sunday again. But let's look at it from the bright side. There is always... another year, cause ... good things will stay forever. Paradise City is there to stay and I'm not planning to go neither. So dear PCF citizens, keep the faith and be kind to each other as you always did. One big happy family ❤️"
+
+![© Nico Morano & Friends](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593551072/C_tgxyt8.png)
 
 **SILO**
 
@@ -54,7 +58,7 @@ We are all creative and supportive, hands have been handed out from unexpected a
 
 So there are some challenges ahead: the biggest challenge I'm going to take on is as sound director for Sonhouse (sound agency located in Brussels) which will focus on the fashion and lifestyle world.  Furthermore, there are some ideas bubbling up, so I can't say anything about that yet..."
 
-![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593443465/104626277_1338270899839279_6644396475340731462_n_y2csug.jpg "© ABSTRKT")
+![© ABSTRKT](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593551121/B_we3xnl.png)
 
 **C12**
 
@@ -64,8 +68,8 @@ Neither had we envisioned a worldwide health crisis that would keep our doors sh
 
 With our doors closed since March 8th and no prospect of reopening yet, the financial impact of the crisis weighs significantly. C12 team wishes to express eternal gratitude to everyone for the support. We will never be able to thank you enough."
 
+![© C12](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593551144/D_zysfwe.png)
+
 **HANGAR**
 
 "Like many others within the events community, we have had our daily life turned upside down as our events are postponed, our projects put on hold and our summer plans cancelled. However, although we are extremely sad to not be able to host an event for our community, we believe that every cloud has a silver lining. The Covid-19 crisis has forced us, like many, to rely on our creativity and resourcefulness to make the best of a difficult situation. Furthermore, we felt as though we still had a duty to entertain our audience, but also support our heroes on the front line during the pandemic. This explains our decision to stream live DJ sets from unique locations online in order to raise money for charity - an initiative that was supported by our incredible community. The same community that kept Hangar alive by not requesting refunds for our postponed event or that continues to support clubs and events across the country any way they can. We’d like to say thank you to that community and hopefully see you soon."
-
-![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593443491/106192939_702296417283343_7846739607656886304_n_xtrskp.jpg "© Hangar")
