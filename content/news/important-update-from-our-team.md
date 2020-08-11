@@ -1,7 +1,7 @@
 +++
 date = 2020-08-11T12:07:06Z
 layout = "blog"
-thumbnail = "/v1597147641/117751251_2700589443539279_5751082441663864578_o_xmu0le.jpg"
+thumbnail = "/v1597147874/1_u5hvaj.jpg"
 title = "Important update from our team"
 
 +++
