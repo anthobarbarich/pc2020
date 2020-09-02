@@ -16,11 +16,11 @@ fields:
   label: Image Opengraph
   description: 1080x1080 or 1200x650
 pages:
+- content/PDBTLcontest.md
 - content/boats-live-stream.md
 - content/boats-registration.md
 - content/get-involved.md
 - content/livestream.md
 - content/merchandising.md
-- content/paradisedownbythelakecontest.md
 - content/steenokkerzeel.md
 - content/support-your-local-scene.md
