@@ -17,12 +17,11 @@ More info about this initiative can be found [here](https://www.paradisecity.be/
 **To donate and participate you need to :**
 
 1. Install and open the Payconiq by Bancontact app.
-2. Open the retailer list.
-3. No access to the retailer list? No problem. In the Payconiq by Bancontact app, click on the shopping list icon and register for Payconiq in the app.
-4. Select “support your local scene” from the retailer list.
-5. Every time you make a transaction it is a valid entry to the contest.
-6. You must include your phone number in the communication.
-
-   Watch out, only donations of at least 0.50 cents count.
+2. Open de ‘Shops’ list
+3. No access to the Shops list? No problem. In the Payconiq by Bancontact app, just click on the Shops icon and add your bank account to the app.
+4. Select “support your local scene” from the shops list.
+5. Make a transaction and include your phone number in the message (so we can contact you if you win). Watch out: Only donations of at least 0,5 cents count!
+6. Every transaction of minimum 0,5 cents counts as a valid entry to the contest, so you can do as much as you want!   
+   **Good luck!**
 
 ![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1599058416/_06A5724_dnnbz0.jpg)
