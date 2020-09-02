@@ -10,12 +10,6 @@ Every year, we partner up with stage hosts to select the line up and create a me
 
 Sadly, they have all been affected by the coronavirus crisis in the past months. Many beautiful projects on which they have been working for months had to be cancelled and now they need our support.
 
-Scan with your smartphone and support with the Payconiq by Bancontact app :
-
-![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593081314/qr-code-2-FINAL-website_kqxq59.png)
-
-![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593082169/supportyourlocalscene-website_h2jwic.png)
-
 **PLAY LABEL RECORDS**
 
 "The lockdown hit us hard as we were preparing for the summer season. While preparing for our biggest summer season since the launch of Play Label, we obviously had to cancel all our open air projects and put everyone out of work. At the very same time we also had to close our club (La Cabane) just before its first anniversary, which was quite tough and the prolonged closure of the area is becoming very hard to manage financially.
