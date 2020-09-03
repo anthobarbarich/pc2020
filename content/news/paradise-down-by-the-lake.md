@@ -1,6 +1,5 @@
 +++
 date = 2020-09-03T11:37:05Z
-draft = true
 layout = "blog"
 thumbnail = "/v1599136388/banner2_gpjklx.jpg"
 title = "Paradise Down by the Lake"
@@ -52,3 +51,7 @@ Elli - Map.ache (Live) - Leafar Legov (Live) - Lawrence
 #### Location
 
 Discover our magical venue right next to Brussels...
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/LGBTekdgAVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+More info right [here.](www.paradisedownbythelake.be)
