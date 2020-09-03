@@ -41,9 +41,8 @@ Move D - Møzaika (Live) - Nixie
 **FRIDAY l SEPTEMBER 18th l C12**  
 Donna Leake - AliA - Chris Ferreira
 
-**SATURDAY l SEPTEMBER 19th**
-
-Motor City Drum Ensemble - Gigi Masin - Renaat Vandepapeliere - Anna Yad - Kim Kenis
+**SATURDAY l SEPTEMBER 19th  
+**Motor City Drum Ensemble - Gigi Masin - Renaat Vandepapeliere - Anna Yad - Kim Kenis
 
 **SUNDAY l SEPTEMBER 20th l Giegling**  
 Elli - Map.ache (Live) - Leafar Legov (Live) - Lawrence
