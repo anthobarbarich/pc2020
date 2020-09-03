@@ -2,7 +2,7 @@
 date = 2020-09-03T11:37:05Z
 draft = true
 layout = "blog"
-thumbnail = "/v1599039494/BannerPDBTL_aifysd.jpg"
+thumbnail = "/v1599136388/banner2_gpjklx.jpg"
 title = "Paradise Down by the Lake"
 
 +++
