@@ -5,9 +5,9 @@ thumbnail = "/v1599136388/banner2_gpjklx.jpg"
 title = "Paradise Down by the Lake"
 
 +++
-## **Paradise Down by the Lake**
+# **Paradise Down by the Lake**
 
-#### 10-13 & 17-20 September l Domain Calmeyn - Drogenbos
+### 10-13 & 17-20 September l Domain Calmeyn - Drogenbos
 
 Paradise Down by the Lake is as emotionally stirring as it is mentally evocative, it’s an experience that brings together sound design & cinematic ideas to recreate a multi-sensory exploration that puts you as the central character in an expressive musical world.
 
@@ -15,7 +15,7 @@ The journey will take place on a beautiful private lake during 8 sessions, each 
 
 **Find Yourself.**
 
-#### Music
+## Music
 
 ![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1599133180/bannerlineup_pxhpnb.jpg)
 
@@ -47,7 +47,7 @@ Donna Leake - AliA - Chris Ferreira
 **SUNDAY l SEPTEMBER 20th l Giegling**  
 Elli - Map.ache (Live) - Leafar Legov (Live) - Lawrence
 
-#### Location
+## Location
 
 Discover our magical venue right next to Brussels...
 
