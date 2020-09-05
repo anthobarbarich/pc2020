@@ -41,8 +41,8 @@ Move D - Møzaika (Live) - Nixie
 **FRIDAY l SEPTEMBER 18th l C12**  
 Donna Leake - AliA - Chris Ferreira
 
-**SATURDAY l SEPTEMBER 19th  
-**Motor City Drum Ensemble - Gigi Masin - Renaat Vandepapeliere - Anna Yad - Kim Kenis
+\**SATURDAY l SEPTEMBER 19th  
+\**Motor City Drum Ensemble - Gigi Masin - Renaat Vandepapeliere - Anna Yad - Kim Kenis
 
 **SUNDAY l SEPTEMBER 20th l Giegling**  
 Elli - Map.ache (Live) - Leafar Legov (Live) - Lawrence
@@ -53,4 +53,4 @@ Discover our magical venue right next to Brussels...
 
 <iframe width="560" height="415" src="https://www.youtube.com/embed/LGBTekdgAVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-More info right [here.](www.paradisedownbythelake.be)
+More info on : www.paradisedownbythelake.be
