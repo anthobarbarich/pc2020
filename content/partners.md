@@ -11,7 +11,7 @@ partner:
   photo: "/v1580823273/logopayconiq_lkedqi.png"
   position: https://www.payconiq.be/en
 - name: Trax
-  photo: "/v1599486561/Trax-logo-noir_20150723_1_vg4g14.jpg"
+  photo: "/v1599487268/Trax-logo-noir_20150723_1_a7aswy.png"
   position: https://www.traxmag.com/
 - name: Audi
   photo: "/v1592486414/audiwebsite_rdwqtp.png"
