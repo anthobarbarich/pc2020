@@ -8,7 +8,7 @@ uniqueid = ""
 
 Thanks to our partner **Payconiq by Bancontact,** who's making our event completely safe by offering an easy and corona friendly payment system, you can win a boat for you and 7 of your friends on Thursday September 17th with Move D, Mozaika & Nixie.
 
-To participate you need to make a donation to Support Your Local Scene. We launched this initiative earlier this year to support some local actors of the night industry in these difficult times.
+**To participate you need to make a donation to Support Your Local Scene.** We launched this initiative earlier this year to support some local actors of the night industry in these difficult times.
 
 _Every year, we partner up with stage hosts to select the line up and create a memorable experience for you. They represent part of the local scene and are the ones that make you dance week after week. Sadly, they have all been affected by the coronavirus crisis in the past months. Many beautiful projects on which they have been working for months had to be cancelled and now they need our support._
 
