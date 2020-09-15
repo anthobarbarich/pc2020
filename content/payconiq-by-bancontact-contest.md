@@ -14,6 +14,12 @@ _Every year, we partner up with stage hosts to select the line up and create a m
 
 More info about this initiative can be found [here](https://www.paradisecity.be/support-your-local-scene/).
 
+**To donate and participate, scan this QR code and make a donation.**
+
+![](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593081314/qr-code-2-FINAL-website_kqxq59.png)
+
+## OR
+
 **To donate and participate you need to :**
 
 1. Install and open the Payconiq by Bancontact app.
