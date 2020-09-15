@@ -32,7 +32,9 @@ And my nights? I do something insane: I sleep. Hope to see you again soon..."
 
 **UNDER MY GARAGE**
 
-"We are alone, therefore we have to come together"
+"We are alone, therefore we have to come together.
+
+This is a call for hope and solidarity. It is an entire ecosystem of structurally fragile organisations, associations and companies which has been crippled. We independents indeed find ourselves in a particularly critical situation among this colourful and pluriform fabric of actors facing different fates in the crisis. While a majority of established cultural institutions enjoying funding and stewardship from public authorities will power through this moment, the crisis has fueled the monopolistic appetite of international groups and state-owned investment funds, for which fragile independent structures are ideal targets, especially in Europe."
 
 **NICO MORANO & FRIENDS**
 
