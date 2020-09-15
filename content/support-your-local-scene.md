@@ -30,6 +30,10 @@ And my nights? I do something insane: I sleep. Hope to see you again soon..."
 
 ![© LOVE](https://res.cloudinary.com/dxswtxauo/image/upload/w_1000/f_auto/v1593551052/E_dquvoh.png)
 
+**UNDER MY GARAGE**
+
+"We are alone, therefore we have to come together"
+
 **NICO MORANO & FRIENDS**
 
 "The lockdown... Honestly, it has 2 sides for me: + and - . On the minus side, I sometimes felt a bit lonely and didn't know how to handle my 'empty weekends' a the beginning of the lockdown. But this changed after a few weeks and the plus side gained over the downside. I started to valuate even more friendship and appreciate more 'normal day to day conversations' with friends. I guess I even have more contact now with them than before. As I have more time on my hands during the time my friends are 'off' from work, I'm able to spend more time with them... so, this opens my eyes towards the future. On music level, I also only see positive sides, cause it made me explore other aspects in music, more downtempo, out of the box things. The result will be soon/heard released and I think it summarizes perfectly what the lockdown means to be. Another final plus is the fact that I'm definitely craving to be in front of a fully packed dance floor. The fact that I miss this sooooo much, means that I'm really loving my job. So I appreciate and valuate my 'job' even more than before.
